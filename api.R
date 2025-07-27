@@ -12,7 +12,7 @@ fix_advancement_id <- function(advancement_id) {
         str_replace("husbandry.netherite_hoe", "husbandry.obtain_netherite_hoe")
     
 }
-language <- jsonlite::read_json("Language.json")
+language <- jsonlite::read_json("raw-data/Language.json")
 advancements <- tibble(advancement = unlist(language), advancement_id = names(language)) |>
     filter(advancement_id |> startsWith("advancements.")) |>
     filter(advancement_id |> endsWith(".title")) |>
@@ -51,7 +51,7 @@ timeline <- function(match) {
 }
 
 
-matches <- read.csv("MatchIDs_07-27.csv") |>
+matches <- read.csv("raw-data/MatchIDs_07-27.csv") |>
     tibble() |>
     rlang::set_names("match_id", "api_id") |>
     filter(!is.na(api_id)) |>

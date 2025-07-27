@@ -2,6 +2,8 @@
 
 Datasets and Statistics about the Most% 2 Tournament
 
+Tournament Discord: <https://bit.ly/most_percent>
+
 Most% 2 Organised by OlverMCSR: <https://x.com/olivermcsr>
 
 Data: [/data](/data)

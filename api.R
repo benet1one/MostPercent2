@@ -3,6 +3,7 @@ library(dplyr)
 library(httr2)
 library(stringr)
 
+# Reading Data ---------------------------------------------------------------
 base_url <- "https://api.mcsrranked.com/"
 
 fix_advancement_id <- function(advancement_id) {
@@ -61,5 +62,18 @@ matches <- read.csv("raw-data/MatchIDs_07-27.csv") |>
            timeline = list(timeline(match_data)),
            match_data = NULL)
 
+# Saving Data --------------------------------------------------------
+saveRDS(matches, file = "data/matches.RDS")
 
+matches |> 
+    select(match_id, api_id, datetime) |>
+    write.csv(file = "data/matches.csv")
 
+for (k in 1:nrow(matches)) {
+    filename <- paste0("data/timelines/", matches$match_id[k], ".csv")
+    timeline <- matches$timeline[[k]] |>
+        mutate(time_ms = as.integer(time * 1000), .after = time) |>
+        select(!time)
+
+    write.csv(timeline, file = filename)
+}

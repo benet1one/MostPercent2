@@ -2,27 +2,26 @@
 library(dplyr)
 matches <- readRDS("data/matches.RDS")
 
-advancement_timeline <- function(match_id, timeline, standings, timepoints = seq(0, 3600, 10)) {
-    st <- standings |>
-        select(player) |>
-        mutate(standing = 6:1)
-    
-    tl <- timeline |>
-        filter(is.na(ranked_event)) |>
-        left_join(st)
-    
-    expand.grid(standing = 1:6, time = timepoints) |>
+advancement_timeline <- function(match_id, timeline, standings, timepoints = seq(0, 3600, 60)[-1]) {
+    expand.grid(player = unique(timeline$player), time = timepoints) |>
         tibble() |>
         rowwise() |>
-        mutate(n_advancements = advancements_by(tl, standing, time)) |>
+        mutate(n_advancements = advancements_by(timeline, standing, time)) |>
         mutate(match_id = match_id, .before = 1L) |>
-        ungroup()
+        ungroup() |>
+        left_join(select(standings, player, standing))
 }
 
 advancements_by <- function(timeline, standing, time) {
     timeline |>
-        filter(standing == !!standing, round(time, 1) <= !!time) |>
+        filter(is.na(ranked_event), 
+               standing == !!standing, 
+               round(time, 1) <= !!time) |>
         nrow()
 }
 
 
+advancements <- matches |>
+    select(match_id, timeline, standings) |>
+    rowwise() |>
+    mutate(adv_timeline = list(advancement_timeline(match_id, timeline, standings)))

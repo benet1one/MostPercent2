@@ -19,9 +19,21 @@ advancements <- tibble(advancement = unlist(language), advancement_id = names(la
     filter(advancement_id |> endsWith(".title")) |>
     mutate(advancement_id = fix_advancement_id(advancement_id))
 
+
+# Nicknames ----------------------------------------------------
+best_username <- function(user) {
+    if (length(user$connections$twitch) == 0L) {
+        user$nickname
+    } else {
+        user$connections$twitch$name
+    }
+}
+
 # Complex Data --------------------------------------------------
 parse_timeline <- function(match) {
-    players <- bind_rows(match$players)
+    pl <- bind_rows(match$players) |>
+        left_join(players, by = "uuid")
+        
     bind_rows(match$timeline) |>
         mutate(time = hms::hms(time/1000)) |>
         arrange(time) |>
@@ -35,9 +47,7 @@ parse_timeline <- function(match) {
             true = str_remove(type, "^projectelo.timeline.")
         )) |>
         
-        rename(player = nickname) |>
         select(player, time, advancement, ranked_event) |>
-        
         group_by(player) |>
         mutate(n_advancements = cumsum(!is.na(advancement))) |>
         ungroup()
@@ -85,7 +95,7 @@ get_standings <- function(eliminations, timeline) {
     standings
 }
 
-# Saving Data --------------------------------------------------------
+# Main Datasets ----------------------------------------------------
 matches <- read.csv("raw-data/MatchIDs_07-27.csv") |>
     tibble() |>
     rlang::set_names("match_id", "api_id") |>
@@ -94,8 +104,22 @@ matches <- read.csv("raw-data/MatchIDs_07-27.csv") |>
     mutate(stage = as.integer(substring(match_id, 1, 1)),
            group = substring(match_id, 2, 2),
            .after = match_id) |>
-    mutate(match_data = list(get_match(api_id)),
-           datetime = as.POSIXct(match_data$date, tz = "UTC"),
+    mutate(match_data = list(get_match(api_id)))
+
+players <- matches$match_data |>
+    purrr::map(\(md) md$players) |>
+    bind_rows() |>
+    distinct(uuid, .keep_all = TRUE) |>
+    rowwise() |>
+    mutate(player = best_username(get_user(uuid)), .before = nickname) |>
+    rename(ign = nickname) |>
+    within({
+        player[ign == "NOHACKSJUSTTIGER"] <- "TigerMCSR"
+        player[ign == "L9_FOXGIRLPAWJOB"] <- "chrisXD"
+    })
+
+matches <- matches |>
+    mutate(datetime = as.POSIXct(match_data$date, tz = "UTC"),
            timeline = list(parse_timeline(match_data)),
            eliminations = list(get_eliminations(timeline)),
            tiebreaks = list(get_tiebreaks(eliminations, timeline, match_id)),
@@ -108,6 +132,9 @@ tiebreaks <- bind_rows(matches$tiebreaks) |>
 
 matches$eliminations <- NULL
 matches$tiebreaks <- NULL
+
+
+# Saving Data ---------------------------------------------------
 saveRDS(matches, file = "data/matches.RDS")
 saveRDS(tiebreaks, file = "data/tiebreaks.RDS")
 
@@ -129,5 +156,3 @@ for (k in 1:nrow(matches)) {
     
     write.csv(timeline, file = filename)
 }
-
-

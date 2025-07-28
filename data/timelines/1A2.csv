@@ -1,278 +1,278 @@
 "","player","time","time_ms","advancement","ranked_event","n_advancements"
-"1","Oxidiot",00:00:34.011,34011,"Stone Age",NA,1
-"2","Oxidiot",00:00:34.220,34220,"Acquire Hardware",NA,2
-"3","hackingnoises",00:00:36.221,36221,"Stone Age",NA,1
+"1","oxidiot",00:00:34.011,34011,"Stone Age",NA,1
+"2","oxidiot",00:00:34.220,34220,"Acquire Hardware",NA,2
+"3","hackingnoisess",00:00:36.221,36221,"Stone Age",NA,1
 "4","dbowzer",00:00:36.227,36227,"Stone Age",NA,1
 "5","dbowzer",00:00:37.128,37128,"Acquire Hardware",NA,2
-"6","hackingnoises",00:00:37.624,37624,"Acquire Hardware",NA,2
-"7","drx6",00:00:39.028,39028,"Stone Age",NA,1
-"8","NOHACKSJUSTTIGER",00:00:40.206,40206,"Stone Age",NA,1
-"9","NOHACKSJUSTTIGER",00:00:40.402,40402,"Acquire Hardware",NA,2
-"10","drx6",00:00:40.466,40466,"Acquire Hardware",NA,2
-"11","4antoo",00:00:41.216,41216,"Stone Age",NA,1
-"12","4antoo",00:00:41.811,41811,"Acquire Hardware",NA,2
-"13","NOHACKSJUSTTIGER",00:01:10.458,70458,"What a Deal!",NA,3
-"14","NOHACKSJUSTTIGER",00:01:12.534,72534,"A Seedy Place",NA,4
+"6","hackingnoisess",00:00:37.624,37624,"Acquire Hardware",NA,2
+"7","draconix6",00:00:39.028,39028,"Stone Age",NA,1
+"8","TigerMCSR",00:00:40.206,40206,"Stone Age",NA,1
+"9","TigerMCSR",00:00:40.402,40402,"Acquire Hardware",NA,2
+"10","draconix6",00:00:40.466,40466,"Acquire Hardware",NA,2
+"11","NottAntoo",00:00:41.216,41216,"Stone Age",NA,1
+"12","NottAntoo",00:00:41.811,41811,"Acquire Hardware",NA,2
+"13","TigerMCSR",00:01:10.458,70458,"What a Deal!",NA,3
+"14","TigerMCSR",00:01:12.534,72534,"A Seedy Place",NA,4
 "15","dbowzer",00:01:13.034,73034,"What a Deal!",NA,3
-"16","hackingnoises",00:01:19.865,79865,"Getting an Upgrade",NA,3
-"17","hackingnoises",00:01:19.869,79869,"Isn't It Iron Pick",NA,4
-"18","drx6",00:01:25.311,85311,"Getting an Upgrade",NA,3
+"16","hackingnoisess",00:01:19.865,79865,"Getting an Upgrade",NA,3
+"17","hackingnoisess",00:01:19.869,79869,"Isn't It Iron Pick",NA,4
+"18","draconix6",00:01:25.311,85311,"Getting an Upgrade",NA,3
 "19","dbowzer",00:01:26.909,86909,"A Seedy Place",NA,4
-"20","drx6",00:01:32.661,92661,"Isn't It Iron Pick",NA,4
-"21","Oxidiot",00:01:35.677,95677,"What a Deal!",NA,3
-"22","4antoo",00:01:37.707,97707,"Getting an Upgrade",NA,3
-"23","4antoo",00:01:37.751,97751,"Isn't It Iron Pick",NA,4
+"20","draconix6",00:01:32.661,92661,"Isn't It Iron Pick",NA,4
+"21","oxidiot",00:01:35.677,95677,"What a Deal!",NA,3
+"22","NottAntoo",00:01:37.707,97707,"Getting an Upgrade",NA,3
+"23","NottAntoo",00:01:37.751,97751,"Isn't It Iron Pick",NA,4
 "24","dbowzer",00:01:38.182,98182,"Getting an Upgrade",NA,5
-"25","hackingnoises",00:02:06.119,126119,"What a Deal!",NA,5
-"26","drx6",00:02:19.588,139588,"A Seedy Place",NA,5
-"27","NOHACKSJUSTTIGER",00:02:20.150,140150,"Getting an Upgrade",NA,5
-"28","NOHACKSJUSTTIGER",00:02:20.185,140185,"Isn't It Iron Pick",NA,6
-"29","Oxidiot",00:02:21.436,141436,"Tactical Fishing",NA,4
-"30","hackingnoises",00:02:31.657,151657,"A Seedy Place",NA,6
-"31","drx6",00:02:32.196,152196,"What a Deal!",NA,6
-"32","Oxidiot",00:02:34.159,154159,"Isn't It Iron Pick",NA,5
-"33","Oxidiot",00:02:34.243,154243,"Getting an Upgrade",NA,6
-"34","NOHACKSJUSTTIGER",00:02:34.437,154437,"Tactical Fishing",NA,7
-"35","drx6",00:02:36.132,156132,"Tactical Fishing",NA,7
+"25","hackingnoisess",00:02:06.119,126119,"What a Deal!",NA,5
+"26","draconix6",00:02:19.588,139588,"A Seedy Place",NA,5
+"27","TigerMCSR",00:02:20.150,140150,"Getting an Upgrade",NA,5
+"28","TigerMCSR",00:02:20.185,140185,"Isn't It Iron Pick",NA,6
+"29","oxidiot",00:02:21.436,141436,"Tactical Fishing",NA,4
+"30","hackingnoisess",00:02:31.657,151657,"A Seedy Place",NA,6
+"31","draconix6",00:02:32.196,152196,"What a Deal!",NA,6
+"32","oxidiot",00:02:34.159,154159,"Isn't It Iron Pick",NA,5
+"33","oxidiot",00:02:34.243,154243,"Getting an Upgrade",NA,6
+"34","TigerMCSR",00:02:34.437,154437,"Tactical Fishing",NA,7
+"35","draconix6",00:02:36.132,156132,"Tactical Fishing",NA,7
 "36","dbowzer",00:02:40.380,160380,"The Parrots and the Bats",NA,6
-"37","NOHACKSJUSTTIGER",00:02:41.398,161398,"Best Friends Forever",NA,8
-"38","hackingnoises",00:02:43.507,163507,"Tactical Fishing",NA,7
-"39","Oxidiot",00:02:51.408,171408,"Best Friends Forever",NA,7
-"40","hackingnoises",00:02:54.664,174664,"The Parrots and the Bats",NA,8
-"41","NOHACKSJUSTTIGER",00:02:56.148,176148,"The Parrots and the Bats",NA,9
-"42","Oxidiot",00:02:58.485,178485,"A Seedy Place",NA,8
+"37","TigerMCSR",00:02:41.398,161398,"Best Friends Forever",NA,8
+"38","hackingnoisess",00:02:43.507,163507,"Tactical Fishing",NA,7
+"39","oxidiot",00:02:51.408,171408,"Best Friends Forever",NA,7
+"40","hackingnoisess",00:02:54.664,174664,"The Parrots and the Bats",NA,8
+"41","TigerMCSR",00:02:56.148,176148,"The Parrots and the Bats",NA,9
+"42","oxidiot",00:02:58.485,178485,"A Seedy Place",NA,8
 "43","dbowzer",00:03:03.357,183357,"Tactical Fishing",NA,7
-"44","NOHACKSJUSTTIGER",00:03:04.401,184401,"Hot Stuff",NA,10
-"45","Oxidiot",00:03:07.360,187360,"The Parrots and the Bats",NA,9
-"46","hackingnoises",00:03:08.313,188313,"Best Friends Forever",NA,9
-"47","drx6",00:03:09.916,189916,"Fishy Business",NA,8
-"48","Oxidiot",00:03:13.436,193436,"Fishy Business",NA,10
-"49","4antoo",00:03:13.568,193568,"What a Deal!",NA,5
-"50","hackingnoises",00:03:15.516,195516,"Hot Stuff",NA,10
+"44","TigerMCSR",00:03:04.401,184401,"Hot Stuff",NA,10
+"45","oxidiot",00:03:07.360,187360,"The Parrots and the Bats",NA,9
+"46","hackingnoisess",00:03:08.313,188313,"Best Friends Forever",NA,9
+"47","draconix6",00:03:09.916,189916,"Fishy Business",NA,8
+"48","oxidiot",00:03:13.436,193436,"Fishy Business",NA,10
+"49","NottAntoo",00:03:13.568,193568,"What a Deal!",NA,5
+"50","hackingnoisess",00:03:15.516,195516,"Hot Stuff",NA,10
 "51","dbowzer",00:03:17.308,197308,"Fishy Business",NA,8
-"52","NOHACKSJUSTTIGER",00:03:18.224,198224,"We Need to Go Deeper",NA,11
+"52","TigerMCSR",00:03:18.224,198224,"We Need to Go Deeper",NA,11
 "53","dbowzer",00:03:20.374,200374,"Isn't It Iron Pick",NA,9
-"54","Oxidiot",00:03:23.611,203611,"Hot Stuff",NA,11
-"55","hackingnoises",00:03:25.902,205902,"We Need to Go Deeper",NA,11
-"56","Oxidiot",00:03:34.348,214348,"We Need to Go Deeper",NA,12
+"54","oxidiot",00:03:23.611,203611,"Hot Stuff",NA,11
+"55","hackingnoisess",00:03:25.902,205902,"We Need to Go Deeper",NA,11
+"56","oxidiot",00:03:34.348,214348,"We Need to Go Deeper",NA,12
 "57","dbowzer",00:03:43.281,223281,"Best Friends Forever",NA,10
 "58","dbowzer",00:03:47.935,227935,"Hot Stuff",NA,11
-"59","NOHACKSJUSTTIGER",00:03:54.002,234002,"Those Were the Days",NA,12
-"60","drx6",00:03:54.425,234425,"The Parrots and the Bats",NA,9
-"61","NOHACKSJUSTTIGER",00:03:56.390,236390,"War Pigs",NA,13
+"59","TigerMCSR",00:03:54.002,234002,"Those Were the Days",NA,12
+"60","draconix6",00:03:54.425,234425,"The Parrots and the Bats",NA,9
+"61","TigerMCSR",00:03:56.390,236390,"War Pigs",NA,13
 "62","dbowzer",00:04:00.136,240136,"We Need to Go Deeper",NA,12
-"63","hackingnoises",00:04:00.869,240869,"Those Were the Days",NA,12
-"64","Oxidiot",00:04:01.413,241413,"Monster Hunter",NA,13
-"65","Oxidiot",00:04:01.497,241497,"Return to Sender",NA,14
-"66","hackingnoises",00:04:02.508,242508,"War Pigs",NA,13
-"67","NOHACKSJUSTTIGER",00:04:06.455,246455,"Oh Shiny",NA,14
-"68","NOHACKSJUSTTIGER",00:04:07.052,247052,"Who is Cutting Onions?",NA,15
-"69","hackingnoises",00:04:12.218,252218,"Who is Cutting Onions?",NA,14
-"70","Oxidiot",00:04:12.812,252812,"Those Were the Days",NA,15
-"71","Oxidiot",00:04:14.048,254048,"War Pigs",NA,16
-"72","hackingnoises",00:04:14.170,254170,"Ice Bucket Challenge",NA,15
-"73","NOHACKSJUSTTIGER",00:04:16.002,256002,"Ice Bucket Challenge",NA,16
-"74","drx6",00:04:22.407,262407,"Best Friends Forever",NA,10
-"75","Oxidiot",00:04:24.798,264798,"Who is Cutting Onions?",NA,17
-"76","4antoo",00:04:30.554,270554,"Tactical Fishing",NA,6
-"77","Oxidiot",00:04:30.761,270761,"Oh Shiny",NA,18
+"63","hackingnoisess",00:04:00.869,240869,"Those Were the Days",NA,12
+"64","oxidiot",00:04:01.413,241413,"Monster Hunter",NA,13
+"65","oxidiot",00:04:01.497,241497,"Return to Sender",NA,14
+"66","hackingnoisess",00:04:02.508,242508,"War Pigs",NA,13
+"67","TigerMCSR",00:04:06.455,246455,"Oh Shiny",NA,14
+"68","TigerMCSR",00:04:07.052,247052,"Who is Cutting Onions?",NA,15
+"69","hackingnoisess",00:04:12.218,252218,"Who is Cutting Onions?",NA,14
+"70","oxidiot",00:04:12.812,252812,"Those Were the Days",NA,15
+"71","oxidiot",00:04:14.048,254048,"War Pigs",NA,16
+"72","hackingnoisess",00:04:14.170,254170,"Ice Bucket Challenge",NA,15
+"73","TigerMCSR",00:04:16.002,256002,"Ice Bucket Challenge",NA,16
+"74","draconix6",00:04:22.407,262407,"Best Friends Forever",NA,10
+"75","oxidiot",00:04:24.798,264798,"Who is Cutting Onions?",NA,17
+"76","NottAntoo",00:04:30.554,270554,"Tactical Fishing",NA,6
+"77","oxidiot",00:04:30.761,270761,"Oh Shiny",NA,18
 "78","dbowzer",00:04:34.191,274191,"Monster Hunter",NA,13
-"79","4antoo",00:04:35.653,275653,"Fishy Business",NA,7
-"80","Oxidiot",00:04:36.761,276761,"Ice Bucket Challenge",NA,19
-"81","drx6",00:04:36.926,276926,"Hot Stuff",NA,11
-"82","hackingnoises",00:04:38.168,278168,"Oh Shiny",NA,16
+"79","NottAntoo",00:04:35.653,275653,"Fishy Business",NA,7
+"80","oxidiot",00:04:36.761,276761,"Ice Bucket Challenge",NA,19
+"81","draconix6",00:04:36.926,276926,"Hot Stuff",NA,11
+"82","hackingnoisess",00:04:38.168,278168,"Oh Shiny",NA,16
 "83","dbowzer",00:04:42.291,282291,"Those Were the Days",NA,14
 "84","dbowzer",00:04:43.851,283851,"War Pigs",NA,15
-"85","4antoo",00:04:45.760,285760,"The Parrots and the Bats",NA,8
-"86","drx6",00:04:47.371,287371,"We Need to Go Deeper",NA,12
+"85","NottAntoo",00:04:45.760,285760,"The Parrots and the Bats",NA,8
+"86","draconix6",00:04:47.371,287371,"We Need to Go Deeper",NA,12
 "87","dbowzer",00:04:56.234,296234,"Ice Bucket Challenge",NA,16
 "88","dbowzer",00:05:00.380,300380,"Who is Cutting Onions?",NA,17
-"89","4antoo",00:05:00.562,300562,"Hot Stuff",NA,9
-"90","4antoo",00:05:13.841,313841,"We Need to Go Deeper",NA,10
-"91","drx6",00:05:24.715,324715,"Those Were the Days",NA,13
-"92","drx6",00:05:25.728,325728,"War Pigs",NA,14
-"93","drx6",00:05:33.559,333559,"Who is Cutting Onions?",NA,15
-"94","drx6",00:05:33.832,333832,"Oh Shiny",NA,16
-"95","drx6",00:05:37.507,337507,"Ice Bucket Challenge",NA,17
-"96","4antoo",00:05:40.988,340988,"Monster Hunter",NA,11
-"97","NOHACKSJUSTTIGER",00:05:41.354,341354,"Monster Hunter",NA,17
-"98","4antoo",00:05:52.215,352215,"Those Were the Days",NA,12
-"99","hackingnoises",00:05:52.387,352387,"Fishy Business",NA,17
-"100","4antoo",00:05:53.692,353692,"War Pigs",NA,13
-"101","hackingnoises",00:05:55.188,355188,"Ol' Betsy",NA,18
-"102","hackingnoises",00:05:56.873,356873,"Not Today, Thank You",NA,19
-"103","hackingnoises",00:05:56.877,356877,"Take Aim",NA,20
-"104","4antoo",00:05:58.583,358583,"Take Aim",NA,14
-"105","4antoo",00:06:00.048,360048,"Ol' Betsy",NA,15
-"106","4antoo",00:06:07.215,367215,"Who is Cutting Onions?",NA,16
-"107","4antoo",00:06:11.865,371865,"Oh Shiny",NA,17
-"108","4antoo",00:06:13.869,373869,"Ice Bucket Challenge",NA,18
-"109","NOHACKSJUSTTIGER",00:06:24.158,384158,"Not Quite ""Nine"" Lives",NA,18
-"110","Oxidiot",00:06:27.655,387655,"Not Quite ""Nine"" Lives",NA,20
+"89","NottAntoo",00:05:00.562,300562,"Hot Stuff",NA,9
+"90","NottAntoo",00:05:13.841,313841,"We Need to Go Deeper",NA,10
+"91","draconix6",00:05:24.715,324715,"Those Were the Days",NA,13
+"92","draconix6",00:05:25.728,325728,"War Pigs",NA,14
+"93","draconix6",00:05:33.559,333559,"Who is Cutting Onions?",NA,15
+"94","draconix6",00:05:33.832,333832,"Oh Shiny",NA,16
+"95","draconix6",00:05:37.507,337507,"Ice Bucket Challenge",NA,17
+"96","NottAntoo",00:05:40.988,340988,"Monster Hunter",NA,11
+"97","TigerMCSR",00:05:41.354,341354,"Monster Hunter",NA,17
+"98","NottAntoo",00:05:52.215,352215,"Those Were the Days",NA,12
+"99","hackingnoisess",00:05:52.387,352387,"Fishy Business",NA,17
+"100","NottAntoo",00:05:53.692,353692,"War Pigs",NA,13
+"101","hackingnoisess",00:05:55.188,355188,"Ol' Betsy",NA,18
+"102","hackingnoisess",00:05:56.873,356873,"Not Today, Thank You",NA,19
+"103","hackingnoisess",00:05:56.877,356877,"Take Aim",NA,20
+"104","NottAntoo",00:05:58.583,358583,"Take Aim",NA,14
+"105","NottAntoo",00:06:00.048,360048,"Ol' Betsy",NA,15
+"106","NottAntoo",00:06:07.215,367215,"Who is Cutting Onions?",NA,16
+"107","NottAntoo",00:06:11.865,371865,"Oh Shiny",NA,17
+"108","NottAntoo",00:06:13.869,373869,"Ice Bucket Challenge",NA,18
+"109","TigerMCSR",00:06:24.158,384158,"Not Quite ""Nine"" Lives",NA,18
+"110","oxidiot",00:06:27.655,387655,"Not Quite ""Nine"" Lives",NA,20
 "111","dbowzer",00:06:31.933,391933,"Not Today, Thank You",NA,18
 "112","dbowzer",00:06:32.043,392043,"Take Aim",NA,19
-"113","Oxidiot",00:06:35.167,395167,"Ol' Betsy",NA,21
-"114","Oxidiot",00:06:36.366,396366,"Not Today, Thank You",NA,22
-"115","Oxidiot",00:06:36.451,396451,"Take Aim",NA,23
+"113","oxidiot",00:06:35.167,395167,"Ol' Betsy",NA,21
+"114","oxidiot",00:06:36.366,396366,"Not Today, Thank You",NA,22
+"115","oxidiot",00:06:36.451,396451,"Take Aim",NA,23
 "116","dbowzer",00:06:51.249,411249,"Not Quite ""Nine"" Lives",NA,20
-"117","hackingnoises",00:06:59.625,419625,"A Terrible Fortress",NA,21
-"118","hackingnoises",00:07:01.865,421865,"Monster Hunter",NA,22
-"119","NOHACKSJUSTTIGER",00:07:06.357,426357,"Return to Sender",NA,19
-"120","hackingnoises",00:07:12.726,432726,"Into Fire",NA,23
-"121","drx6",00:07:30.713,450713,"Not Quite ""Nine"" Lives",NA,18
-"122","Oxidiot",00:07:37.066,457066,"A Terrible Fortress",NA,24
-"123","NOHACKSJUSTTIGER",00:07:47.041,467041,"A Terrible Fortress",NA,20
-"124","4antoo",00:07:52.818,472818,"Not Today, Thank You",NA,19
+"117","hackingnoisess",00:06:59.625,419625,"A Terrible Fortress",NA,21
+"118","hackingnoisess",00:07:01.865,421865,"Monster Hunter",NA,22
+"119","TigerMCSR",00:07:06.357,426357,"Return to Sender",NA,19
+"120","hackingnoisess",00:07:12.726,432726,"Into Fire",NA,23
+"121","draconix6",00:07:30.713,450713,"Not Quite ""Nine"" Lives",NA,18
+"122","oxidiot",00:07:37.066,457066,"A Terrible Fortress",NA,24
+"123","TigerMCSR",00:07:47.041,467041,"A Terrible Fortress",NA,20
+"124","NottAntoo",00:07:52.818,472818,"Not Today, Thank You",NA,19
 "125","dbowzer",00:07:56.984,476984,"Oh Shiny",NA,21
-"126","Oxidiot",00:07:58.816,478816,"Into Fire",NA,25
-"127","NOHACKSJUSTTIGER",00:08:22.806,502806,"Into Fire",NA,21
-"128","hackingnoises",00:08:28.736,508736,"Not Quite ""Nine"" Lives",NA,24
-"129","drx6",00:08:29.541,509541,"Not Today, Thank You",NA,19
-"130","hackingnoises",00:08:35.154,515154,"Local Brewery",NA,25
+"126","oxidiot",00:07:58.816,478816,"Into Fire",NA,25
+"127","TigerMCSR",00:08:22.806,502806,"Into Fire",NA,21
+"128","hackingnoisess",00:08:28.736,508736,"Not Quite ""Nine"" Lives",NA,24
+"129","draconix6",00:08:29.541,509541,"Not Today, Thank You",NA,19
+"130","hackingnoisess",00:08:35.154,515154,"Local Brewery",NA,25
 "131","dbowzer",00:08:42.282,522282,"A Terrible Fortress",NA,22
-"132","Oxidiot",00:08:45.458,525458,NA,"blind_travel",25
-"133","NOHACKSJUSTTIGER",00:08:49.201,529201,NA,"blind_travel",21
-"134","hackingnoises",00:09:10.347,550347,NA,"blind_travel",25
-"135","drx6",00:09:11.195,551195,"Ol' Betsy",NA,20
-"136","drx6",00:09:13.663,553663,"Take Aim",NA,21
-"137","drx6",00:09:19.923,559923,"Return to Sender",NA,22
-"138","drx6",00:09:19.971,559971,"Monster Hunter",NA,23
-"139","4antoo",00:09:20.673,560673,"A Terrible Fortress",NA,20
+"132","oxidiot",00:08:45.458,525458,NA,"blind_travel",25
+"133","TigerMCSR",00:08:49.201,529201,NA,"blind_travel",21
+"134","hackingnoisess",00:09:10.347,550347,NA,"blind_travel",25
+"135","draconix6",00:09:11.195,551195,"Ol' Betsy",NA,20
+"136","draconix6",00:09:13.663,553663,"Take Aim",NA,21
+"137","draconix6",00:09:19.923,559923,"Return to Sender",NA,22
+"138","draconix6",00:09:19.971,559971,"Monster Hunter",NA,23
+"139","NottAntoo",00:09:20.673,560673,"A Terrible Fortress",NA,20
 "140","dbowzer",00:09:24.442,564442,"Into Fire",NA,23
-"141","hackingnoises",00:09:36.577,576577,"Suit Up",NA,26
-"142","4antoo",00:09:56.622,596622,"Into Fire",NA,21
-"143","NOHACKSJUSTTIGER",00:09:59.265,599265,"Local Brewery",NA,22
-"144","drx6",00:09:59.963,599963,"A Terrible Fortress",NA,24
+"141","hackingnoisess",00:09:36.577,576577,"Suit Up",NA,26
+"142","NottAntoo",00:09:56.622,596622,"Into Fire",NA,21
+"143","TigerMCSR",00:09:59.265,599265,"Local Brewery",NA,22
+"144","draconix6",00:09:59.963,599963,"A Terrible Fortress",NA,24
 "145","dbowzer",00:10:06.811,606811,"Local Brewery",NA,24
-"146","NOHACKSJUSTTIGER",00:10:08.306,608306,"Suit Up",NA,23
-"147","Oxidiot",00:10:30.615,630615,"Suit Up",NA,26
-"148","4antoo",00:10:39.825,639825,"Not Quite ""Nine"" Lives",NA,22
+"146","TigerMCSR",00:10:08.306,608306,"Suit Up",NA,23
+"147","oxidiot",00:10:30.615,630615,"Suit Up",NA,26
+"148","NottAntoo",00:10:39.825,639825,"Not Quite ""Nine"" Lives",NA,22
 "149","dbowzer",00:10:48.445,648445,NA,"blind_travel",24
 "150","dbowzer",00:10:54.763,654763,"Sweet Dreams",NA,25
-"151","drx6",00:10:56.685,656685,"Into Fire",NA,25
-"152","4antoo",00:10:57.005,657005,NA,"blind_travel",22
+"151","draconix6",00:10:56.685,656685,"Into Fire",NA,25
+"152","NottAntoo",00:10:57.005,657005,NA,"blind_travel",22
 "153","dbowzer",00:10:59.647,659647,"Suit Up",NA,26
-"154","hackingnoises",00:11:01.374,661374,"Eye Spy",NA,27
-"155","drx6",00:11:05.516,665516,NA,"blind_travel",25
-"156","drx6",00:11:22.555,682555,"Sweet Dreams",NA,26
-"157","Oxidiot",00:11:33.239,693239,"Eye Spy",NA,27
-"158","NOHACKSJUSTTIGER",00:11:55.210,715210,"Eye Spy",NA,24
-"159","hackingnoises",00:11:57.163,717163,"Sweet Dreams",NA,28
-"160","4antoo",00:12:00.000,720000,NA,"eliminate",22
-"161","hackingnoises",00:12:42.146,762146,"The End?",NA,29
-"162","Oxidiot",00:13:01.424,781424,"The End?",NA,28
-"163","NOHACKSJUSTTIGER",00:13:23.611,803611,"Fishy Business",NA,25
-"164","hackingnoises",00:13:26.326,806326,"Free the End",NA,30
-"165","hackingnoises",00:13:33.431,813431,NA,"dragon_death",30
-"166","Oxidiot",00:13:35.501,815501,"Free the End",NA,29
-"167","NOHACKSJUSTTIGER",00:13:40.146,820146,"The End?",NA,26
-"168","Oxidiot",00:13:43.369,823369,NA,"dragon_death",29
-"169","Oxidiot",00:14:00.022,840022,"The Next Generation",NA,30
-"170","hackingnoises",00:14:07.107,847107,"Remote Getaway",NA,31
+"154","hackingnoisess",00:11:01.374,661374,"Eye Spy",NA,27
+"155","draconix6",00:11:05.516,665516,NA,"blind_travel",25
+"156","draconix6",00:11:22.555,682555,"Sweet Dreams",NA,26
+"157","oxidiot",00:11:33.239,693239,"Eye Spy",NA,27
+"158","TigerMCSR",00:11:55.210,715210,"Eye Spy",NA,24
+"159","hackingnoisess",00:11:57.163,717163,"Sweet Dreams",NA,28
+"160","NottAntoo",00:12:00.000,720000,NA,"eliminate",22
+"161","hackingnoisess",00:12:42.146,762146,"The End?",NA,29
+"162","oxidiot",00:13:01.424,781424,"The End?",NA,28
+"163","TigerMCSR",00:13:23.611,803611,"Fishy Business",NA,25
+"164","hackingnoisess",00:13:26.326,806326,"Free the End",NA,30
+"165","hackingnoisess",00:13:33.431,813431,NA,"dragon_death",30
+"166","oxidiot",00:13:35.501,815501,"Free the End",NA,29
+"167","TigerMCSR",00:13:40.146,820146,"The End?",NA,26
+"168","oxidiot",00:13:43.369,823369,NA,"dragon_death",29
+"169","oxidiot",00:14:00.022,840022,"The Next Generation",NA,30
+"170","hackingnoisess",00:14:07.107,847107,"Remote Getaway",NA,31
 "171","dbowzer",00:14:21.686,861686,"Eye Spy",NA,27
-"172","NOHACKSJUSTTIGER",00:14:24.710,864710,"You Need a Mint",NA,27
-"173","drx6",00:14:30.014,870014,"Eye Spy",NA,27
-"174","Oxidiot",00:14:32.869,872869,"Remote Getaway",NA,31
-"175","NOHACKSJUSTTIGER",00:15:09.214,909214,"Take Aim",NA,28
-"176","NOHACKSJUSTTIGER",00:15:18.261,918261,"Not Today, Thank You",NA,29
-"177","drx6",00:15:37.684,937684,"Suit Up",NA,28
-"178","NOHACKSJUSTTIGER",00:15:46.047,946047,"Free the End",NA,30
-"179","NOHACKSJUSTTIGER",00:15:46.174,946174,NA,"dragon_death",30
+"172","TigerMCSR",00:14:24.710,864710,"You Need a Mint",NA,27
+"173","draconix6",00:14:30.014,870014,"Eye Spy",NA,27
+"174","oxidiot",00:14:32.869,872869,"Remote Getaway",NA,31
+"175","TigerMCSR",00:15:09.214,909214,"Take Aim",NA,28
+"176","TigerMCSR",00:15:18.261,918261,"Not Today, Thank You",NA,29
+"177","draconix6",00:15:37.684,937684,"Suit Up",NA,28
+"178","TigerMCSR",00:15:46.047,946047,"Free the End",NA,30
+"179","TigerMCSR",00:15:46.174,946174,NA,"dragon_death",30
 "180","dbowzer",00:15:55.994,955994,"The End?",NA,28
-"181","NOHACKSJUSTTIGER",00:16:01.813,961813,"The Next Generation",NA,31
-"182","drx6",00:16:12.218,972218,"The End?",NA,29
+"181","TigerMCSR",00:16:01.813,961813,"The Next Generation",NA,31
+"182","draconix6",00:16:12.218,972218,"The End?",NA,29
 "183","dbowzer",00:16:14.787,974787,"Ol' Betsy",NA,29
-"184","Oxidiot",00:16:15.173,975173,"The City at the End of the Game",NA,32
-"185","NOHACKSJUSTTIGER",00:16:23.257,983257,"Remote Getaway",NA,32
-"186","Oxidiot",00:16:26.524,986524,"Cover Me With Diamonds",NA,33
-"187","hackingnoises",00:16:49.339,1009339,"The City at the End of the Game",NA,32
-"188","Oxidiot",00:16:51.324,1011324,"Local Brewery",NA,34
-"189","Oxidiot",00:17:07.527,1027527,"Sky's the Limit",NA,35
-"190","Oxidiot",00:17:27.429,1047429,"Great View From Up Here",NA,36
-"191","hackingnoises",00:17:49.039,1069039,"Cover Me With Diamonds",NA,33
-"192","hackingnoises",00:17:49.640,1069640,"Sky's the Limit",NA,34
+"184","oxidiot",00:16:15.173,975173,"The City at the End of the Game",NA,32
+"185","TigerMCSR",00:16:23.257,983257,"Remote Getaway",NA,32
+"186","oxidiot",00:16:26.524,986524,"Cover Me With Diamonds",NA,33
+"187","hackingnoisess",00:16:49.339,1009339,"The City at the End of the Game",NA,32
+"188","oxidiot",00:16:51.324,1011324,"Local Brewery",NA,34
+"189","oxidiot",00:17:07.527,1027527,"Sky's the Limit",NA,35
+"190","oxidiot",00:17:27.429,1047429,"Great View From Up Here",NA,36
+"191","hackingnoisess",00:17:49.039,1069039,"Cover Me With Diamonds",NA,33
+"192","hackingnoisess",00:17:49.640,1069640,"Sky's the Limit",NA,34
 "193","dbowzer",00:17:54.086,1074086,"Free the End",NA,30
 "194","dbowzer",00:17:54.197,1074197,NA,"dragon_death",30
-"195","Oxidiot",00:17:56.875,1076875,"Diamonds!",NA,37
-"196","hackingnoises",00:18:06.340,1086340,"Diamonds!",NA,35
-"197","drx6",00:18:09.750,1089750,"Free the End",NA,30
-"198","drx6",00:18:10.018,1090018,NA,"dragon_death",30
-"199","drx6",00:18:28.107,1108107,"The Next Generation",NA,31
+"195","oxidiot",00:17:56.875,1076875,"Diamonds!",NA,37
+"196","hackingnoisess",00:18:06.340,1086340,"Diamonds!",NA,35
+"197","draconix6",00:18:09.750,1089750,"Free the End",NA,30
+"198","draconix6",00:18:10.018,1090018,NA,"dragon_death",30
+"199","draconix6",00:18:28.107,1108107,"The Next Generation",NA,31
 "200","dbowzer",00:18:36.333,1116333,"Remote Getaway",NA,31
-"201","NOHACKSJUSTTIGER",00:18:47.167,1127167,"The City at the End of the Game",NA,33
-"202","drx6",00:18:47.751,1127751,"Remote Getaway",NA,32
-"203","NOHACKSJUSTTIGER",00:19:02.865,1142865,"Cover Me With Diamonds",NA,34
-"204","NOHACKSJUSTTIGER",00:19:08.766,1148766,"Sky's the Limit",NA,35
-"205","NOHACKSJUSTTIGER",00:19:42.222,1182222,"Diamonds!",NA,36
-"206","hackingnoises",00:20:02.193,1202193,"Great View From Up Here",NA,36
-"207","NOHACKSJUSTTIGER",00:20:06.119,1206119,"Great View From Up Here",NA,37
+"201","TigerMCSR",00:18:47.167,1127167,"The City at the End of the Game",NA,33
+"202","draconix6",00:18:47.751,1127751,"Remote Getaway",NA,32
+"203","TigerMCSR",00:19:02.865,1142865,"Cover Me With Diamonds",NA,34
+"204","TigerMCSR",00:19:08.766,1148766,"Sky's the Limit",NA,35
+"205","TigerMCSR",00:19:42.222,1182222,"Diamonds!",NA,36
+"206","hackingnoisess",00:20:02.193,1202193,"Great View From Up Here",NA,36
+"207","TigerMCSR",00:20:06.119,1206119,"Great View From Up Here",NA,37
 "208","dbowzer",00:20:21.942,1221942,"The City at the End of the Game",NA,32
-"209","drx6",00:20:24.456,1224456,"The City at the End of the Game",NA,33
-"210","drx6",00:20:59.956,1259956,"Cover Me With Diamonds",NA,34
-"211","drx6",00:21:00.792,1260792,"Sky's the Limit",NA,35
-"212","drx6",00:21:08.584,1268584,"Local Brewery",NA,36
-"213","drx6",00:21:43.743,1303743,"Diamonds!",NA,37
-"214","drx6",00:21:50.359,1310359,"Great View From Up Here",NA,38
+"209","draconix6",00:20:24.456,1224456,"The City at the End of the Game",NA,33
+"210","draconix6",00:20:59.956,1259956,"Cover Me With Diamonds",NA,34
+"211","draconix6",00:21:00.792,1260792,"Sky's the Limit",NA,35
+"212","draconix6",00:21:08.584,1268584,"Local Brewery",NA,36
+"213","draconix6",00:21:43.743,1303743,"Diamonds!",NA,37
+"214","draconix6",00:21:50.359,1310359,"Great View From Up Here",NA,38
 "215","dbowzer",00:22:34.802,1354802,"Cover Me With Diamonds",NA,33
-"216","hackingnoises",00:22:35.050,1355050,"The Next Generation",NA,37
+"216","hackingnoisess",00:22:35.050,1355050,"The Next Generation",NA,37
 "217","dbowzer",00:22:39.268,1359268,"Sky's the Limit",NA,34
 "218","dbowzer",00:23:03.521,1383521,"Great View From Up Here",NA,35
-"219","Oxidiot",00:23:06.569,1386569,"Enchanter",NA,38
+"219","oxidiot",00:23:06.569,1386569,"Enchanter",NA,38
 "220","dbowzer",00:24:00.002,1440002,NA,"eliminate",35
-"221","hackingnoises",00:26:09.514,1569514,"Enchanter",NA,38
-"222","NOHACKSJUSTTIGER",00:27:10.520,1630520,"Enchanter",NA,38
-"223","Oxidiot",00:28:35.496,1715496,"Voluntary Exile",NA,39
-"224","Oxidiot",00:28:35.585,1715585,"Who's the Pillager Now?",NA,40
-"225","drx6",00:29:39.832,1779832,"Enchanter",NA,39
-"226","NOHACKSJUSTTIGER",00:30:14.345,1814345,"Ol' Betsy",NA,39
-"227","NOHACKSJUSTTIGER",00:30:14.380,1814380,"Voluntary Exile",NA,40
-"228","NOHACKSJUSTTIGER",00:30:14.381,1814381,"Who's the Pillager Now?",NA,41
-"229","NOHACKSJUSTTIGER",00:30:37.431,1837431,"Bullseye",NA,42
-"230","Oxidiot",00:30:53.592,1853592,"Hero of the Village",NA,41
-"231","Oxidiot",00:32:07.590,1927590,"Sniper Duel",NA,42
-"232","Oxidiot",00:32:30.390,1950390,"Bullseye",NA,43
-"233","drx6",00:33:29.668,2009668,"Voluntary Exile",NA,40
-"234","drx6",00:33:29.860,2009860,"Who's the Pillager Now?",NA,41
-"235","NOHACKSJUSTTIGER",00:34:06.029,2046029,"Postmortal",NA,43
-"236","NOHACKSJUSTTIGER",00:34:11.781,2051781,"Hero of the Village",NA,44
-"237","hackingnoises",00:34:17.573,2057572,"Sniper Duel",NA,39
-"238","NOHACKSJUSTTIGER",00:34:30.190,2070190,"Sniper Duel",NA,45
-"239","drx6",00:34:48.139,2088139,"This Boat Has Legs",NA,42
-"240","hackingnoises",00:35:19.048,2119048,"Total Beelocation",NA,40
-"241","drx6",00:35:32.612,2132612,"Spooky Scary Skeleton",NA,43
-"242","Oxidiot",00:35:36.106,2136106,"A Throwaway Joke",NA,44
-"243","drx6",00:35:44.022,2144022,"Hot Tourist Destinations",NA,44
-"244","NOHACKSJUSTTIGER",00:35:46.884,2146884,"Country Lode, Take Me Home",NA,46
-"245","hackingnoises",00:35:56.673,2156673,"Bullseye",NA,41
-"246","drx6",00:35:59.185,2159185,"Subspace Bubble",NA,45
-"247","hackingnoises",00:36:00.003,2160003,NA,"eliminate",41
-"248","NOHACKSJUSTTIGER",00:36:21.889,2181889,"Hot Tourist Destinations",NA,47
-"249","NOHACKSJUSTTIGER",00:36:32.098,2192098,"This Boat Has Legs",NA,48
-"250","drx6",00:38:20.518,2300518,"Sniper Duel",NA,46
-"251","Oxidiot",00:38:30.672,2310672,"Sweet Dreams",NA,45
-"252","NOHACKSJUSTTIGER",00:39:26.581,2366581,"Total Beelocation",NA,49
-"253","NOHACKSJUSTTIGER",00:40:35.348,2435348,"A Throwaway Joke",NA,50
-"254","Oxidiot",00:40:52.054,2452054,"Arbalistic",NA,46
-"255","Oxidiot",00:41:07.130,2467130,"Total Beelocation",NA,47
-"256","NOHACKSJUSTTIGER",00:41:31.976,2491976,"Hired Help",NA,51
-"257","Oxidiot",00:42:12.697,2532697,"Spooky Scary Skeleton",NA,48
-"258","Oxidiot",00:43:27.350,2607350,"Hot Tourist Destinations",NA,49
-"259","Oxidiot",00:44:00.659,2640659,"Subspace Bubble",NA,50
-"260","drx6",00:44:58.798,2698798,"Total Beelocation",NA,47
-"261","Oxidiot",00:45:06.581,2706581,"This Boat Has Legs",NA,51
-"262","Oxidiot",00:47:13.906,2833906,"Uneasy Alliance",NA,52
-"263","NOHACKSJUSTTIGER",00:47:31.374,2851374,"Subspace Bubble",NA,52
-"264","NOHACKSJUSTTIGER",00:47:43.945,2863945,"Uneasy Alliance",NA,53
-"265","Oxidiot",00:47:51.786,2871786,"Postmortal",NA,53
-"266","drx6",00:48:00.005,2880005,NA,"eliminate",47
-"267","NOHACKSJUSTTIGER",00:50:04.400,3004400,"Hidden in the Depths",NA,54
-"268","Oxidiot",00:55:14.975,3314975,"Bee Our Guest",NA,54
-"269","NOHACKSJUSTTIGER",00:55:32.249,3332249,"Spooky Scary Skeleton",NA,55
-"270","NOHACKSJUSTTIGER",00:57:54.452,3474452,"Serious Dedication",NA,56
-"271","Oxidiot",00:58:53.614,3533614,"The End... Again...",NA,55
-"272","Oxidiot",00:58:56.613,3536613,"You Need a Mint",NA,56
-"273","Oxidiot",00:58:56.821,3536821,NA,"death",56
-"274","Oxidiot",00:59:16.118,3556118,NA,"death_spawnpoint",56
-"275","NOHACKSJUSTTIGER",00:59:21.103,3561103,"The End... Again...",NA,57
-"276","Oxidiot",00:59:44.870,3584870,NA,"death",56
-"277","Oxidiot",01:00:00.007,3600007,NA,"eliminate",56
+"221","hackingnoisess",00:26:09.514,1569514,"Enchanter",NA,38
+"222","TigerMCSR",00:27:10.520,1630520,"Enchanter",NA,38
+"223","oxidiot",00:28:35.496,1715496,"Voluntary Exile",NA,39
+"224","oxidiot",00:28:35.585,1715585,"Who's the Pillager Now?",NA,40
+"225","draconix6",00:29:39.832,1779832,"Enchanter",NA,39
+"226","TigerMCSR",00:30:14.345,1814345,"Ol' Betsy",NA,39
+"227","TigerMCSR",00:30:14.380,1814380,"Voluntary Exile",NA,40
+"228","TigerMCSR",00:30:14.381,1814381,"Who's the Pillager Now?",NA,41
+"229","TigerMCSR",00:30:37.431,1837431,"Bullseye",NA,42
+"230","oxidiot",00:30:53.592,1853592,"Hero of the Village",NA,41
+"231","oxidiot",00:32:07.590,1927590,"Sniper Duel",NA,42
+"232","oxidiot",00:32:30.390,1950390,"Bullseye",NA,43
+"233","draconix6",00:33:29.668,2009668,"Voluntary Exile",NA,40
+"234","draconix6",00:33:29.860,2009860,"Who's the Pillager Now?",NA,41
+"235","TigerMCSR",00:34:06.029,2046029,"Postmortal",NA,43
+"236","TigerMCSR",00:34:11.781,2051781,"Hero of the Village",NA,44
+"237","hackingnoisess",00:34:17.573,2057572,"Sniper Duel",NA,39
+"238","TigerMCSR",00:34:30.190,2070190,"Sniper Duel",NA,45
+"239","draconix6",00:34:48.139,2088139,"This Boat Has Legs",NA,42
+"240","hackingnoisess",00:35:19.048,2119048,"Total Beelocation",NA,40
+"241","draconix6",00:35:32.612,2132612,"Spooky Scary Skeleton",NA,43
+"242","oxidiot",00:35:36.106,2136106,"A Throwaway Joke",NA,44
+"243","draconix6",00:35:44.022,2144022,"Hot Tourist Destinations",NA,44
+"244","TigerMCSR",00:35:46.884,2146884,"Country Lode, Take Me Home",NA,46
+"245","hackingnoisess",00:35:56.673,2156673,"Bullseye",NA,41
+"246","draconix6",00:35:59.185,2159185,"Subspace Bubble",NA,45
+"247","hackingnoisess",00:36:00.003,2160003,NA,"eliminate",41
+"248","TigerMCSR",00:36:21.889,2181889,"Hot Tourist Destinations",NA,47
+"249","TigerMCSR",00:36:32.098,2192098,"This Boat Has Legs",NA,48
+"250","draconix6",00:38:20.518,2300518,"Sniper Duel",NA,46
+"251","oxidiot",00:38:30.672,2310672,"Sweet Dreams",NA,45
+"252","TigerMCSR",00:39:26.581,2366581,"Total Beelocation",NA,49
+"253","TigerMCSR",00:40:35.348,2435348,"A Throwaway Joke",NA,50
+"254","oxidiot",00:40:52.054,2452054,"Arbalistic",NA,46
+"255","oxidiot",00:41:07.130,2467130,"Total Beelocation",NA,47
+"256","TigerMCSR",00:41:31.976,2491976,"Hired Help",NA,51
+"257","oxidiot",00:42:12.697,2532697,"Spooky Scary Skeleton",NA,48
+"258","oxidiot",00:43:27.350,2607350,"Hot Tourist Destinations",NA,49
+"259","oxidiot",00:44:00.659,2640659,"Subspace Bubble",NA,50
+"260","draconix6",00:44:58.798,2698798,"Total Beelocation",NA,47
+"261","oxidiot",00:45:06.581,2706581,"This Boat Has Legs",NA,51
+"262","oxidiot",00:47:13.906,2833906,"Uneasy Alliance",NA,52
+"263","TigerMCSR",00:47:31.374,2851374,"Subspace Bubble",NA,52
+"264","TigerMCSR",00:47:43.945,2863945,"Uneasy Alliance",NA,53
+"265","oxidiot",00:47:51.786,2871786,"Postmortal",NA,53
+"266","draconix6",00:48:00.005,2880005,NA,"eliminate",47
+"267","TigerMCSR",00:50:04.400,3004400,"Hidden in the Depths",NA,54
+"268","oxidiot",00:55:14.975,3314975,"Bee Our Guest",NA,54
+"269","TigerMCSR",00:55:32.249,3332249,"Spooky Scary Skeleton",NA,55
+"270","TigerMCSR",00:57:54.452,3474452,"Serious Dedication",NA,56
+"271","oxidiot",00:58:53.614,3533614,"The End... Again...",NA,55
+"272","oxidiot",00:58:56.613,3536613,"You Need a Mint",NA,56
+"273","oxidiot",00:58:56.821,3536821,NA,"death",56
+"274","oxidiot",00:59:16.118,3556118,NA,"death_spawnpoint",56
+"275","TigerMCSR",00:59:21.103,3561103,"The End... Again...",NA,57
+"276","oxidiot",00:59:44.870,3584870,NA,"death",56
+"277","oxidiot",01:00:00.007,3600007,NA,"eliminate",56

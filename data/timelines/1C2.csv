@@ -1,299 +1,299 @@
-"","player","time_ms","advancement","ranked_event","n_advancements"
-"1","danterus",40712,"Diamonds!",NA,1
-"2","danterus",41264,"Stone Age",NA,2
-"3","AutomattPLUS",41599,"Acquire Hardware",NA,1
-"4","AutomattPLUS",41641,"Diamonds!",NA,2
-"5","AutomattPLUS",42096,"Stone Age",NA,3
-"6","danterus",42964,"Acquire Hardware",NA,3
-"7","okrzej_",44750,"Diamonds!",NA,1
-"8","okrzej_",46747,"Stone Age",NA,2
-"9","okrzej_",48895,"Acquire Hardware",NA,3
-"10","Feinberg",50373,"Acquire Hardware",NA,1
-"11","modestmousefan11",51076,"Diamonds!",NA,1
-"12","modestmousefan11",51092,"Acquire Hardware",NA,2
-"13","Feinberg",52126,"Stone Age",NA,2
-"14","Feinberg",52226,"Diamonds!",NA,3
-"15","modestmousefan11",52331,"Stone Age",NA,3
-"16","fujge",60553,"Diamonds!",NA,1
-"17","fujge",60569,"Stone Age",NA,2
-"18","fujge",63171,"Acquire Hardware",NA,3
-"19","AutomattPLUS",88895,"Getting an Upgrade",NA,4
-"20","AutomattPLUS",88934,"Isn't It Iron Pick",NA,5
-"21","Feinberg",89371,"Getting an Upgrade",NA,4
-"22","okrzej_",92893,"Getting an Upgrade",NA,4
-"23","AutomattPLUS",95353,"A Seedy Place",NA,6
-"24","AutomattPLUS",102425,"What a Deal!",NA,7
-"25","AutomattPLUS",103498,"Tactical Fishing",NA,8
-"26","Feinberg",105340,"Tactical Fishing",NA,5
-"27","danterus",107357,"Getting an Upgrade",NA,4
-"28","fujge",109989,"Getting an Upgrade",NA,4
-"29","okrzej_",115022,"Tactical Fishing",NA,5
-"30","Feinberg",125907,"What a Deal!",NA,6
-"31","danterus",131709,"What a Deal!",NA,5
-"32","fujge",134206,"Tactical Fishing",NA,5
-"33","danterus",136832,"A Seedy Place",NA,6
-"34","modestmousefan11",145275,"Getting an Upgrade",NA,4
-"35","modestmousefan11",145294,"Isn't It Iron Pick",NA,5
-"36","okrzej_",150471,"A Seedy Place",NA,6
-"37","Feinberg",150829,"A Seedy Place",NA,7
-"38","Feinberg",151072,"The Parrots and the Bats",NA,8
-"39","AutomattPLUS",153393,"Best Friends Forever",NA,9
-"40","fujge",159561,"Fishy Business",NA,6
-"41","danterus",160046,"Best Friends Forever",NA,7
-"42","AutomattPLUS",162295,"The Parrots and the Bats",NA,10
-"43","modestmousefan11",163719,"Best Friends Forever",NA,6
-"44","fujge",167795,"What a Deal!",NA,7
-"45","okrzej_",168145,"The Parrots and the Bats",NA,7
-"46","Feinberg",173221,"Best Friends Forever",NA,9
-"47","danterus",177664,"The Parrots and the Bats",NA,8
-"48","okrzej_",181883,"What a Deal!",NA,8
-"49","modestmousefan11",184471,"The Parrots and the Bats",NA,7
-"50","danterus",186161,"Hot Stuff",NA,9
-"51","AutomattPLUS",188397,"Hot Stuff",NA,11
-"52","modestmousefan11",195224,"What a Deal!",NA,8
-"53","modestmousefan11",196312,"Tactical Fishing",NA,9
-"54","danterus",200846,"We Need to Go Deeper",NA,10
-"55","Feinberg",205669,"Hot Stuff",NA,10
-"56","fujge",206887,"The Parrots and the Bats",NA,8
-"57","AutomattPLUS",208177,"We Need to Go Deeper",NA,12
-"58","fujge",214808,"Best Friends Forever",NA,9
-"59","modestmousefan11",215014,"A Seedy Place",NA,10
-"60","Feinberg",217162,"We Need to Go Deeper",NA,11
-"61","okrzej_",221845,"Best Friends Forever",NA,9
-"62","modestmousefan11",228020,"Hot Stuff",NA,11
-"63","okrzej_",230496,"Isn't It Iron Pick",NA,10
-"64","okrzej_",241595,"Hot Stuff",NA,11
-"65","modestmousefan11",241793,"We Need to Go Deeper",NA,12
-"66","fujge",243761,"A Seedy Place",NA,10
-"67","danterus",247968,"Those Were the Days",NA,11
-"68","okrzej_",254893,"We Need to Go Deeper",NA,12
-"69","fujge",260389,"Hot Stuff",NA,11
-"70","Feinberg",261519,"Those Were the Days",NA,12
-"71","AutomattPLUS",265502,"Those Were the Days",NA,13
-"72","fujge",271690,"We Need to Go Deeper",NA,12
-"73","Feinberg",282122,"Return to Sender",NA,13
-"74","Feinberg",282219,"Monster Hunter",NA,14
-"75","fujge",288396,"Monster Hunter",NA,13
-"76","modestmousefan11",293967,"Monster Hunter",NA,13
-"77","okrzej_",297600,"Those Were the Days",NA,13
-"78","AutomattPLUS",303259,"Oh Shiny",NA,14
-"79","modestmousefan11",307573,"Those Were the Days",NA,14
-"80","danterus",310818,"Suit Up",NA,12
-"81","danterus",310970,"Who is Cutting Onions?",NA,13
-"82","danterus",322209,"Ice Bucket Challenge",NA,14
-"83","danterus",329112,"War Pigs",NA,15
-"84","Feinberg",329595,"War Pigs",NA,15
-"85","fujge",330059,NA,"death",13
-"86","AutomattPLUS",333437,"Monster Hunter",NA,15
-"87","Feinberg",334454,"Who is Cutting Onions?",NA,16
-"88","AutomattPLUS",335328,"Ice Bucket Challenge",NA,16
-"89","AutomattPLUS",336395,"War Pigs",NA,17
-"90","Feinberg",340217,"Oh Shiny",NA,17
-"91","AutomattPLUS",344052,"Who is Cutting Onions?",NA,18
-"92","AutomattPLUS",344093,"Suit Up",NA,19
-"93","Feinberg",347417,"Ice Bucket Challenge",NA,18
-"94","okrzej_",348904,"Ice Bucket Challenge",NA,14
-"95","okrzej_",359324,"War Pigs",NA,15
-"96","okrzej_",362847,"Who is Cutting Onions?",NA,16
-"97","danterus",374518,"Oh Shiny",NA,16
-"98","modestmousefan11",380868,"War Pigs",NA,15
-"99","Feinberg",381548,"Country Lode, Take Me Home",NA,19
-"100","modestmousefan11",382979,"Who is Cutting Onions?",NA,16
-"101","modestmousefan11",383977,"Ice Bucket Challenge",NA,17
-"102","modestmousefan11",385124,"Suit Up",NA,18
-"103","okrzej_",390672,"Ol' Betsy",NA,17
-"104","AutomattPLUS",391540,"Not Quite ""Nine"" Lives",NA,20
-"105","okrzej_",392200,"Not Today, Thank You",NA,18
-"106","okrzej_",392226,"Take Aim",NA,19
-"107","okrzej_",400572,"Fishy Business",NA,20
-"108","modestmousefan11",418317,"Fishy Business",NA,19
-"109","Feinberg",419267,"Suit Up",NA,20
-"110","Feinberg",419364,"Isn't It Iron Pick",NA,21
-"111","danterus",423648,"Monster Hunter",NA,17
-"112","danterus",427209,"Into Fire",NA,18
-"113","Feinberg",433226,"Not Quite ""Nine"" Lives",NA,22
-"114","danterus",436708,"A Terrible Fortress",NA,19
-"115","AutomattPLUS",442107,"A Terrible Fortress",NA,21
-"116","AutomattPLUS",449207,"Into Fire",NA,22
-"117","okrzej_",459725,"Country Lode, Take Me Home",NA,21
-"118","Feinberg",467167,"A Terrible Fortress",NA,23
-"119","okrzej_",478674,"Monster Hunter",NA,22
-"120","AutomattPLUS",482959,"Local Brewery",NA,23
-"121","fujge",493144,"Those Were the Days",NA,14
-"122","Feinberg",493568,"Into Fire",NA,24
-"123","okrzej_",498703,"A Terrible Fortress",NA,23
-"124","danterus",502295,"Not Quite ""Nine"" Lives",NA,20
-"125","AutomattPLUS",506311,"Ol' Betsy",NA,24
-"126","AutomattPLUS",507413,"Not Today, Thank You",NA,25
-"127","AutomattPLUS",507453,"Take Aim",NA,26
-"128","modestmousefan11",517573,"A Terrible Fortress",NA,20
-"129","danterus",518005,"Not Today, Thank You",NA,21
-"130","danterus",518152,"Take Aim",NA,22
-"131","danterus",521792,"Ol' Betsy",NA,23
-"132","modestmousefan11",529374,"Into Fire",NA,21
-"133","okrzej_",529803,"Into Fire",NA,24
-"134","AutomattPLUS",531954,NA,"blind_travel",26
-"135","danterus",557235,NA,"blind_travel",23
-"136","fujge",560446,"Who is Cutting Onions?",NA,15
-"137","fujge",562336,"War Pigs",NA,16
-"138","fujge",572635,"Ol' Betsy",NA,17
-"139","fujge",573635,"Not Today, Thank You",NA,18
-"140","fujge",573649,"Take Aim",NA,19
-"141","fujge",581635,"Oh Shiny",NA,20
-"142","fujge",583990,"Ice Bucket Challenge",NA,21
-"143","modestmousefan11",584967,"Not Quite ""Nine"" Lives",NA,22
-"144","Feinberg",585005,NA,"blind_travel",24
-"145","modestmousefan11",594464,"Ol' Betsy",NA,23
-"146","modestmousefan11",596875,"Take Aim",NA,24
-"147","Feinberg",600330,"Fishy Business",NA,25
-"148","danterus",603161,"Isn't It Iron Pick",NA,24
-"149","modestmousefan11",606175,"Not Today, Thank You",NA,25
-"150","okrzej_",607792,NA,"blind_travel",24
-"151","Feinberg",616341,"Local Brewery",NA,26
-"152","Feinberg",621569,"Not Today, Thank You",NA,27
-"153","Feinberg",621578,"Take Aim",NA,28
-"154","Feinberg",625228,"Ol' Betsy",NA,29
-"155","modestmousefan11",628241,NA,"blind_travel",25
-"156","Feinberg",633384,"Sweet Dreams",NA,30
-"157","okrzej_",636055,"Bullseye",NA,25
-"158","fujge",643785,"Country Lode, Take Me Home",NA,22
-"159","modestmousefan11",646084,"Local Brewery",NA,26
-"160","AutomattPLUS",646665,"Return to Sender",NA,27
-"161","okrzej_",647195,"Not Quite ""Nine"" Lives",NA,26
-"162","okrzej_",650196,"Sweet Dreams",NA,27
-"163","danterus",651810,"Eye Spy",NA,25
-"164","modestmousefan11",655927,"Sweet Dreams",NA,27
-"165","fujge",661861,"Suit Up",NA,23
-"166","fujge",671082,"Isn't It Iron Pick",NA,24
-"167","AutomattPLUS",675564,"Eye Spy",NA,28
-"168","AutomattPLUS",679140,"Sweet Dreams",NA,29
-"169","okrzej_",684330,"Local Brewery",NA,28
-"170","Feinberg",689315,"Eye Spy",NA,31
-"171","AutomattPLUS",702010,"Country Lode, Take Me Home",NA,30
-"172","fujge",716991,"A Terrible Fortress",NA,25
-"173","danterus",722340,NA,"eliminate",25
-"174","fujge",722340,"Into Fire",NA,26
-"175","fujge",724135,NA,"death",26
-"176","modestmousefan11",745030,"Eye Spy",NA,28
-"177","okrzej_",746354,"Eye Spy",NA,29
-"178","fujge",765050,"Sweet Dreams",NA,27
-"179","Feinberg",788716,"The End?",NA,32
-"180","Feinberg",824666,"Free the End",NA,33
-"181","Feinberg",835215,NA,"dragon_death",33
-"182","AutomattPLUS",851048,"The End?",NA,31
-"183","modestmousefan11",852079,"The End?",NA,29
-"184","okrzej_",857226,"The End?",NA,30
-"185","Feinberg",868956,"Remote Getaway",NA,34
-"186","AutomattPLUS",877141,"Free the End",NA,32
-"187","okrzej_",886101,"Free the End",NA,31
-"188","Feinberg",889066,"The City at the End of the Game",NA,35
-"189","AutomattPLUS",890365,NA,"dragon_death",32
-"190","okrzej_",896855,NA,"dragon_death",31
-"191","modestmousefan11",897274,"You Need a Mint",NA,30
-"192","Feinberg",904215,"Cover Me With Diamonds",NA,36
-"193","Feinberg",905516,"Sky's the Limit",NA,37
-"194","okrzej_",927432,"Remote Getaway",NA,32
-"195","AutomattPLUS",931176,"Remote Getaway",NA,33
-"196","AutomattPLUS",931435,"Bullseye",NA,34
-"197","Feinberg",944265,"Great View From Up Here",NA,38
-"198","okrzej_",946261,"The City at the End of the Game",NA,33
-"199","okrzej_",954360,"Sky's the Limit",NA,34
-"200","AutomattPLUS",954968,"The City at the End of the Game",NA,35
-"201","modestmousefan11",958417,"Free the End",NA,31
-"202","modestmousefan11",958434,NA,"dragon_death",31
-"203","okrzej_",958809,"Cover Me With Diamonds",NA,35
-"204","okrzej_",958838,"Suit Up",NA,36
-"205","AutomattPLUS",971366,"Sky's the Limit",NA,36
-"206","AutomattPLUS",971409,"Cover Me With Diamonds",NA,37
-"207","modestmousefan11",983551,"Remote Getaway",NA,32
-"208","modestmousefan11",1002033,"The City at the End of the Game",NA,33
-"209","modestmousefan11",1012831,"Sky's the Limit",NA,34
-"210","modestmousefan11",1018931,"Cover Me With Diamonds",NA,35
-"211","fujge",1041911,"Local Brewery",NA,28
-"212","fujge",1054077,"Not Quite ""Nine"" Lives",NA,29
-"213","modestmousefan11",1077627,"Great View From Up Here",NA,36
-"214","fujge",1083128,NA,"blind_travel",29
-"215","AutomattPLUS",1109171,"Great View From Up Here",NA,38
-"216","Feinberg",1140866,"The Next Generation",NA,39
-"217","Feinberg",1173020,"Bullseye",NA,40
-"218","okrzej_",1205113,"Great View From Up Here",NA,37
-"219","fujge",1227351,"Eye Spy",NA,30
-"220","okrzej_",1238914,"The Next Generation",NA,38
-"221","AutomattPLUS",1244882,"The Next Generation",NA,39
-"222","okrzej_",1284223,"Voluntary Exile",NA,39
-"223","okrzej_",1284256,"Who's the Pillager Now?",NA,40
-"224","modestmousefan11",1290980,"The Next Generation",NA,37
-"225","AutomattPLUS",1335417,"Fishy Business",NA,40
-"226","AutomattPLUS",1356438,"Voluntary Exile",NA,41
-"227","AutomattPLUS",1356483,"Who's the Pillager Now?",NA,42
-"228","Feinberg",1394321,"A Throwaway Joke",NA,41
-"229","modestmousefan11",1417335,"Voluntary Exile",NA,38
-"230","modestmousefan11",1417361,"Who's the Pillager Now?",NA,39
-"231","fujge",1440002,NA,"eliminate",30
-"232","okrzej_",1445075,"Enchanter",NA,41
-"233","AutomattPLUS",1485150,"Enchanter",NA,43
-"234","Feinberg",1544923,"Voluntary Exile",NA,42
-"235","Feinberg",1545018,"Who's the Pillager Now?",NA,43
-"236","okrzej_",1708627,"Hero of the Village",NA,42
-"237","okrzej_",1718232,"Postmortal",NA,43
-"238","modestmousefan11",1730029,"Hero of the Village",NA,40
-"239","Feinberg",1748152,"Hired Help",NA,44
-"240","modestmousefan11",1832748,"Bullseye",NA,41
-"241","Feinberg",1848914,"Hero of the Village",NA,45
-"242","Feinberg",1850415,"Postmortal",NA,46
-"243","okrzej_",1895286,"A Throwaway Joke",NA,44
-"244","Feinberg",1903943,"Enchanter",NA,47
-"245","AutomattPLUS",1963767,"Hero of the Village",NA,44
-"246","AutomattPLUS",1966641,"Postmortal",NA,45
-"247","okrzej_",1973686,"Sniper Duel",NA,45
-"248","Feinberg",1996319,"Sniper Duel",NA,48
-"249","okrzej_",2008036,"Total Beelocation",NA,46
-"250","modestmousefan11",2009511,"This Boat Has Legs",NA,42
-"251","modestmousefan11",2015287,"Return to Sender",NA,43
-"252","okrzej_",2049176,"Spooky Scary Skeleton",NA,47
-"253","Feinberg",2061013,"Spooky Scary Skeleton",NA,49
-"254","okrzej_",2092991,"Oh Shiny",NA,48
-"255","modestmousefan11",2103410,"Postmortal",NA,44
-"256","modestmousefan11",2123937,"Sniper Duel",NA,45
-"257","okrzej_",2137045,"This Boat Has Legs",NA,49
-"258","modestmousefan11",2162069,"Subspace Bubble",NA,46
-"259","AutomattPLUS",2162070,NA,"eliminate",45
-"260","modestmousefan11",2233935,"Uneasy Alliance",NA,47
-"261","Feinberg",2234564,"Hidden in the Depths",NA,50
-"262","okrzej_",2249036,"Return to Sender",NA,50
-"263","Feinberg",2259663,"Serious Dedication",NA,51
-"264","Feinberg",2281216,"Hot Tourist Destinations",NA,52
-"265","Feinberg",2283076,"This Boat Has Legs",NA,53
-"266","Feinberg",2302639,"Subspace Bubble",NA,54
-"267","modestmousefan11",2305807,"Country Lode, Take Me Home",NA,48
-"268","okrzej_",2453740,"Hot Tourist Destinations",NA,51
-"269","Feinberg",2479168,"Very Very Frightening",NA,55
-"270","Feinberg",2544664,"Withering Heights",NA,56
-"271","okrzej_",2564436,"Hidden in the Depths",NA,52
-"272","modestmousefan11",2585426,"Total Beelocation",NA,49
-"273","Feinberg",2621415,"Zombie Doctor",NA,57
-"274","Feinberg",2670516,"Bring Home the Beacon",NA,58
-"275","okrzej_",2673985,"Subspace Bubble",NA,53
-"276","modestmousefan11",2705300,"Enchanter",NA,50
-"277","okrzej_",2760371,"Withering Heights",NA,54
-"278","Feinberg",2764158,"Uneasy Alliance",NA,59
-"279","okrzej_",2798650,"Bring Home the Beacon",NA,55
-"280","Feinberg",2847667,"Total Beelocation",NA,60
-"281","modestmousefan11",2880005,NA,"eliminate",50
-"282","okrzej_",2891540,"Uneasy Alliance",NA,56
-"283","Feinberg",3190517,"Arbalistic",NA,61
-"284","okrzej_",3196300,"Bee Our Guest",NA,57
-"285","Feinberg",3200267,"Bee Our Guest",NA,62
-"286","okrzej_",3250004,"Serious Dedication",NA,58
-"287","Feinberg",3364814,"The End... Again...",NA,63
-"288","Feinberg",3378364,"You Need a Mint",NA,64
-"289","Feinberg",3380014,NA,"death",64
-"290","okrzej_",3423859,"Arbalistic",NA,59
-"291","okrzej_",3544707,"The End... Again...",NA,60
-"292","okrzej_",3557902,"You Need a Mint",NA,61
-"293","Feinberg",3561335,"Sticky Situation",NA,65
-"294","okrzej_",3561861,NA,"death",61
-"295","okrzej_",3574761,"Sticky Situation",NA,62
-"296","Feinberg",3575002,NA,"death_spawnpoint",65
-"297","okrzej_",3584861,NA,"death_spawnpoint",62
-"298","okrzej_",3600007,NA,"eliminate",62
+"","player","time","time_ms","advancement","ranked_event","n_advancements"
+"1","danterus",00:00:40.712,40712,"Diamonds!",NA,1
+"2","danterus",00:00:41.264,41264,"Stone Age",NA,2
+"3","AutomattPLUS",00:00:41.599,41599,"Acquire Hardware",NA,1
+"4","AutomattPLUS",00:00:41.641,41641,"Diamonds!",NA,2
+"5","AutomattPLUS",00:00:42.096,42096,"Stone Age",NA,3
+"6","danterus",00:00:42.964,42964,"Acquire Hardware",NA,3
+"7","okrzej_",00:00:44.750,44750,"Diamonds!",NA,1
+"8","okrzej_",00:00:46.747,46747,"Stone Age",NA,2
+"9","okrzej_",00:00:48.895,48895,"Acquire Hardware",NA,3
+"10","Feinberg",00:00:50.373,50373,"Acquire Hardware",NA,1
+"11","modestmousefan11",00:00:51.076,51076,"Diamonds!",NA,1
+"12","modestmousefan11",00:00:51.092,51092,"Acquire Hardware",NA,2
+"13","Feinberg",00:00:52.126,52126,"Stone Age",NA,2
+"14","Feinberg",00:00:52.226,52226,"Diamonds!",NA,3
+"15","modestmousefan11",00:00:52.331,52331,"Stone Age",NA,3
+"16","fujge",00:01:00.553,60553,"Diamonds!",NA,1
+"17","fujge",00:01:00.569,60569,"Stone Age",NA,2
+"18","fujge",00:01:03.171,63171,"Acquire Hardware",NA,3
+"19","AutomattPLUS",00:01:28.895,88895,"Getting an Upgrade",NA,4
+"20","AutomattPLUS",00:01:28.934,88934,"Isn't It Iron Pick",NA,5
+"21","Feinberg",00:01:29.371,89371,"Getting an Upgrade",NA,4
+"22","okrzej_",00:01:32.893,92893,"Getting an Upgrade",NA,4
+"23","AutomattPLUS",00:01:35.353,95353,"A Seedy Place",NA,6
+"24","AutomattPLUS",00:01:42.425,102425,"What a Deal!",NA,7
+"25","AutomattPLUS",00:01:43.498,103498,"Tactical Fishing",NA,8
+"26","Feinberg",00:01:45.340,105340,"Tactical Fishing",NA,5
+"27","danterus",00:01:47.357,107357,"Getting an Upgrade",NA,4
+"28","fujge",00:01:49.989,109989,"Getting an Upgrade",NA,4
+"29","okrzej_",00:01:55.022,115022,"Tactical Fishing",NA,5
+"30","Feinberg",00:02:05.907,125907,"What a Deal!",NA,6
+"31","danterus",00:02:11.709,131709,"What a Deal!",NA,5
+"32","fujge",00:02:14.206,134206,"Tactical Fishing",NA,5
+"33","danterus",00:02:16.832,136832,"A Seedy Place",NA,6
+"34","modestmousefan11",00:02:25.275,145275,"Getting an Upgrade",NA,4
+"35","modestmousefan11",00:02:25.294,145294,"Isn't It Iron Pick",NA,5
+"36","okrzej_",00:02:30.471,150471,"A Seedy Place",NA,6
+"37","Feinberg",00:02:30.829,150829,"A Seedy Place",NA,7
+"38","Feinberg",00:02:31.072,151072,"The Parrots and the Bats",NA,8
+"39","AutomattPLUS",00:02:33.393,153393,"Best Friends Forever",NA,9
+"40","fujge",00:02:39.561,159561,"Fishy Business",NA,6
+"41","danterus",00:02:40.046,160046,"Best Friends Forever",NA,7
+"42","AutomattPLUS",00:02:42.295,162295,"The Parrots and the Bats",NA,10
+"43","modestmousefan11",00:02:43.719,163719,"Best Friends Forever",NA,6
+"44","fujge",00:02:47.795,167795,"What a Deal!",NA,7
+"45","okrzej_",00:02:48.145,168145,"The Parrots and the Bats",NA,7
+"46","Feinberg",00:02:53.221,173221,"Best Friends Forever",NA,9
+"47","danterus",00:02:57.664,177664,"The Parrots and the Bats",NA,8
+"48","okrzej_",00:03:01.883,181883,"What a Deal!",NA,8
+"49","modestmousefan11",00:03:04.471,184471,"The Parrots and the Bats",NA,7
+"50","danterus",00:03:06.161,186161,"Hot Stuff",NA,9
+"51","AutomattPLUS",00:03:08.397,188397,"Hot Stuff",NA,11
+"52","modestmousefan11",00:03:15.224,195224,"What a Deal!",NA,8
+"53","modestmousefan11",00:03:16.312,196312,"Tactical Fishing",NA,9
+"54","danterus",00:03:20.846,200846,"We Need to Go Deeper",NA,10
+"55","Feinberg",00:03:25.669,205669,"Hot Stuff",NA,10
+"56","fujge",00:03:26.887,206887,"The Parrots and the Bats",NA,8
+"57","AutomattPLUS",00:03:28.177,208177,"We Need to Go Deeper",NA,12
+"58","fujge",00:03:34.808,214808,"Best Friends Forever",NA,9
+"59","modestmousefan11",00:03:35.014,215014,"A Seedy Place",NA,10
+"60","Feinberg",00:03:37.162,217162,"We Need to Go Deeper",NA,11
+"61","okrzej_",00:03:41.845,221845,"Best Friends Forever",NA,9
+"62","modestmousefan11",00:03:48.020,228020,"Hot Stuff",NA,11
+"63","okrzej_",00:03:50.496,230496,"Isn't It Iron Pick",NA,10
+"64","okrzej_",00:04:01.595,241595,"Hot Stuff",NA,11
+"65","modestmousefan11",00:04:01.793,241793,"We Need to Go Deeper",NA,12
+"66","fujge",00:04:03.761,243761,"A Seedy Place",NA,10
+"67","danterus",00:04:07.968,247968,"Those Were the Days",NA,11
+"68","okrzej_",00:04:14.893,254893,"We Need to Go Deeper",NA,12
+"69","fujge",00:04:20.389,260389,"Hot Stuff",NA,11
+"70","Feinberg",00:04:21.519,261519,"Those Were the Days",NA,12
+"71","AutomattPLUS",00:04:25.502,265502,"Those Were the Days",NA,13
+"72","fujge",00:04:31.690,271690,"We Need to Go Deeper",NA,12
+"73","Feinberg",00:04:42.122,282122,"Return to Sender",NA,13
+"74","Feinberg",00:04:42.219,282219,"Monster Hunter",NA,14
+"75","fujge",00:04:48.396,288396,"Monster Hunter",NA,13
+"76","modestmousefan11",00:04:53.967,293967,"Monster Hunter",NA,13
+"77","okrzej_",00:04:57.600,297600,"Those Were the Days",NA,13
+"78","AutomattPLUS",00:05:03.259,303259,"Oh Shiny",NA,14
+"79","modestmousefan11",00:05:07.573,307573,"Those Were the Days",NA,14
+"80","danterus",00:05:10.818,310818,"Suit Up",NA,12
+"81","danterus",00:05:10.970,310970,"Who is Cutting Onions?",NA,13
+"82","danterus",00:05:22.209,322209,"Ice Bucket Challenge",NA,14
+"83","danterus",00:05:29.112,329112,"War Pigs",NA,15
+"84","Feinberg",00:05:29.595,329595,"War Pigs",NA,15
+"85","fujge",00:05:30.059,330059,NA,"death",13
+"86","AutomattPLUS",00:05:33.437,333437,"Monster Hunter",NA,15
+"87","Feinberg",00:05:34.454,334454,"Who is Cutting Onions?",NA,16
+"88","AutomattPLUS",00:05:35.328,335328,"Ice Bucket Challenge",NA,16
+"89","AutomattPLUS",00:05:36.395,336395,"War Pigs",NA,17
+"90","Feinberg",00:05:40.217,340217,"Oh Shiny",NA,17
+"91","AutomattPLUS",00:05:44.052,344052,"Who is Cutting Onions?",NA,18
+"92","AutomattPLUS",00:05:44.093,344093,"Suit Up",NA,19
+"93","Feinberg",00:05:47.417,347417,"Ice Bucket Challenge",NA,18
+"94","okrzej_",00:05:48.904,348904,"Ice Bucket Challenge",NA,14
+"95","okrzej_",00:05:59.324,359324,"War Pigs",NA,15
+"96","okrzej_",00:06:02.847,362847,"Who is Cutting Onions?",NA,16
+"97","danterus",00:06:14.518,374518,"Oh Shiny",NA,16
+"98","modestmousefan11",00:06:20.868,380868,"War Pigs",NA,15
+"99","Feinberg",00:06:21.548,381548,"Country Lode, Take Me Home",NA,19
+"100","modestmousefan11",00:06:22.979,382979,"Who is Cutting Onions?",NA,16
+"101","modestmousefan11",00:06:23.977,383977,"Ice Bucket Challenge",NA,17
+"102","modestmousefan11",00:06:25.124,385124,"Suit Up",NA,18
+"103","okrzej_",00:06:30.672,390672,"Ol' Betsy",NA,17
+"104","AutomattPLUS",00:06:31.540,391540,"Not Quite ""Nine"" Lives",NA,20
+"105","okrzej_",00:06:32.200,392200,"Not Today, Thank You",NA,18
+"106","okrzej_",00:06:32.226,392226,"Take Aim",NA,19
+"107","okrzej_",00:06:40.572,400572,"Fishy Business",NA,20
+"108","modestmousefan11",00:06:58.317,418317,"Fishy Business",NA,19
+"109","Feinberg",00:06:59.267,419267,"Suit Up",NA,20
+"110","Feinberg",00:06:59.364,419364,"Isn't It Iron Pick",NA,21
+"111","danterus",00:07:03.648,423648,"Monster Hunter",NA,17
+"112","danterus",00:07:07.209,427209,"Into Fire",NA,18
+"113","Feinberg",00:07:13.226,433226,"Not Quite ""Nine"" Lives",NA,22
+"114","danterus",00:07:16.708,436708,"A Terrible Fortress",NA,19
+"115","AutomattPLUS",00:07:22.107,442107,"A Terrible Fortress",NA,21
+"116","AutomattPLUS",00:07:29.207,449207,"Into Fire",NA,22
+"117","okrzej_",00:07:39.725,459725,"Country Lode, Take Me Home",NA,21
+"118","Feinberg",00:07:47.167,467167,"A Terrible Fortress",NA,23
+"119","okrzej_",00:07:58.674,478674,"Monster Hunter",NA,22
+"120","AutomattPLUS",00:08:02.959,482959,"Local Brewery",NA,23
+"121","fujge",00:08:13.144,493144,"Those Were the Days",NA,14
+"122","Feinberg",00:08:13.568,493568,"Into Fire",NA,24
+"123","okrzej_",00:08:18.703,498703,"A Terrible Fortress",NA,23
+"124","danterus",00:08:22.295,502295,"Not Quite ""Nine"" Lives",NA,20
+"125","AutomattPLUS",00:08:26.311,506311,"Ol' Betsy",NA,24
+"126","AutomattPLUS",00:08:27.413,507413,"Not Today, Thank You",NA,25
+"127","AutomattPLUS",00:08:27.453,507453,"Take Aim",NA,26
+"128","modestmousefan11",00:08:37.574,517573,"A Terrible Fortress",NA,20
+"129","danterus",00:08:38.005,518005,"Not Today, Thank You",NA,21
+"130","danterus",00:08:38.152,518152,"Take Aim",NA,22
+"131","danterus",00:08:41.792,521792,"Ol' Betsy",NA,23
+"132","modestmousefan11",00:08:49.374,529374,"Into Fire",NA,21
+"133","okrzej_",00:08:49.803,529803,"Into Fire",NA,24
+"134","AutomattPLUS",00:08:51.954,531954,NA,"blind_travel",26
+"135","danterus",00:09:17.235,557235,NA,"blind_travel",23
+"136","fujge",00:09:20.446,560446,"Who is Cutting Onions?",NA,15
+"137","fujge",00:09:22.336,562336,"War Pigs",NA,16
+"138","fujge",00:09:32.635,572635,"Ol' Betsy",NA,17
+"139","fujge",00:09:33.635,573635,"Not Today, Thank You",NA,18
+"140","fujge",00:09:33.649,573649,"Take Aim",NA,19
+"141","fujge",00:09:41.635,581635,"Oh Shiny",NA,20
+"142","fujge",00:09:43.990,583990,"Ice Bucket Challenge",NA,21
+"143","modestmousefan11",00:09:44.967,584967,"Not Quite ""Nine"" Lives",NA,22
+"144","Feinberg",00:09:45.005,585005,NA,"blind_travel",24
+"145","modestmousefan11",00:09:54.464,594464,"Ol' Betsy",NA,23
+"146","modestmousefan11",00:09:56.875,596875,"Take Aim",NA,24
+"147","Feinberg",00:10:00.330,600330,"Fishy Business",NA,25
+"148","danterus",00:10:03.161,603161,"Isn't It Iron Pick",NA,24
+"149","modestmousefan11",00:10:06.175,606175,"Not Today, Thank You",NA,25
+"150","okrzej_",00:10:07.792,607792,NA,"blind_travel",24
+"151","Feinberg",00:10:16.341,616341,"Local Brewery",NA,26
+"152","Feinberg",00:10:21.569,621569,"Not Today, Thank You",NA,27
+"153","Feinberg",00:10:21.578,621578,"Take Aim",NA,28
+"154","Feinberg",00:10:25.228,625228,"Ol' Betsy",NA,29
+"155","modestmousefan11",00:10:28.241,628241,NA,"blind_travel",25
+"156","Feinberg",00:10:33.384,633384,"Sweet Dreams",NA,30
+"157","okrzej_",00:10:36.055,636055,"Bullseye",NA,25
+"158","fujge",00:10:43.785,643785,"Country Lode, Take Me Home",NA,22
+"159","modestmousefan11",00:10:46.084,646084,"Local Brewery",NA,26
+"160","AutomattPLUS",00:10:46.665,646665,"Return to Sender",NA,27
+"161","okrzej_",00:10:47.195,647195,"Not Quite ""Nine"" Lives",NA,26
+"162","okrzej_",00:10:50.196,650196,"Sweet Dreams",NA,27
+"163","danterus",00:10:51.810,651810,"Eye Spy",NA,25
+"164","modestmousefan11",00:10:55.927,655927,"Sweet Dreams",NA,27
+"165","fujge",00:11:01.861,661861,"Suit Up",NA,23
+"166","fujge",00:11:11.082,671082,"Isn't It Iron Pick",NA,24
+"167","AutomattPLUS",00:11:15.564,675564,"Eye Spy",NA,28
+"168","AutomattPLUS",00:11:19.140,679140,"Sweet Dreams",NA,29
+"169","okrzej_",00:11:24.330,684330,"Local Brewery",NA,28
+"170","Feinberg",00:11:29.315,689315,"Eye Spy",NA,31
+"171","AutomattPLUS",00:11:42.010,702010,"Country Lode, Take Me Home",NA,30
+"172","fujge",00:11:56.991,716991,"A Terrible Fortress",NA,25
+"173","danterus",00:12:02.340,722340,NA,"eliminate",25
+"174","fujge",00:12:02.340,722340,"Into Fire",NA,26
+"175","fujge",00:12:04.135,724135,NA,"death",26
+"176","modestmousefan11",00:12:25.030,745030,"Eye Spy",NA,28
+"177","okrzej_",00:12:26.354,746354,"Eye Spy",NA,29
+"178","fujge",00:12:45.050,765050,"Sweet Dreams",NA,27
+"179","Feinberg",00:13:08.716,788716,"The End?",NA,32
+"180","Feinberg",00:13:44.666,824666,"Free the End",NA,33
+"181","Feinberg",00:13:55.215,835215,NA,"dragon_death",33
+"182","AutomattPLUS",00:14:11.048,851048,"The End?",NA,31
+"183","modestmousefan11",00:14:12.079,852079,"The End?",NA,29
+"184","okrzej_",00:14:17.226,857226,"The End?",NA,30
+"185","Feinberg",00:14:28.956,868956,"Remote Getaway",NA,34
+"186","AutomattPLUS",00:14:37.141,877141,"Free the End",NA,32
+"187","okrzej_",00:14:46.101,886101,"Free the End",NA,31
+"188","Feinberg",00:14:49.066,889066,"The City at the End of the Game",NA,35
+"189","AutomattPLUS",00:14:50.365,890365,NA,"dragon_death",32
+"190","okrzej_",00:14:56.855,896855,NA,"dragon_death",31
+"191","modestmousefan11",00:14:57.274,897274,"You Need a Mint",NA,30
+"192","Feinberg",00:15:04.215,904215,"Cover Me With Diamonds",NA,36
+"193","Feinberg",00:15:05.516,905516,"Sky's the Limit",NA,37
+"194","okrzej_",00:15:27.432,927432,"Remote Getaway",NA,32
+"195","AutomattPLUS",00:15:31.176,931176,"Remote Getaway",NA,33
+"196","AutomattPLUS",00:15:31.435,931435,"Bullseye",NA,34
+"197","Feinberg",00:15:44.265,944265,"Great View From Up Here",NA,38
+"198","okrzej_",00:15:46.261,946261,"The City at the End of the Game",NA,33
+"199","okrzej_",00:15:54.360,954360,"Sky's the Limit",NA,34
+"200","AutomattPLUS",00:15:54.968,954968,"The City at the End of the Game",NA,35
+"201","modestmousefan11",00:15:58.417,958417,"Free the End",NA,31
+"202","modestmousefan11",00:15:58.434,958434,NA,"dragon_death",31
+"203","okrzej_",00:15:58.809,958809,"Cover Me With Diamonds",NA,35
+"204","okrzej_",00:15:58.838,958838,"Suit Up",NA,36
+"205","AutomattPLUS",00:16:11.366,971366,"Sky's the Limit",NA,36
+"206","AutomattPLUS",00:16:11.409,971409,"Cover Me With Diamonds",NA,37
+"207","modestmousefan11",00:16:23.551,983551,"Remote Getaway",NA,32
+"208","modestmousefan11",00:16:42.033,1002033,"The City at the End of the Game",NA,33
+"209","modestmousefan11",00:16:52.831,1012831,"Sky's the Limit",NA,34
+"210","modestmousefan11",00:16:58.931,1018931,"Cover Me With Diamonds",NA,35
+"211","fujge",00:17:21.911,1041911,"Local Brewery",NA,28
+"212","fujge",00:17:34.077,1054077,"Not Quite ""Nine"" Lives",NA,29
+"213","modestmousefan11",00:17:57.627,1077627,"Great View From Up Here",NA,36
+"214","fujge",00:18:03.128,1083128,NA,"blind_travel",29
+"215","AutomattPLUS",00:18:29.171,1109171,"Great View From Up Here",NA,38
+"216","Feinberg",00:19:00.866,1140866,"The Next Generation",NA,39
+"217","Feinberg",00:19:33.020,1173020,"Bullseye",NA,40
+"218","okrzej_",00:20:05.113,1205113,"Great View From Up Here",NA,37
+"219","fujge",00:20:27.351,1227351,"Eye Spy",NA,30
+"220","okrzej_",00:20:38.914,1238914,"The Next Generation",NA,38
+"221","AutomattPLUS",00:20:44.882,1244882,"The Next Generation",NA,39
+"222","okrzej_",00:21:24.223,1284223,"Voluntary Exile",NA,39
+"223","okrzej_",00:21:24.256,1284256,"Who's the Pillager Now?",NA,40
+"224","modestmousefan11",00:21:30.980,1290980,"The Next Generation",NA,37
+"225","AutomattPLUS",00:22:15.417,1335417,"Fishy Business",NA,40
+"226","AutomattPLUS",00:22:36.438,1356438,"Voluntary Exile",NA,41
+"227","AutomattPLUS",00:22:36.483,1356483,"Who's the Pillager Now?",NA,42
+"228","Feinberg",00:23:14.321,1394321,"A Throwaway Joke",NA,41
+"229","modestmousefan11",00:23:37.335,1417335,"Voluntary Exile",NA,38
+"230","modestmousefan11",00:23:37.361,1417361,"Who's the Pillager Now?",NA,39
+"231","fujge",00:24:00.002,1440002,NA,"eliminate",30
+"232","okrzej_",00:24:05.075,1445075,"Enchanter",NA,41
+"233","AutomattPLUS",00:24:45.150,1485150,"Enchanter",NA,43
+"234","Feinberg",00:25:44.923,1544923,"Voluntary Exile",NA,42
+"235","Feinberg",00:25:45.018,1545018,"Who's the Pillager Now?",NA,43
+"236","okrzej_",00:28:28.627,1708627,"Hero of the Village",NA,42
+"237","okrzej_",00:28:38.232,1718232,"Postmortal",NA,43
+"238","modestmousefan11",00:28:50.029,1730029,"Hero of the Village",NA,40
+"239","Feinberg",00:29:08.152,1748152,"Hired Help",NA,44
+"240","modestmousefan11",00:30:32.748,1832748,"Bullseye",NA,41
+"241","Feinberg",00:30:48.914,1848914,"Hero of the Village",NA,45
+"242","Feinberg",00:30:50.415,1850415,"Postmortal",NA,46
+"243","okrzej_",00:31:35.286,1895286,"A Throwaway Joke",NA,44
+"244","Feinberg",00:31:43.943,1903943,"Enchanter",NA,47
+"245","AutomattPLUS",00:32:43.767,1963767,"Hero of the Village",NA,44
+"246","AutomattPLUS",00:32:46.641,1966641,"Postmortal",NA,45
+"247","okrzej_",00:32:53.686,1973686,"Sniper Duel",NA,45
+"248","Feinberg",00:33:16.319,1996319,"Sniper Duel",NA,48
+"249","okrzej_",00:33:28.036,2008036,"Total Beelocation",NA,46
+"250","modestmousefan11",00:33:29.511,2009511,"This Boat Has Legs",NA,42
+"251","modestmousefan11",00:33:35.287,2015287,"Return to Sender",NA,43
+"252","okrzej_",00:34:09.176,2049176,"Spooky Scary Skeleton",NA,47
+"253","Feinberg",00:34:21.013,2061013,"Spooky Scary Skeleton",NA,49
+"254","okrzej_",00:34:52.991,2092991,"Oh Shiny",NA,48
+"255","modestmousefan11",00:35:03.410,2103410,"Postmortal",NA,44
+"256","modestmousefan11",00:35:23.937,2123937,"Sniper Duel",NA,45
+"257","okrzej_",00:35:37.045,2137045,"This Boat Has Legs",NA,49
+"258","modestmousefan11",00:36:02.069,2162069,"Subspace Bubble",NA,46
+"259","AutomattPLUS",00:36:02.070,2162070,NA,"eliminate",45
+"260","modestmousefan11",00:37:13.935,2233935,"Uneasy Alliance",NA,47
+"261","Feinberg",00:37:14.564,2234564,"Hidden in the Depths",NA,50
+"262","okrzej_",00:37:29.036,2249036,"Return to Sender",NA,50
+"263","Feinberg",00:37:39.663,2259663,"Serious Dedication",NA,51
+"264","Feinberg",00:38:01.216,2281216,"Hot Tourist Destinations",NA,52
+"265","Feinberg",00:38:03.076,2283076,"This Boat Has Legs",NA,53
+"266","Feinberg",00:38:22.639,2302639,"Subspace Bubble",NA,54
+"267","modestmousefan11",00:38:25.807,2305807,"Country Lode, Take Me Home",NA,48
+"268","okrzej_",00:40:53.740,2453740,"Hot Tourist Destinations",NA,51
+"269","Feinberg",00:41:19.168,2479168,"Very Very Frightening",NA,55
+"270","Feinberg",00:42:24.664,2544664,"Withering Heights",NA,56
+"271","okrzej_",00:42:44.436,2564436,"Hidden in the Depths",NA,52
+"272","modestmousefan11",00:43:05.426,2585426,"Total Beelocation",NA,49
+"273","Feinberg",00:43:41.415,2621415,"Zombie Doctor",NA,57
+"274","Feinberg",00:44:30.516,2670516,"Bring Home the Beacon",NA,58
+"275","okrzej_",00:44:33.985,2673985,"Subspace Bubble",NA,53
+"276","modestmousefan11",00:45:05.300,2705300,"Enchanter",NA,50
+"277","okrzej_",00:46:00.371,2760371,"Withering Heights",NA,54
+"278","Feinberg",00:46:04.158,2764158,"Uneasy Alliance",NA,59
+"279","okrzej_",00:46:38.650,2798650,"Bring Home the Beacon",NA,55
+"280","Feinberg",00:47:27.667,2847667,"Total Beelocation",NA,60
+"281","modestmousefan11",00:48:00.005,2880005,NA,"eliminate",50
+"282","okrzej_",00:48:11.540,2891540,"Uneasy Alliance",NA,56
+"283","Feinberg",00:53:10.517,3190517,"Arbalistic",NA,61
+"284","okrzej_",00:53:16.300,3196300,"Bee Our Guest",NA,57
+"285","Feinberg",00:53:20.267,3200267,"Bee Our Guest",NA,62
+"286","okrzej_",00:54:10.004,3250004,"Serious Dedication",NA,58
+"287","Feinberg",00:56:04.814,3364814,"The End... Again...",NA,63
+"288","Feinberg",00:56:18.364,3378364,"You Need a Mint",NA,64
+"289","Feinberg",00:56:20.014,3380014,NA,"death",64
+"290","okrzej_",00:57:03.859,3423859,"Arbalistic",NA,59
+"291","okrzej_",00:59:04.707,3544707,"The End... Again...",NA,60
+"292","okrzej_",00:59:17.902,3557902,"You Need a Mint",NA,61
+"293","Feinberg",00:59:21.335,3561335,"Sticky Situation",NA,65
+"294","okrzej_",00:59:21.861,3561861,NA,"death",61
+"295","okrzej_",00:59:34.761,3574761,"Sticky Situation",NA,62
+"296","Feinberg",00:59:35.002,3575002,NA,"death_spawnpoint",65
+"297","okrzej_",00:59:44.861,3584861,NA,"death_spawnpoint",62
+"298","okrzej_",01:00:00.007,3600007,NA,"eliminate",62

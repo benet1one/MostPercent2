@@ -1,277 +1,277 @@
-"","player","time_ms","advancement","ranked_event","n_advancements"
-"1","ANTOlNE",30776,"Stone Age",NA,1
-"2","Infume",31023,"Acquire Hardware",NA,1
-"3","ANTOlNE",32529,"Acquire Hardware",NA,2
-"4","Infume",32775,"Stone Age",NA,2
-"5","JakkeBoy3651",37314,"Acquire Hardware",NA,1
-"6","JakkeBoy3651",39013,"Stone Age",NA,2
-"7","7rowl",42017,"Acquire Hardware",NA,1
-"8","7rowl",42055,"Stone Age",NA,2
-"9","maskers_",45100,"Acquire Hardware",NA,1
-"10","maskers_",46097,"Stone Age",NA,2
-"11","iinterp",51837,"Stone Age",NA,1
-"12","iinterp",51987,"Acquire Hardware",NA,2
-"13","ANTOlNE",79372,"Isn't It Iron Pick",NA,3
-"14","ANTOlNE",79423,"Getting an Upgrade",NA,4
-"15","7rowl",90116,"Isn't It Iron Pick",NA,3
-"16","JakkeBoy3651",92289,"What a Deal!",NA,3
-"17","Infume",97989,"Getting an Upgrade",NA,3
-"18","Infume",98093,"Isn't It Iron Pick",NA,4
-"19","iinterp",100579,"Getting an Upgrade",NA,3
-"20","JakkeBoy3651",109347,"Isn't It Iron Pick",NA,4
-"21","maskers_",114393,"Isn't It Iron Pick",NA,3
-"22","ANTOlNE",121246,"What a Deal!",NA,5
-"23","iinterp",130865,"A Seedy Place",NA,4
-"24","maskers_",138843,"Getting an Upgrade",NA,4
-"25","Infume",147497,"What a Deal!",NA,5
-"26","Infume",154155,"Tactical Fishing",NA,6
-"27","7rowl",154421,"What a Deal!",NA,4
-"28","Infume",158978,"A Seedy Place",NA,7
-"29","7rowl",161601,"A Seedy Place",NA,5
-"30","iinterp",164195,"What a Deal!",NA,5
-"31","maskers_",164718,"A Seedy Place",NA,5
-"32","ANTOlNE",170162,"A Seedy Place",NA,6
-"33","ANTOlNE",189320,"Hot Stuff",NA,7
-"34","7rowl",192917,"Hot Stuff",NA,6
-"35","maskers_",193138,"What a Deal!",NA,6
-"36","iinterp",193878,"Isn't It Iron Pick",NA,6
-"37","JakkeBoy3651",196992,"The Parrots and the Bats",NA,5
-"38","ANTOlNE",202807,"We Need to Go Deeper",NA,8
-"39","Infume",209136,"The Parrots and the Bats",NA,8
-"40","7rowl",209478,"We Need to Go Deeper",NA,7
-"41","iinterp",214218,"Tactical Fishing",NA,7
-"42","JakkeBoy3651",219843,"Getting an Upgrade",NA,6
-"43","JakkeBoy3651",223852,"A Seedy Place",NA,7
-"44","maskers_",234400,"Hot Stuff",NA,7
-"45","JakkeBoy3651",234449,"Tactical Fishing",NA,8
-"46","iinterp",242627,"The Parrots and the Bats",NA,8
-"47","Infume",246189,"Best Friends Forever",NA,9
-"48","7rowl",248471,"The Parrots and the Bats",NA,8
-"49","maskers_",249029,"We Need to Go Deeper",NA,8
-"50","Infume",251784,"Hot Stuff",NA,10
-"51","JakkeBoy3651",252443,"Hot Stuff",NA,9
-"52","7rowl",258428,"Those Were the Days",NA,9
-"53","Infume",262192,"We Need to Go Deeper",NA,11
-"54","7rowl",265808,"War Pigs",NA,10
-"55","ANTOlNE",268374,"Those Were the Days",NA,9
-"56","7rowl",269019,"Who is Cutting Onions?",NA,11
-"57","JakkeBoy3651",269786,"We Need to Go Deeper",NA,10
-"58","maskers_",277846,"Oh Shiny",NA,9
-"59","ANTOlNE",279273,"War Pigs",NA,10
-"60","ANTOlNE",284070,"Who is Cutting Onions?",NA,11
-"61","iinterp",295837,"Fishy Business",NA,9
-"62","Infume",296086,"Those Were the Days",NA,12
-"63","Infume",304899,"War Pigs",NA,13
-"64","Infume",306433,"Oh Shiny",NA,14
-"65","iinterp",306829,"Hot Stuff",NA,10
-"66","Infume",306938,"Who is Cutting Onions?",NA,15
-"67","JakkeBoy3651",315871,"Those Were the Days",NA,11
-"68","iinterp",319584,"We Need to Go Deeper",NA,11
-"69","maskers_",321556,"Those Were the Days",NA,10
-"70","JakkeBoy3651",322534,"War Pigs",NA,12
-"71","ANTOlNE",325318,"Oh Shiny",NA,12
-"72","JakkeBoy3651",326490,"Ice Bucket Challenge",NA,13
-"73","maskers_",331149,"War Pigs",NA,11
-"74","maskers_",338946,"Who is Cutting Onions?",NA,12
-"75","7rowl",340224,"Ice Bucket Challenge",NA,12
-"76","JakkeBoy3651",340744,"Who is Cutting Onions?",NA,14
-"77","ANTOlNE",349672,"Ice Bucket Challenge",NA,13
-"78","iinterp",356480,"Those Were the Days",NA,12
-"79","7rowl",357064,"Local Brewery",NA,13
-"80","iinterp",369718,"War Pigs",NA,13
-"81","iinterp",372777,"Who is Cutting Onions?",NA,14
-"82","Infume",383811,"Fishy Business",NA,16
-"83","JakkeBoy3651",394136,"Oh Shiny",NA,15
-"84","maskers_",395499,"Ice Bucket Challenge",NA,13
-"85","Infume",413544,"Ice Bucket Challenge",NA,17
-"86","7rowl",419474,"A Terrible Fortress",NA,14
-"87","maskers_",425042,"Local Brewery",NA,14
-"88","ANTOlNE",431984,"Local Brewery",NA,14
-"89","ANTOlNE",434372,"Suit Up",NA,15
-"90","iinterp",437129,"Ice Bucket Challenge",NA,15
-"91","iinterp",454776,"Oh Shiny",NA,16
-"92","7rowl",458232,"Monster Hunter",NA,15
-"93","Infume",463953,"A Terrible Fortress",NA,18
-"94","JakkeBoy3651",473340,"Suit Up",NA,16
-"95","Infume",473597,"Monster Hunter",NA,19
-"96","Infume",473597,"Ol' Betsy",NA,20
-"97","Infume",473598,"Take Aim",NA,21
-"98","ANTOlNE",477369,"A Terrible Fortress",NA,16
-"99","Infume",486634,"Into Fire",NA,22
-"100","7rowl",487777,"Into Fire",NA,16
-"101","ANTOlNE",493269,"Take Aim",NA,17
-"102","ANTOlNE",496219,"Not Today, Thank You",NA,18
-"103","ANTOlNE",504212,"Monster Hunter",NA,19
-"104","ANTOlNE",514369,"Into Fire",NA,20
-"105","iinterp",530128,"Monster Hunter",NA,17
-"106","iinterp",530138,"Return to Sender",NA,18
-"107","Infume",535981,"Not Today, Thank You",NA,23
-"108","maskers_",559553,"A Terrible Fortress",NA,15
-"109","JakkeBoy3651",560644,"A Terrible Fortress",NA,17
-"110","iinterp",562429,"A Terrible Fortress",NA,19
-"111","Infume",568532,"Suit Up",NA,24
-"112","maskers_",572954,"Ol' Betsy",NA,16
-"113","maskers_",575552,"Take Aim",NA,17
-"114","7rowl",575669,"Ol' Betsy",NA,17
-"115","7rowl",577629,"Not Today, Thank You",NA,18
-"116","7rowl",577666,"Take Aim",NA,19
-"117","maskers_",579604,"Not Today, Thank You",NA,18
-"118","maskers_",586848,"Suit Up",NA,19
-"119","iinterp",600780,"Into Fire",NA,20
-"120","Infume",604800,NA,"blind_travel",24
-"121","7rowl",605440,NA,"blind_travel",19
-"122","maskers_",607004,"Monster Hunter",NA,20
-"123","JakkeBoy3651",612639,"Monster Hunter",NA,18
-"124","Infume",619544,"Local Brewery",NA,25
-"125","iinterp",625238,"Ol' Betsy",NA,21
-"126","iinterp",626228,"Take Aim",NA,22
-"127","iinterp",631029,"Not Today, Thank You",NA,23
-"128","iinterp",633429,NA,"death",23
-"129","7rowl",636634,"Tactical Fishing",NA,20
-"130","maskers_",645226,"Sweet Dreams",NA,21
-"131","JakkeBoy3651",647438,"Ol' Betsy",NA,19
-"132","JakkeBoy3651",649432,"Take Aim",NA,20
-"133","7rowl",652933,"Fishy Business",NA,21
-"134","JakkeBoy3651",654042,"Into Fire",NA,21
-"135","iinterp",665412,"Sweet Dreams",NA,24
-"136","maskers_",666453,"The Parrots and the Bats",NA,22
-"137","JakkeBoy3651",668034,"Not Today, Thank You",NA,22
-"138","JakkeBoy3651",678336,"Fishy Business",NA,23
-"139","Infume",682949,"Not Quite ""Nine"" Lives",NA,26
-"140","JakkeBoy3651",684691,"Local Brewery",NA,24
-"141","maskers_",684702,"Bullseye",NA,23
-"142","maskers_",700409,"Into Fire",NA,24
-"143","ANTOlNE",720000,NA,"eliminate",20
-"144","maskers_",756709,NA,"blind_travel",24
-"145","Infume",757290,"Eye Spy",NA,27
-"146","7rowl",779880,"Eye Spy",NA,22
-"147","JakkeBoy3651",792560,NA,"blind_travel",24
-"148","iinterp",806776,"Suit Up",NA,25
-"149","maskers_",819342,"Tactical Fishing",NA,25
-"150","7rowl",838130,"Suit Up",NA,23
-"151","maskers_",863898,"Fishy Business",NA,26
-"152","Infume",867515,"The End?",NA,28
-"153","JakkeBoy3651",891724,"Eye Spy",NA,25
-"154","Infume",894405,"Free the End",NA,29
-"155","Infume",908052,NA,"dragon_death",29
-"156","7rowl",908875,"Sweet Dreams",NA,24
-"157","7rowl",922885,"The End?",NA,25
-"158","iinterp",928297,NA,"blind_travel",25
-"159","Infume",932739,"Remote Getaway",NA,30
-"160","7rowl",950294,"Free the End",NA,26
-"161","7rowl",963632,NA,"dragon_death",26
-"162","Infume",974532,"The City at the End of the Game",NA,31
-"163","Infume",990592,"Cover Me With Diamonds",NA,32
-"164","Infume",990696,"Diamonds!",NA,33
-"165","Infume",994840,"Sky's the Limit",NA,34
-"166","7rowl",998156,"Remote Getaway",NA,27
-"167","7rowl",998385,"Bullseye",NA,28
-"168","7rowl",1048936,"The City at the End of the Game",NA,29
-"169","maskers_",1050260,"Eye Spy",NA,27
-"170","7rowl",1054936,"Cover Me With Diamonds",NA,30
-"171","7rowl",1058701,"Diamonds!",NA,31
-"172","7rowl",1061887,"Sky's the Limit",NA,32
-"173","Infume",1083984,"Great View From Up Here",NA,35
-"174","maskers_",1086633,"The End?",NA,28
-"175","iinterp",1089629,"Eye Spy",NA,26
-"176","Infume",1110441,"The Next Generation",NA,36
-"177","JakkeBoy3651",1138219,"Sweet Dreams",NA,26
-"178","JakkeBoy3651",1146923,"The End?",NA,27
-"179","Infume",1159779,"Sweet Dreams",NA,37
-"180","maskers_",1159928,"You Need a Mint",NA,29
-"181","iinterp",1212441,"The End?",NA,27
-"182","maskers_",1216990,"Free the End",NA,30
-"183","maskers_",1217139,NA,"dragon_death",30
-"184","maskers_",1235461,"The Next Generation",NA,31
-"185","maskers_",1254921,"Remote Getaway",NA,32
-"186","JakkeBoy3651",1268319,"Free the End",NA,28
-"187","JakkeBoy3651",1268367,NA,"dragon_death",28
-"188","7rowl",1276289,"Great View From Up Here",NA,33
-"189","JakkeBoy3651",1284657,"The Next Generation",NA,29
-"190","JakkeBoy3651",1308906,"Remote Getaway",NA,30
-"191","7rowl",1310140,"The Next Generation",NA,34
-"192","maskers_",1329812,"The City at the End of the Game",NA,33
-"193","maskers_",1335214,"Sky's the Limit",NA,34
-"194","maskers_",1346412,"Cover Me With Diamonds",NA,35
-"195","JakkeBoy3651",1365362,"The City at the End of the Game",NA,31
-"196","JakkeBoy3651",1370864,"Sky's the Limit",NA,32
-"197","iinterp",1377354,"Free the End",NA,28
-"198","iinterp",1377415,NA,"dragon_death",28
-"199","JakkeBoy3651",1379314,"Cover Me With Diamonds",NA,33
-"200","JakkeBoy3651",1383016,"Diamonds!",NA,34
-"201","iinterp",1419306,"Remote Getaway",NA,29
-"202","JakkeBoy3651",1428810,"Great View From Up Here",NA,35
-"203","Infume",1434994,"Enchanter",NA,38
-"204","maskers_",1435581,"Voluntary Exile",NA,36
-"205","maskers_",1435636,"Who's the Pillager Now?",NA,37
-"206","iinterp",1440002,NA,"eliminate",29
-"207","maskers_",1491528,"Sniper Duel",NA,38
-"208","Infume",1519891,"Voluntary Exile",NA,39
-"209","Infume",1520004,"Who's the Pillager Now?",NA,40
-"210","7rowl",1525753,"Enchanter",NA,35
-"211","maskers_",1530275,"Best Friends Forever",NA,39
-"212","7rowl",1545804,"A Throwaway Joke",NA,36
-"213","7rowl",1545939,"Very Very Frightening",NA,37
-"214","7rowl",1600260,"Hired Help",NA,38
-"215","maskers_",1677917,"Hero of the Village",NA,40
-"216","7rowl",1682957,"Voluntary Exile",NA,39
-"217","7rowl",1682995,"Who's the Pillager Now?",NA,40
-"218","JakkeBoy3651",1689920,"Voluntary Exile",NA,36
-"219","JakkeBoy3651",1689967,"Who's the Pillager Now?",NA,37
-"220","JakkeBoy3651",1704009,"Best Friends Forever",NA,38
-"221","maskers_",1721249,"This Boat Has Legs",NA,41
-"222","Infume",1751082,"Hero of the Village",NA,41
-"223","Infume",1756232,"Postmortal",NA,42
-"224","maskers_",1781794,"Not Quite ""Nine"" Lives",NA,42
-"225","7rowl",1824849,"Hero of the Village",NA,41
-"226","maskers_",1831779,"Hot Tourist Destinations",NA,43
-"227","Infume",1899087,"A Throwaway Joke",NA,43
-"228","7rowl",1902009,"Sniper Duel",NA,42
-"229","JakkeBoy3651",1904573,"Enchanter",NA,39
-"230","Infume",1948946,"Sniper Duel",NA,44
-"231","maskers_",1963336,"Subspace Bubble",NA,44
-"232","Infume",1992410,"Bullseye",NA,45
-"233","7rowl",1994907,"Best Friends Forever",NA,43
-"234","JakkeBoy3651",2006559,"A Throwaway Joke",NA,40
-"235","Infume",2029044,"Total Beelocation",NA,46
-"236","7rowl",2099059,"Getting an Upgrade",NA,44
-"237","JakkeBoy3651",2106258,"Sniper Duel",NA,41
-"238","7rowl",2116151,"Postmortal",NA,45
-"239","maskers_",2134591,"Arbalistic",NA,45
-"240","JakkeBoy3651",2160004,NA,"eliminate",41
-"241","7rowl",2198726,"Not Quite ""Nine"" Lives",NA,46
-"242","7rowl",2213363,"Return to Sender",NA,47
-"243","7rowl",2257210,"Oh Shiny",NA,48
-"244","7rowl",2268213,"Hot Tourist Destinations",NA,49
-"245","Infume",2284350,"This Boat Has Legs",NA,47
-"246","7rowl",2288725,"This Boat Has Legs",NA,50
-"247","Infume",2292196,"Hot Tourist Destinations",NA,48
-"248","Infume",2300380,"Spooky Scary Skeleton",NA,49
-"249","Infume",2366688,"Hidden in the Depths",NA,50
-"250","Infume",2419816,"Subspace Bubble",NA,51
-"251","7rowl",2431274,"Subspace Bubble",NA,51
-"252","Infume",2435537,"Uneasy Alliance",NA,52
-"253","7rowl",2445363,"Uneasy Alliance",NA,52
-"254","maskers_",2461985,"Diamonds!",NA,46
-"255","maskers_",2504705,"Country Lode, Take Me Home",NA,47
-"256","Infume",2522989,"Return to Sender",NA,53
-"257","7rowl",2608925,"Arbalistic",NA,53
-"258","maskers_",2682489,"Hidden in the Depths",NA,48
-"259","7rowl",2721916,"Spooky Scary Skeleton",NA,54
-"260","Infume",2781271,"Withering Heights",NA,54
-"261","Infume",2833937,"Bring Home the Beacon",NA,55
-"262","maskers_",2859095,"Enchanter",NA,49
-"263","maskers_",2880006,NA,"eliminate",49
-"264","Infume",3082741,"Arbalistic",NA,56
-"265","Infume",3139356,"Bee Our Guest",NA,57
-"266","Infume",3147406,"Sticky Situation",NA,58
-"267","7rowl",3343281,"The End... Again...",NA,55
-"268","7rowl",3356932,"You Need a Mint",NA,56
-"269","7rowl",3358430,NA,"death",56
-"270","Infume",3477888,"Serious Dedication",NA,59
-"271","7rowl",3507198,"Country Lode, Take Me Home",NA,57
-"272","7rowl",3523241,"Hidden in the Depths",NA,58
-"273","Infume",3528331,"The End... Again...",NA,60
-"274","Infume",3541080,"You Need a Mint",NA,61
-"275","Infume",3544429,NA,"death",61
-"276","7rowl",3600007,NA,"eliminate",58
+"","player","time","time_ms","advancement","ranked_event","n_advancements"
+"1","ANTOlNE",00:00:30.776,30776,"Stone Age",NA,1
+"2","Infume",00:00:31.023,31023,"Acquire Hardware",NA,1
+"3","ANTOlNE",00:00:32.529,32529,"Acquire Hardware",NA,2
+"4","Infume",00:00:32.775,32775,"Stone Age",NA,2
+"5","JakkeBoy3651",00:00:37.314,37314,"Acquire Hardware",NA,1
+"6","JakkeBoy3651",00:00:39.013,39013,"Stone Age",NA,2
+"7","7rowl",00:00:42.017,42017,"Acquire Hardware",NA,1
+"8","7rowl",00:00:42.055,42055,"Stone Age",NA,2
+"9","maskers_",00:00:45.100,45100,"Acquire Hardware",NA,1
+"10","maskers_",00:00:46.097,46097,"Stone Age",NA,2
+"11","iinterp",00:00:51.837,51837,"Stone Age",NA,1
+"12","iinterp",00:00:51.987,51987,"Acquire Hardware",NA,2
+"13","ANTOlNE",00:01:19.372,79372,"Isn't It Iron Pick",NA,3
+"14","ANTOlNE",00:01:19.423,79423,"Getting an Upgrade",NA,4
+"15","7rowl",00:01:30.116,90116,"Isn't It Iron Pick",NA,3
+"16","JakkeBoy3651",00:01:32.289,92289,"What a Deal!",NA,3
+"17","Infume",00:01:37.989,97989,"Getting an Upgrade",NA,3
+"18","Infume",00:01:38.093,98093,"Isn't It Iron Pick",NA,4
+"19","iinterp",00:01:40.579,100579,"Getting an Upgrade",NA,3
+"20","JakkeBoy3651",00:01:49.347,109347,"Isn't It Iron Pick",NA,4
+"21","maskers_",00:01:54.393,114393,"Isn't It Iron Pick",NA,3
+"22","ANTOlNE",00:02:01.246,121246,"What a Deal!",NA,5
+"23","iinterp",00:02:10.865,130865,"A Seedy Place",NA,4
+"24","maskers_",00:02:18.843,138843,"Getting an Upgrade",NA,4
+"25","Infume",00:02:27.497,147497,"What a Deal!",NA,5
+"26","Infume",00:02:34.155,154155,"Tactical Fishing",NA,6
+"27","7rowl",00:02:34.421,154421,"What a Deal!",NA,4
+"28","Infume",00:02:38.978,158978,"A Seedy Place",NA,7
+"29","7rowl",00:02:41.601,161601,"A Seedy Place",NA,5
+"30","iinterp",00:02:44.195,164195,"What a Deal!",NA,5
+"31","maskers_",00:02:44.718,164718,"A Seedy Place",NA,5
+"32","ANTOlNE",00:02:50.162,170162,"A Seedy Place",NA,6
+"33","ANTOlNE",00:03:09.320,189320,"Hot Stuff",NA,7
+"34","7rowl",00:03:12.917,192917,"Hot Stuff",NA,6
+"35","maskers_",00:03:13.138,193138,"What a Deal!",NA,6
+"36","iinterp",00:03:13.878,193878,"Isn't It Iron Pick",NA,6
+"37","JakkeBoy3651",00:03:16.992,196992,"The Parrots and the Bats",NA,5
+"38","ANTOlNE",00:03:22.807,202807,"We Need to Go Deeper",NA,8
+"39","Infume",00:03:29.136,209136,"The Parrots and the Bats",NA,8
+"40","7rowl",00:03:29.478,209478,"We Need to Go Deeper",NA,7
+"41","iinterp",00:03:34.218,214218,"Tactical Fishing",NA,7
+"42","JakkeBoy3651",00:03:39.843,219843,"Getting an Upgrade",NA,6
+"43","JakkeBoy3651",00:03:43.852,223852,"A Seedy Place",NA,7
+"44","maskers_",00:03:54.400,234400,"Hot Stuff",NA,7
+"45","JakkeBoy3651",00:03:54.449,234449,"Tactical Fishing",NA,8
+"46","iinterp",00:04:02.627,242627,"The Parrots and the Bats",NA,8
+"47","Infume",00:04:06.189,246189,"Best Friends Forever",NA,9
+"48","7rowl",00:04:08.471,248471,"The Parrots and the Bats",NA,8
+"49","maskers_",00:04:09.029,249029,"We Need to Go Deeper",NA,8
+"50","Infume",00:04:11.784,251784,"Hot Stuff",NA,10
+"51","JakkeBoy3651",00:04:12.443,252443,"Hot Stuff",NA,9
+"52","7rowl",00:04:18.428,258428,"Those Were the Days",NA,9
+"53","Infume",00:04:22.192,262192,"We Need to Go Deeper",NA,11
+"54","7rowl",00:04:25.808,265808,"War Pigs",NA,10
+"55","ANTOlNE",00:04:28.374,268374,"Those Were the Days",NA,9
+"56","7rowl",00:04:29.019,269019,"Who is Cutting Onions?",NA,11
+"57","JakkeBoy3651",00:04:29.786,269786,"We Need to Go Deeper",NA,10
+"58","maskers_",00:04:37.846,277846,"Oh Shiny",NA,9
+"59","ANTOlNE",00:04:39.273,279273,"War Pigs",NA,10
+"60","ANTOlNE",00:04:44.070,284070,"Who is Cutting Onions?",NA,11
+"61","iinterp",00:04:55.837,295837,"Fishy Business",NA,9
+"62","Infume",00:04:56.086,296086,"Those Were the Days",NA,12
+"63","Infume",00:05:04.899,304899,"War Pigs",NA,13
+"64","Infume",00:05:06.433,306433,"Oh Shiny",NA,14
+"65","iinterp",00:05:06.829,306829,"Hot Stuff",NA,10
+"66","Infume",00:05:06.938,306938,"Who is Cutting Onions?",NA,15
+"67","JakkeBoy3651",00:05:15.871,315871,"Those Were the Days",NA,11
+"68","iinterp",00:05:19.584,319584,"We Need to Go Deeper",NA,11
+"69","maskers_",00:05:21.556,321556,"Those Were the Days",NA,10
+"70","JakkeBoy3651",00:05:22.534,322534,"War Pigs",NA,12
+"71","ANTOlNE",00:05:25.318,325318,"Oh Shiny",NA,12
+"72","JakkeBoy3651",00:05:26.490,326490,"Ice Bucket Challenge",NA,13
+"73","maskers_",00:05:31.149,331149,"War Pigs",NA,11
+"74","maskers_",00:05:38.946,338946,"Who is Cutting Onions?",NA,12
+"75","7rowl",00:05:40.224,340224,"Ice Bucket Challenge",NA,12
+"76","JakkeBoy3651",00:05:40.744,340744,"Who is Cutting Onions?",NA,14
+"77","ANTOlNE",00:05:49.672,349672,"Ice Bucket Challenge",NA,13
+"78","iinterp",00:05:56.480,356480,"Those Were the Days",NA,12
+"79","7rowl",00:05:57.064,357064,"Local Brewery",NA,13
+"80","iinterp",00:06:09.718,369718,"War Pigs",NA,13
+"81","iinterp",00:06:12.777,372777,"Who is Cutting Onions?",NA,14
+"82","Infume",00:06:23.811,383811,"Fishy Business",NA,16
+"83","JakkeBoy3651",00:06:34.136,394136,"Oh Shiny",NA,15
+"84","maskers_",00:06:35.499,395499,"Ice Bucket Challenge",NA,13
+"85","Infume",00:06:53.544,413544,"Ice Bucket Challenge",NA,17
+"86","7rowl",00:06:59.474,419474,"A Terrible Fortress",NA,14
+"87","maskers_",00:07:05.042,425042,"Local Brewery",NA,14
+"88","ANTOlNE",00:07:11.984,431984,"Local Brewery",NA,14
+"89","ANTOlNE",00:07:14.372,434372,"Suit Up",NA,15
+"90","iinterp",00:07:17.129,437129,"Ice Bucket Challenge",NA,15
+"91","iinterp",00:07:34.776,454776,"Oh Shiny",NA,16
+"92","7rowl",00:07:38.232,458232,"Monster Hunter",NA,15
+"93","Infume",00:07:43.953,463953,"A Terrible Fortress",NA,18
+"94","JakkeBoy3651",00:07:53.340,473340,"Suit Up",NA,16
+"95","Infume",00:07:53.597,473597,"Monster Hunter",NA,19
+"96","Infume",00:07:53.597,473597,"Ol' Betsy",NA,20
+"97","Infume",00:07:53.598,473598,"Take Aim",NA,21
+"98","ANTOlNE",00:07:57.369,477369,"A Terrible Fortress",NA,16
+"99","Infume",00:08:06.634,486634,"Into Fire",NA,22
+"100","7rowl",00:08:07.777,487777,"Into Fire",NA,16
+"101","ANTOlNE",00:08:13.269,493269,"Take Aim",NA,17
+"102","ANTOlNE",00:08:16.219,496219,"Not Today, Thank You",NA,18
+"103","ANTOlNE",00:08:24.212,504212,"Monster Hunter",NA,19
+"104","ANTOlNE",00:08:34.369,514369,"Into Fire",NA,20
+"105","iinterp",00:08:50.128,530128,"Monster Hunter",NA,17
+"106","iinterp",00:08:50.138,530138,"Return to Sender",NA,18
+"107","Infume",00:08:55.981,535981,"Not Today, Thank You",NA,23
+"108","maskers_",00:09:19.553,559553,"A Terrible Fortress",NA,15
+"109","JakkeBoy3651",00:09:20.644,560644,"A Terrible Fortress",NA,17
+"110","iinterp",00:09:22.429,562429,"A Terrible Fortress",NA,19
+"111","Infume",00:09:28.532,568532,"Suit Up",NA,24
+"112","maskers_",00:09:32.954,572954,"Ol' Betsy",NA,16
+"113","maskers_",00:09:35.552,575552,"Take Aim",NA,17
+"114","7rowl",00:09:35.669,575669,"Ol' Betsy",NA,17
+"115","7rowl",00:09:37.629,577629,"Not Today, Thank You",NA,18
+"116","7rowl",00:09:37.666,577666,"Take Aim",NA,19
+"117","maskers_",00:09:39.604,579604,"Not Today, Thank You",NA,18
+"118","maskers_",00:09:46.848,586848,"Suit Up",NA,19
+"119","iinterp",00:10:00.780,600780,"Into Fire",NA,20
+"120","Infume",00:10:04.800,604800,NA,"blind_travel",24
+"121","7rowl",00:10:05.440,605440,NA,"blind_travel",19
+"122","maskers_",00:10:07.004,607004,"Monster Hunter",NA,20
+"123","JakkeBoy3651",00:10:12.639,612639,"Monster Hunter",NA,18
+"124","Infume",00:10:19.544,619544,"Local Brewery",NA,25
+"125","iinterp",00:10:25.238,625238,"Ol' Betsy",NA,21
+"126","iinterp",00:10:26.228,626228,"Take Aim",NA,22
+"127","iinterp",00:10:31.029,631029,"Not Today, Thank You",NA,23
+"128","iinterp",00:10:33.429,633429,NA,"death",23
+"129","7rowl",00:10:36.634,636634,"Tactical Fishing",NA,20
+"130","maskers_",00:10:45.226,645226,"Sweet Dreams",NA,21
+"131","JakkeBoy3651",00:10:47.438,647438,"Ol' Betsy",NA,19
+"132","JakkeBoy3651",00:10:49.432,649432,"Take Aim",NA,20
+"133","7rowl",00:10:52.933,652933,"Fishy Business",NA,21
+"134","JakkeBoy3651",00:10:54.042,654042,"Into Fire",NA,21
+"135","iinterp",00:11:05.412,665412,"Sweet Dreams",NA,24
+"136","maskers_",00:11:06.453,666453,"The Parrots and the Bats",NA,22
+"137","JakkeBoy3651",00:11:08.034,668034,"Not Today, Thank You",NA,22
+"138","JakkeBoy3651",00:11:18.336,678336,"Fishy Business",NA,23
+"139","Infume",00:11:22.949,682949,"Not Quite ""Nine"" Lives",NA,26
+"140","JakkeBoy3651",00:11:24.691,684691,"Local Brewery",NA,24
+"141","maskers_",00:11:24.702,684702,"Bullseye",NA,23
+"142","maskers_",00:11:40.409,700409,"Into Fire",NA,24
+"143","ANTOlNE",00:12:00.000,720000,NA,"eliminate",20
+"144","maskers_",00:12:36.709,756709,NA,"blind_travel",24
+"145","Infume",00:12:37.290,757290,"Eye Spy",NA,27
+"146","7rowl",00:12:59.880,779880,"Eye Spy",NA,22
+"147","JakkeBoy3651",00:13:12.560,792560,NA,"blind_travel",24
+"148","iinterp",00:13:26.776,806776,"Suit Up",NA,25
+"149","maskers_",00:13:39.342,819342,"Tactical Fishing",NA,25
+"150","7rowl",00:13:58.130,838130,"Suit Up",NA,23
+"151","maskers_",00:14:23.898,863898,"Fishy Business",NA,26
+"152","Infume",00:14:27.515,867515,"The End?",NA,28
+"153","JakkeBoy3651",00:14:51.724,891724,"Eye Spy",NA,25
+"154","Infume",00:14:54.405,894405,"Free the End",NA,29
+"155","Infume",00:15:08.052,908052,NA,"dragon_death",29
+"156","7rowl",00:15:08.875,908875,"Sweet Dreams",NA,24
+"157","7rowl",00:15:22.885,922885,"The End?",NA,25
+"158","iinterp",00:15:28.297,928297,NA,"blind_travel",25
+"159","Infume",00:15:32.739,932739,"Remote Getaway",NA,30
+"160","7rowl",00:15:50.294,950294,"Free the End",NA,26
+"161","7rowl",00:16:03.632,963632,NA,"dragon_death",26
+"162","Infume",00:16:14.532,974532,"The City at the End of the Game",NA,31
+"163","Infume",00:16:30.592,990592,"Cover Me With Diamonds",NA,32
+"164","Infume",00:16:30.696,990696,"Diamonds!",NA,33
+"165","Infume",00:16:34.840,994840,"Sky's the Limit",NA,34
+"166","7rowl",00:16:38.156,998156,"Remote Getaway",NA,27
+"167","7rowl",00:16:38.385,998385,"Bullseye",NA,28
+"168","7rowl",00:17:28.936,1048936,"The City at the End of the Game",NA,29
+"169","maskers_",00:17:30.260,1050260,"Eye Spy",NA,27
+"170","7rowl",00:17:34.936,1054936,"Cover Me With Diamonds",NA,30
+"171","7rowl",00:17:38.701,1058701,"Diamonds!",NA,31
+"172","7rowl",00:17:41.887,1061887,"Sky's the Limit",NA,32
+"173","Infume",00:18:03.984,1083984,"Great View From Up Here",NA,35
+"174","maskers_",00:18:06.633,1086633,"The End?",NA,28
+"175","iinterp",00:18:09.629,1089629,"Eye Spy",NA,26
+"176","Infume",00:18:30.441,1110441,"The Next Generation",NA,36
+"177","JakkeBoy3651",00:18:58.219,1138219,"Sweet Dreams",NA,26
+"178","JakkeBoy3651",00:19:06.923,1146923,"The End?",NA,27
+"179","Infume",00:19:19.779,1159779,"Sweet Dreams",NA,37
+"180","maskers_",00:19:19.928,1159928,"You Need a Mint",NA,29
+"181","iinterp",00:20:12.441,1212441,"The End?",NA,27
+"182","maskers_",00:20:16.990,1216990,"Free the End",NA,30
+"183","maskers_",00:20:17.139,1217139,NA,"dragon_death",30
+"184","maskers_",00:20:35.461,1235461,"The Next Generation",NA,31
+"185","maskers_",00:20:54.921,1254921,"Remote Getaway",NA,32
+"186","JakkeBoy3651",00:21:08.319,1268319,"Free the End",NA,28
+"187","JakkeBoy3651",00:21:08.367,1268367,NA,"dragon_death",28
+"188","7rowl",00:21:16.289,1276289,"Great View From Up Here",NA,33
+"189","JakkeBoy3651",00:21:24.657,1284657,"The Next Generation",NA,29
+"190","JakkeBoy3651",00:21:48.906,1308906,"Remote Getaway",NA,30
+"191","7rowl",00:21:50.140,1310140,"The Next Generation",NA,34
+"192","maskers_",00:22:09.812,1329812,"The City at the End of the Game",NA,33
+"193","maskers_",00:22:15.214,1335214,"Sky's the Limit",NA,34
+"194","maskers_",00:22:26.412,1346412,"Cover Me With Diamonds",NA,35
+"195","JakkeBoy3651",00:22:45.362,1365362,"The City at the End of the Game",NA,31
+"196","JakkeBoy3651",00:22:50.864,1370864,"Sky's the Limit",NA,32
+"197","iinterp",00:22:57.354,1377354,"Free the End",NA,28
+"198","iinterp",00:22:57.415,1377415,NA,"dragon_death",28
+"199","JakkeBoy3651",00:22:59.314,1379314,"Cover Me With Diamonds",NA,33
+"200","JakkeBoy3651",00:23:03.016,1383016,"Diamonds!",NA,34
+"201","iinterp",00:23:39.306,1419306,"Remote Getaway",NA,29
+"202","JakkeBoy3651",00:23:48.810,1428810,"Great View From Up Here",NA,35
+"203","Infume",00:23:54.994,1434994,"Enchanter",NA,38
+"204","maskers_",00:23:55.581,1435581,"Voluntary Exile",NA,36
+"205","maskers_",00:23:55.636,1435636,"Who's the Pillager Now?",NA,37
+"206","iinterp",00:24:00.002,1440002,NA,"eliminate",29
+"207","maskers_",00:24:51.528,1491528,"Sniper Duel",NA,38
+"208","Infume",00:25:19.891,1519891,"Voluntary Exile",NA,39
+"209","Infume",00:25:20.004,1520004,"Who's the Pillager Now?",NA,40
+"210","7rowl",00:25:25.753,1525753,"Enchanter",NA,35
+"211","maskers_",00:25:30.275,1530275,"Best Friends Forever",NA,39
+"212","7rowl",00:25:45.804,1545804,"A Throwaway Joke",NA,36
+"213","7rowl",00:25:45.939,1545939,"Very Very Frightening",NA,37
+"214","7rowl",00:26:40.260,1600260,"Hired Help",NA,38
+"215","maskers_",00:27:57.917,1677917,"Hero of the Village",NA,40
+"216","7rowl",00:28:02.957,1682957,"Voluntary Exile",NA,39
+"217","7rowl",00:28:02.995,1682995,"Who's the Pillager Now?",NA,40
+"218","JakkeBoy3651",00:28:09.920,1689920,"Voluntary Exile",NA,36
+"219","JakkeBoy3651",00:28:09.967,1689967,"Who's the Pillager Now?",NA,37
+"220","JakkeBoy3651",00:28:24.009,1704009,"Best Friends Forever",NA,38
+"221","maskers_",00:28:41.249,1721249,"This Boat Has Legs",NA,41
+"222","Infume",00:29:11.082,1751082,"Hero of the Village",NA,41
+"223","Infume",00:29:16.232,1756232,"Postmortal",NA,42
+"224","maskers_",00:29:41.794,1781794,"Not Quite ""Nine"" Lives",NA,42
+"225","7rowl",00:30:24.849,1824849,"Hero of the Village",NA,41
+"226","maskers_",00:30:31.779,1831779,"Hot Tourist Destinations",NA,43
+"227","Infume",00:31:39.087,1899087,"A Throwaway Joke",NA,43
+"228","7rowl",00:31:42.009,1902009,"Sniper Duel",NA,42
+"229","JakkeBoy3651",00:31:44.573,1904573,"Enchanter",NA,39
+"230","Infume",00:32:28.946,1948946,"Sniper Duel",NA,44
+"231","maskers_",00:32:43.336,1963336,"Subspace Bubble",NA,44
+"232","Infume",00:33:12.410,1992410,"Bullseye",NA,45
+"233","7rowl",00:33:14.907,1994907,"Best Friends Forever",NA,43
+"234","JakkeBoy3651",00:33:26.559,2006559,"A Throwaway Joke",NA,40
+"235","Infume",00:33:49.044,2029044,"Total Beelocation",NA,46
+"236","7rowl",00:34:59.059,2099059,"Getting an Upgrade",NA,44
+"237","JakkeBoy3651",00:35:06.258,2106258,"Sniper Duel",NA,41
+"238","7rowl",00:35:16.151,2116151,"Postmortal",NA,45
+"239","maskers_",00:35:34.591,2134591,"Arbalistic",NA,45
+"240","JakkeBoy3651",00:36:00.004,2160004,NA,"eliminate",41
+"241","7rowl",00:36:38.726,2198726,"Not Quite ""Nine"" Lives",NA,46
+"242","7rowl",00:36:53.363,2213363,"Return to Sender",NA,47
+"243","7rowl",00:37:37.210,2257210,"Oh Shiny",NA,48
+"244","7rowl",00:37:48.213,2268213,"Hot Tourist Destinations",NA,49
+"245","Infume",00:38:04.350,2284350,"This Boat Has Legs",NA,47
+"246","7rowl",00:38:08.725,2288725,"This Boat Has Legs",NA,50
+"247","Infume",00:38:12.196,2292196,"Hot Tourist Destinations",NA,48
+"248","Infume",00:38:20.380,2300380,"Spooky Scary Skeleton",NA,49
+"249","Infume",00:39:26.688,2366688,"Hidden in the Depths",NA,50
+"250","Infume",00:40:19.816,2419816,"Subspace Bubble",NA,51
+"251","7rowl",00:40:31.274,2431274,"Subspace Bubble",NA,51
+"252","Infume",00:40:35.537,2435537,"Uneasy Alliance",NA,52
+"253","7rowl",00:40:45.363,2445363,"Uneasy Alliance",NA,52
+"254","maskers_",00:41:01.985,2461985,"Diamonds!",NA,46
+"255","maskers_",00:41:44.705,2504705,"Country Lode, Take Me Home",NA,47
+"256","Infume",00:42:02.989,2522989,"Return to Sender",NA,53
+"257","7rowl",00:43:28.925,2608925,"Arbalistic",NA,53
+"258","maskers_",00:44:42.489,2682489,"Hidden in the Depths",NA,48
+"259","7rowl",00:45:21.916,2721916,"Spooky Scary Skeleton",NA,54
+"260","Infume",00:46:21.271,2781271,"Withering Heights",NA,54
+"261","Infume",00:47:13.937,2833937,"Bring Home the Beacon",NA,55
+"262","maskers_",00:47:39.095,2859095,"Enchanter",NA,49
+"263","maskers_",00:48:00.006,2880006,NA,"eliminate",49
+"264","Infume",00:51:22.741,3082741,"Arbalistic",NA,56
+"265","Infume",00:52:19.356,3139356,"Bee Our Guest",NA,57
+"266","Infume",00:52:27.406,3147406,"Sticky Situation",NA,58
+"267","7rowl",00:55:43.281,3343281,"The End... Again...",NA,55
+"268","7rowl",00:55:56.932,3356932,"You Need a Mint",NA,56
+"269","7rowl",00:55:58.430,3358430,NA,"death",56
+"270","Infume",00:57:57.888,3477888,"Serious Dedication",NA,59
+"271","7rowl",00:58:27.198,3507198,"Country Lode, Take Me Home",NA,57
+"272","7rowl",00:58:43.241,3523241,"Hidden in the Depths",NA,58
+"273","Infume",00:58:48.331,3528331,"The End... Again...",NA,60
+"274","Infume",00:59:01.080,3541080,"You Need a Mint",NA,61
+"275","Infume",00:59:04.429,3544429,NA,"death",61
+"276","7rowl",01:00:00.007,3600007,NA,"eliminate",58

@@ -83,8 +83,8 @@ summarise_tiebreak <- function(x, timeline, match_id, ...) {
 
 get_standings <- function(eliminations, timeline) {
     winner <- timeline |>
-        filter(!is.na(advancement)) |>
-        tail(1)
+        arrange(n_advancements) |>
+        last()
     
     standings <- eliminations |>
         bind_rows(tail(eliminations, 1))

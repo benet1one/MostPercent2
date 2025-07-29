@@ -30,11 +30,12 @@ best_username <- function(user) {
 }
 
 # Complex Data --------------------------------------------------
-parse_timeline <- function(match) {
+parse_timeline <- function(match, match_id) {
     pl <- bind_rows(match$players) |>
         left_join(players, by = "uuid")
         
     bind_rows(match$timeline) |>
+        mutate(match_id = match_id, .before = 1L) |>
         mutate(time = hms::hms(time/1000)) |>
         arrange(time) |>
         
@@ -47,17 +48,17 @@ parse_timeline <- function(match) {
             true = str_remove(type, "^projectelo.timeline.")
         )) |>
         
-        select(player, time, advancement, ranked_event) |>
+        select(match_id, player, time, advancement, ranked_event) |>
         group_by(player) |>
         mutate(n_advancements = cumsum(!is.na(advancement))) |>
         ungroup()
 }
 
 
-get_tiebreaks <- function(timeline, match_id) {
+get_tiebreaks <- function(timeline) {
     eliminations <- timeline |>
         filter(ranked_event == "eliminate") |>
-        select(player, time, n_advancements)
+        select(match_id, player, time, n_advancements)
     
     tb <- eliminations |>
         mutate(scheduled_time = hms::hms(60 * 12 * 1:5)) |>
@@ -65,12 +66,12 @@ get_tiebreaks <- function(timeline, match_id) {
         rowwise()
     
     if (nrow(tb) > 0L)
-        group_map(tb, summarise_tiebreak, timeline = timeline, match_id = match_id)
+        group_map(tb, summarise_tiebreak, timeline = timeline)
     else
         NULL
 }
 
-summarise_tiebreak <- function(x, timeline, match_id, ...) {
+summarise_tiebreak <- function(x, timeline, ...) {
     timeline |>
         filter(time >= x$scheduled_time, time <= x$time) |>
         filter(ranked_event == "eliminate" | n_advancements == x$n_advancements + 1) |>
@@ -82,9 +83,10 @@ summarise_tiebreak <- function(x, timeline, match_id, ...) {
 get_standings <- function(timeline) {
     standings <- timeline |>
         group_by(player) |>
-        summarise(time = last(time), n_advancements = last(n_advancements)) |>
+        summarise(match_id = match_id[1L], time = last(time), n_advancements = last(n_advancements)) |>
         arrange(n_advancements) |>
-        mutate(standing = 6:1, .before = 1L)
+        mutate(standing = 6:1, points = 0:5, .after = player) |>
+        relocate(match_id, .before = 1L)
     
     standings$time[6L] <- standings$time[5L]
     standings
@@ -120,38 +122,38 @@ players <- matches$match_data |>
 
 matches <- matches |>
     mutate(datetime = as.POSIXct(match_data$date, tz = "UTC"),
-           timeline = list(parse_timeline(match_data)),
+           timeline = list(parse_timeline(match_data, match_id)),
            standings = list(get_standings(timeline)),
            timeline = list(include_standing(timeline, standings)),
-           tiebreaks = list(get_tiebreaks(timeline, match_id)),
+           tiebreaks = list(get_tiebreaks(timeline)),
            winner = last(standings$player))
 
+timelines <- bind_rows(matches$timeline)
+standings <- bind_rows(matches$standings) |>
+    mutate(matchup = substring(match_id, 1, 2), .before = 1L) |>
+    group_by(matchup)
 tiebreaks <- bind_rows(matches$tiebreaks) |>
     group_by(match_id, scheduled_time) |>
     mutate(duration = hms::as_hms(time - scheduled_time), .after = time)
 
-matches$tiebreaks <- NULL
-
-
 # Saving Data ---------------------------------------------------
 saveRDS(matches, file = "data/matches.RDS")
+saveRDS(timelines, file = "data/timelines.RDS")
+saveRDS(standings, file = "data/standings.RDS")
 saveRDS(tiebreaks, file = "data/tiebreaks.RDS")
 
 matches_csv <- matches |> 
     select(match_id, api_id, datetime, winner) 
+
+timelines_csv <- timelines |>
+    mutate(time_ms = as.integer(time * 1000))
 
 tiebreaks_csv <- tiebreaks |>
     mutate(time_ms = as.integer(time * 1000), 
            duration_ms = as.integer(duration * 1000), 
            .after = duration)
 
-write.csv(matches_csv, file = "data/matches.csv")
-write.csv(tiebreaks_csv, file = "data/tiebreaks.csv")
-
-for (k in 1:nrow(matches)) {
-    filename <- paste0("data/timelines/", matches$match_id[k], ".csv")
-    timeline <- matches$timeline[[k]] |>
-        mutate(time_ms = as.integer(time * 1000), .after = time)
-    
-    write.csv(timeline, file = filename)
-}
+write.csv(matches_csv, file = "data/matches.csv", row.names = FALSE)
+write.csv(timelines_csv, file = "data/timelines.csv", row.names = FALSE)
+write.csv(standings, file = "data/standings.csv", row.names = FALSE)
+write.csv(tiebreaks_csv, file = "data/tiebreaks.csv", row.names = FALSE)

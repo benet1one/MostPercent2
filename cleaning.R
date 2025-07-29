@@ -54,13 +54,11 @@ parse_timeline <- function(match) {
 }
 
 
-get_eliminations <- function(timeline) {
-    timeline |>
+get_tiebreaks <- function(timeline, match_id) {
+    eliminations <- timeline |>
         filter(ranked_event == "eliminate") |>
         select(player, time, n_advancements)
-}
-
-get_tiebreaks <- function(eliminations, timeline, match_id) {
+    
     tb <- eliminations |>
         mutate(scheduled_time = hms::hms(60 * 12 * 1:5)) |>
         filter(round(time, 1) > scheduled_time) |>
@@ -81,18 +79,20 @@ summarise_tiebreak <- function(x, timeline, match_id, ...) {
         arrange(time, !is.na(ranked_event))
 }
 
-get_standings <- function(eliminations, timeline) {
-    winner <- timeline |>
+get_standings <- function(timeline) {
+    standings <- timeline |>
+        group_by(player) |>
+        summarise(time = last(time), n_advancements = last(n_advancements)) |>
         arrange(n_advancements) |>
-        last()
+        mutate(standing = 6:1, .before = 1L)
     
-    standings <- eliminations |>
-        bind_rows(tail(eliminations, 1))
-    
-    standings$player[6] <- winner$player
-    standings$n_advancements[6] <- winner$n_advancements
-    
+    standings$time[6L] <- standings$time[5L]
     standings
+}
+
+include_standing <- function(df, standings) {
+    st <- standings |> select(player, standing)
+    left_join(df, st, by = "player") |> relocate(standing, .after = player)
 }
 
 # Main Datasets ----------------------------------------------------
@@ -121,16 +121,15 @@ players <- matches$match_data |>
 matches <- matches |>
     mutate(datetime = as.POSIXct(match_data$date, tz = "UTC"),
            timeline = list(parse_timeline(match_data)),
-           eliminations = list(get_eliminations(timeline)),
-           tiebreaks = list(get_tiebreaks(eliminations, timeline, match_id)),
-           standings = list(get_standings(eliminations, timeline)),
+           standings = list(get_standings(timeline)),
+           timeline = list(include_standing(timeline, standings)),
+           tiebreaks = list(get_tiebreaks(timeline, match_id)),
            winner = last(standings$player))
 
 tiebreaks <- bind_rows(matches$tiebreaks) |>
     group_by(match_id, scheduled_time) |>
     mutate(duration = hms::as_hms(time - scheduled_time), .after = time)
 
-matches$eliminations <- NULL
 matches$tiebreaks <- NULL
 
 

@@ -1,301 +1,301 @@
-"","player","time","time_ms","advancement","ranked_event","n_advancements"
-"1","AutomattPLUS",00:00:28.492,28492,"Stone Age",NA,1
-"2","AutomattPLUS",00:00:29.043,29043,"Acquire Hardware",NA,2
-"3","okrzej1",00:00:31.824,31824,"Stone Age",NA,1
-"4","danterustv",00:00:31.933,31933,"Acquire Hardware",NA,1
-"5","danterustv",00:00:32.404,32404,"Stone Age",NA,2
-"6","okrzej1",00:00:32.623,32622,"Acquire Hardware",NA,2
-"7","Feinberg",00:00:32.825,32825,"Acquire Hardware",NA,1
-"8","fudge1",00:00:32.989,32989,"Acquire Hardware",NA,1
-"9","joshteautwins",00:00:33.276,33276,"Stone Age",NA,1
-"10","joshteautwins",00:00:33.973,33973,"Acquire Hardware",NA,2
-"11","fudge1",00:00:34.088,34088,"Stone Age",NA,2
-"12","Feinberg",00:00:36.800,36800,"Stone Age",NA,2
-"13","okrzej1",00:01:05.522,65522,"Getting an Upgrade",NA,3
-"14","okrzej1",00:01:09.120,69120,"Isn't It Iron Pick",NA,4
-"15","AutomattPLUS",00:01:17.589,77589,"Getting an Upgrade",NA,3
-"16","joshteautwins",00:01:17.717,77717,"Getting an Upgrade",NA,3
-"17","danterustv",00:01:22.258,82258,"Getting an Upgrade",NA,3
-"18","danterustv",00:01:22.406,82406,"Isn't It Iron Pick",NA,4
-"19","Feinberg",00:01:24.546,84546,"Isn't It Iron Pick",NA,3
-"20","Feinberg",00:01:24.647,84647,"Getting an Upgrade",NA,4
-"21","fudge1",00:01:29.231,89231,"Isn't It Iron Pick",NA,3
-"22","fudge1",00:01:29.244,89244,"Getting an Upgrade",NA,4
-"23","fudge1",00:01:29.871,89871,"A Seedy Place",NA,5
-"24","AutomattPLUS",00:01:30.802,90802,"A Seedy Place",NA,4
-"25","AutomattPLUS",00:01:40.687,100687,"Isn't It Iron Pick",NA,5
-"26","Feinberg",00:01:41.609,101609,"A Seedy Place",NA,5
-"27","AutomattPLUS",00:01:43.453,103453,"What a Deal!",NA,6
-"28","AutomattPLUS",00:01:44.199,104199,"Tactical Fishing",NA,7
-"29","Feinberg",00:01:57.797,117797,"The Parrots and the Bats",NA,6
-"30","danterustv",00:01:58.553,118553,"The Parrots and the Bats",NA,5
-"31","okrzej1",00:01:58.924,118924,"The Parrots and the Bats",NA,5
-"32","okrzej1",00:02:07.363,127363,"What a Deal!",NA,6
-"33","fudge1",00:02:07.491,127491,"The Parrots and the Bats",NA,6
-"34","okrzej1",00:02:09.334,129334,"Tactical Fishing",NA,7
-"35","Feinberg",00:02:12.705,132705,"What a Deal!",NA,7
-"36","Feinberg",00:02:15.259,135259,"Tactical Fishing",NA,8
-"37","danterustv",00:02:19.662,139662,"A Seedy Place",NA,6
-"38","joshteautwins",00:02:22.767,142767,"The Parrots and the Bats",NA,4
-"39","joshteautwins",00:02:24.040,144040,"A Seedy Place",NA,5
-"40","AutomattPLUS",00:02:26.101,146101,"Hot Stuff",NA,8
-"41","joshteautwins",00:02:29.354,149354,"What a Deal!",NA,6
-"42","fudge1",00:02:38.954,158954,"What a Deal!",NA,7
-"43","fudge1",00:02:40.067,160067,"Tactical Fishing",NA,8
-"44","AutomattPLUS",00:02:41.516,161516,"We Need to Go Deeper",NA,9
-"45","Feinberg",00:02:43.645,163645,"Hot Stuff",NA,9
-"46","okrzej1",00:02:52.224,172224,"Hot Stuff",NA,8
-"47","fudge1",00:02:55.981,175981,"Fishy Business",NA,9
-"48","Feinberg",00:02:57.296,177296,"We Need to Go Deeper",NA,10
-"49","joshteautwins",00:03:01.316,181316,"Isn't It Iron Pick",NA,7
-"50","fudge1",00:03:06.519,186519,"Best Friends Forever",NA,10
-"51","okrzej1",00:03:08.728,188728,"We Need to Go Deeper",NA,9
-"52","AutomattPLUS",00:03:08.772,188772,NA,"death",9
-"53","AutomattPLUS",00:03:12.376,192376,NA,"reset",9
-"54","danterustv",00:03:17.040,197040,"What a Deal!",NA,7
-"55","okrzej1",00:03:19.677,199677,"Fishy Business",NA,10
-"56","joshteautwins",00:03:32.337,212337,"Tactical Fishing",NA,8
-"57","danterustv",00:03:42.750,222750,"Tactical Fishing",NA,8
-"58","AutomattPLUS",00:03:42.996,222996,"Stone Age",NA,10
-"59","AutomattPLUS",00:03:44.400,224400,"Acquire Hardware",NA,11
-"60","danterustv",00:03:49.656,229656,"Fishy Business",NA,9
-"61","joshteautwins",00:03:54.619,234619,"Hot Stuff",NA,9
-"62","danterustv",00:03:57.954,237954,"Hot Stuff",NA,10
-"63","fudge1",00:04:03.179,243179,"Hot Stuff",NA,11
-"64","joshteautwins",00:04:09.655,249655,"We Need to Go Deeper",NA,10
-"65","Feinberg",00:04:23.900,263900,"Those Were the Days",NA,11
-"66","okrzej1",00:04:25.927,265927,"Those Were the Days",NA,11
-"67","danterustv",00:04:27.065,267065,"We Need to Go Deeper",NA,11
-"68","okrzej1",00:04:33.077,273077,"Oh Shiny",NA,12
-"69","fudge1",00:04:34.251,274251,"We Need to Go Deeper",NA,12
-"70","AutomattPLUS",00:04:41.874,281874,"A Seedy Place",NA,12
-"71","Feinberg",00:04:44.748,284748,"Oh Shiny",NA,12
-"72","AutomattPLUS",00:04:48.388,288388,"Getting an Upgrade",NA,13
-"73","AutomattPLUS",00:04:55.139,295139,"Isn't It Iron Pick",NA,14
-"74","AutomattPLUS",00:04:56.905,296905,"What a Deal!",NA,15
-"75","danterustv",00:04:57.084,297084,"Oh Shiny",NA,12
-"76","AutomattPLUS",00:04:57.726,297726,"Tactical Fishing",NA,16
-"77","AutomattPLUS",00:05:11.740,311740,"The Parrots and the Bats",NA,17
-"78","joshteautwins",00:05:12.271,312271,"Those Were the Days",NA,11
-"79","danterustv",00:05:26.666,326666,"Those Were the Days",NA,13
-"80","Feinberg",00:05:38.249,338249,"Who is Cutting Onions?",NA,13
-"81","joshteautwins",00:05:42.523,342523,"Oh Shiny",NA,12
-"82","Feinberg",00:05:46.571,346571,"Monster Hunter",NA,14
-"83","okrzej1",00:05:48.579,348579,"Who is Cutting Onions?",NA,13
-"84","okrzej1",00:05:48.607,348607,"Ice Bucket Challenge",NA,14
-"85","Feinberg",00:05:49.172,349172,"War Pigs",NA,15
-"86","AutomattPLUS",00:05:51.140,351140,"Hot Stuff",NA,18
-"87","Feinberg",00:05:51.823,351823,"Ice Bucket Challenge",NA,16
-"88","okrzej1",00:05:52.079,352079,"War Pigs",NA,15
-"89","fudge1",00:05:55.380,355380,"Those Were the Days",NA,13
-"90","okrzej1",00:06:04.428,364428,"Monster Hunter",NA,16
-"91","AutomattPLUS",00:06:10.106,370106,"We Need to Go Deeper",NA,19
-"92","AutomattPLUS",00:06:26.145,386145,"Oh Shiny",NA,20
-"93","joshteautwins",00:06:26.621,386621,"Ice Bucket Challenge",NA,13
-"94","fudge1",00:06:39.026,399026,"Oh Shiny",NA,14
-"95","danterustv",00:06:46.672,406672,"Ice Bucket Challenge",NA,14
-"96","danterustv",00:06:55.278,415278,"Who is Cutting Onions?",NA,15
-"97","danterustv",00:06:56.576,416576,"War Pigs",NA,16
-"98","joshteautwins",00:07:00.822,420822,"Who is Cutting Onions?",NA,14
-"99","joshteautwins",00:07:03.954,423954,"War Pigs",NA,15
-"100","okrzej1",00:07:14.077,434077,"Cover Me With Diamonds",NA,17
-"101","joshteautwins",00:07:16.100,436100,"Fishy Business",NA,16
-"102","AutomattPLUS",00:07:25.897,445897,"Those Were the Days",NA,21
-"103","fudge1",00:07:43.086,463086,"Ice Bucket Challenge",NA,15
-"104","fudge1",00:07:43.100,463100,"Suit Up",NA,16
-"105","danterustv",00:07:48.196,468196,"Not Quite ""Nine"" Lives",NA,17
-"106","fudge1",00:07:49.480,469480,"Who is Cutting Onions?",NA,17
-"107","okrzej1",00:07:55.533,475533,"A Terrible Fortress",NA,18
-"108","Feinberg",00:07:56.648,476648,"A Terrible Fortress",NA,17
-"109","fudge1",00:08:02.651,482651,"War Pigs",NA,18
-"110","Feinberg",00:08:10.050,490050,"Into Fire",NA,18
-"111","okrzej1",00:08:13.733,493733,"Into Fire",NA,19
-"112","okrzej1",00:08:29.628,509628,"Suit Up",NA,20
-"113","joshteautwins",00:08:40.274,520274,"A Terrible Fortress",NA,17
-"114","okrzej1",00:08:45.432,525432,"Not Today, Thank You",NA,21
-"115","okrzej1",00:08:45.460,525460,"Take Aim",NA,22
-"116","joshteautwins",00:08:50.302,530302,"Monster Hunter",NA,18
-"117","joshteautwins",00:08:51.879,531879,"Into Fire",NA,19
-"118","fudge1",00:08:52.100,532100,"Ol' Betsy",NA,19
-"119","danterustv",00:08:52.654,532654,"A Terrible Fortress",NA,18
-"120","fudge1",00:08:53.278,533278,"Not Today, Thank You",NA,20
-"121","fudge1",00:08:53.291,533291,"Take Aim",NA,21
-"122","AutomattPLUS",00:08:55.133,535133,"War Pigs",NA,22
-"123","danterustv",00:08:57.760,537760,"Monster Hunter",NA,19
-"124","AutomattPLUS",00:08:58.573,538573,"Who is Cutting Onions?",NA,23
-"125","AutomattPLUS",00:08:58.574,538574,"Ice Bucket Challenge",NA,24
-"126","danterustv",00:09:02.808,542808,"Into Fire",NA,20
-"127","AutomattPLUS",00:09:05.583,545583,"Monster Hunter",NA,25
-"128","joshteautwins",00:09:06.531,546531,"Local Brewery",NA,20
-"129","okrzej1",00:09:06.534,546534,"Ol' Betsy",NA,23
-"130","Feinberg",00:09:23.004,563004,"Local Brewery",NA,19
-"131","okrzej1",00:09:34.490,574490,"Not Quite ""Nine"" Lives",NA,24
-"132","AutomattPLUS",00:09:34.677,574677,"Fishy Business",NA,26
-"133","joshteautwins",00:09:35.401,575401,"Not Quite ""Nine"" Lives",NA,21
-"134","fudge1",00:09:43.130,583130,"Monster Hunter",NA,22
-"135","fudge1",00:09:43.154,583154,"Return to Sender",NA,23
-"136","Feinberg",00:09:45.837,585837,"Not Quite ""Nine"" Lives",NA,20
-"137","danterustv",00:09:46.886,586886,"Local Brewery",NA,21
-"138","danterustv",00:09:55.554,595554,"Not Today, Thank You",NA,22
-"139","danterustv",00:09:55.711,595711,"Take Aim",NA,23
-"140","Feinberg",00:09:59.687,599687,"Fishy Business",NA,21
-"141","joshteautwins",00:10:01.051,601051,"Ol' Betsy",NA,22
-"142","joshteautwins",00:10:06.472,606472,"Not Today, Thank You",NA,23
-"143","joshteautwins",00:10:06.487,606487,"Take Aim",NA,24
-"144","okrzej1",00:10:11.220,611220,NA,"blind_travel",24
-"145","danterustv",00:10:11.753,611753,"Suit Up",NA,24
-"146","fudge1",00:10:12.380,612380,"A Terrible Fortress",NA,24
-"147","AutomattPLUS",00:10:17.304,617304,"Cover Me With Diamonds",NA,27
-"148","fudge1",00:10:28.328,628328,"Into Fire",NA,25
-"149","okrzej1",00:10:31.768,631768,"A Seedy Place",NA,25
-"150","okrzej1",00:10:36.269,636269,"Sweet Dreams",NA,26
-"151","Feinberg",00:10:37.129,637129,NA,"blind_travel",21
-"152","fudge1",00:10:43.056,643056,"Local Brewery",NA,26
-"153","okrzej1",00:10:46.535,646535,"Local Brewery",NA,27
-"154","Feinberg",00:10:47.917,647917,"Sweet Dreams",NA,22
-"155","fudge1",00:10:49.149,649149,"Not Quite ""Nine"" Lives",NA,27
-"156","joshteautwins",00:10:53.387,653387,NA,"blind_travel",24
-"157","AutomattPLUS",00:10:53.603,653603,"Ol' Betsy",NA,28
-"158","Feinberg",00:10:54.197,654197,"Not Today, Thank You",NA,23
-"159","Feinberg",00:10:54.296,654296,"Take Aim",NA,24
-"160","Feinberg",00:10:57.121,657121,"Ol' Betsy",NA,25
-"161","danterustv",00:10:57.750,657750,"Ol' Betsy",NA,25
-"162","AutomattPLUS",00:10:58.851,658851,"Not Today, Thank You",NA,29
-"163","AutomattPLUS",00:10:58.891,658891,"Take Aim",NA,30
-"164","AutomattPLUS",00:11:08.450,668450,"Not Quite ""Nine"" Lives",NA,31
-"165","joshteautwins",00:11:10.061,670061,"Sweet Dreams",NA,25
-"166","danterustv",00:11:24.727,684727,NA,"blind_travel",25
-"167","fudge1",00:11:35.581,695581,NA,"blind_travel",27
-"168","fudge1",00:11:36.717,696717,"Sweet Dreams",NA,28
-"169","joshteautwins",00:11:45.719,705719,"Suit Up",NA,26
-"170","Feinberg",00:11:46.647,706647,"Eye Spy",NA,26
-"171","danterustv",00:11:50.754,710754,"Sweet Dreams",NA,26
-"172","AutomattPLUS",00:11:50.796,710796,"A Terrible Fortress",NA,32
-"173","AutomattPLUS",00:11:54.802,714802,"Into Fire",NA,33
-"174","AutomattPLUS",00:12:00.002,720002,NA,"eliminate",33
-"175","okrzej1",00:12:02.881,722881,"Eye Spy",NA,28
-"176","joshteautwins",00:12:57.280,777280,"Eye Spy",NA,27
-"177","danterustv",00:13:34.773,814773,"Eye Spy",NA,27
-"178","Feinberg",00:13:39.998,819998,"The End?",NA,27
-"179","fudge1",00:14:26.233,866233,"Eye Spy",NA,29
-"180","okrzej1",00:14:41.901,881901,"The End?",NA,29
-"181","okrzej1",00:15:14.478,914478,"Free the End",NA,30
-"182","Feinberg",00:15:15.242,915242,"You Need a Mint",NA,28
-"183","Feinberg",00:15:16.469,916469,"Free the End",NA,29
-"184","Feinberg",00:15:16.570,916570,NA,"dragon_death",29
-"185","danterustv",00:15:23.024,923024,"The End?",NA,28
-"186","okrzej1",00:15:24.737,924737,NA,"dragon_death",30
-"187","Feinberg",00:15:40.796,940796,"Remote Getaway",NA,30
-"188","okrzej1",00:15:51.490,951490,"Remote Getaway",NA,31
-"189","joshteautwins",00:15:56.095,956095,"The End?",NA,28
-"190","Feinberg",00:16:18.846,978846,"The City at the End of the Game",NA,31
-"191","fudge1",00:16:30.290,990290,"The End?",NA,30
-"192","okrzej1",00:16:33.189,993189,"The City at the End of the Game",NA,32
-"193","Feinberg",00:16:42.994,1002994,"Sky's the Limit",NA,32
-"194","Feinberg",00:16:43.094,1003094,"Cover Me With Diamonds",NA,33
-"195","Feinberg",00:16:45.895,1005895,"Diamonds!",NA,34
-"196","okrzej1",00:16:48.839,1008839,"Sky's the Limit",NA,33
-"197","danterustv",00:16:53.163,1013163,NA,"dragon_death",28
-"198","joshteautwins",00:16:53.421,1013421,"You Need a Mint",NA,29
-"199","okrzej1",00:17:00.739,1020739,"Diamonds!",NA,34
-"200","fudge1",00:17:02.028,1022028,"You Need a Mint",NA,31
-"201","Feinberg",00:17:11.416,1031415,"Suit Up",NA,35
-"202","danterustv",00:17:14.556,1034556,"The Next Generation",NA,29
-"203","danterustv",00:17:32.884,1052884,"Remote Getaway",NA,30
-"204","Feinberg",00:17:53.106,1073106,"Great View From Up Here",NA,36
-"205","fudge1",00:17:54.943,1074943,"Free the End",NA,32
-"206","fudge1",00:17:55.010,1075010,NA,"dragon_death",32
-"207","danterustv",00:18:22.614,1102614,"The City at the End of the Game",NA,31
-"208","fudge1",00:18:41.276,1121276,"Remote Getaway",NA,33
-"209","fudge1",00:18:41.532,1121532,"Bullseye",NA,34
-"210","danterustv",00:19:01.901,1141901,"Diamonds!",NA,32
-"211","danterustv",00:19:06.459,1146459,"Cover Me With Diamonds",NA,33
-"212","danterustv",00:19:10.185,1150185,"Sky's the Limit",NA,34
-"213","okrzej1",00:19:33.292,1173292,"Great View From Up Here",NA,35
-"214","joshteautwins",00:19:48.257,1188257,"Free the End",NA,30
-"215","joshteautwins",00:19:48.326,1188326,NA,"dragon_death",30
-"216","fudge1",00:19:51.174,1191174,"The City at the End of the Game",NA,35
-"217","fudge1",00:20:21.420,1221420,"Sky's the Limit",NA,36
-"218","joshteautwins",00:20:21.909,1221909,"Remote Getaway",NA,31
-"219","fudge1",00:20:25.368,1225368,"Diamonds!",NA,37
-"220","Feinberg",00:20:30.744,1230744,"The Next Generation",NA,37
-"221","fudge1",00:20:31.020,1231020,"Cover Me With Diamonds",NA,38
-"222","fudge1",00:20:58.621,1258621,"Great View From Up Here",NA,39
-"223","joshteautwins",00:20:59.824,1259824,"The City at the End of the Game",NA,32
-"224","okrzej1",00:21:15.593,1275593,"The Next Generation",NA,36
-"225","joshteautwins",00:21:25.324,1285324,"Diamonds!",NA,33
-"226","danterustv",00:21:25.982,1285982,"Great View From Up Here",NA,35
-"227","joshteautwins",00:21:26.573,1286573,"Cover Me With Diamonds",NA,34
-"228","joshteautwins",00:21:38.028,1298028,"Sky's the Limit",NA,35
-"229","okrzej1",00:21:56.605,1316605,"Voluntary Exile",NA,37
-"230","okrzej1",00:21:56.632,1316632,"Who's the Pillager Now?",NA,38
-"231","okrzej1",00:22:21.846,1341846,"Best Friends Forever",NA,39
-"232","joshteautwins",00:22:30.389,1350389,"Great View From Up Here",NA,36
-"233","danterustv",00:22:36.590,1356590,"Voluntary Exile",NA,36
-"234","danterustv",00:22:36.591,1356591,"Who's the Pillager Now?",NA,37
-"235","Feinberg",00:23:07.783,1387783,"Enchanter",NA,38
-"236","fudge1",00:23:42.893,1422893,"The Next Generation",NA,40
-"237","joshteautwins",00:24:00.003,1440003,NA,"eliminate",36
-"238","fudge1",00:24:02.630,1442630,"Voluntary Exile",NA,41
-"239","fudge1",00:24:02.646,1442646,"Who's the Pillager Now?",NA,42
-"240","okrzej1",00:25:27.689,1527689,"Enchanter",NA,40
-"241","Feinberg",00:25:33.624,1533624,"Bullseye",NA,39
-"242","Feinberg",00:25:47.949,1547949,"Voluntary Exile",NA,40
-"243","Feinberg",00:25:48.025,1548025,"Who's the Pillager Now?",NA,41
-"244","fudge1",00:26:00.033,1560033,"Sniper Duel",NA,43
-"245","danterustv",00:27:59.480,1679480,"Enchanter",NA,38
-"246","danterustv",00:29:49.660,1789660,"Hired Help",NA,39
-"247","Feinberg",00:30:03.690,1803690,"Hero of the Village",NA,42
-"248","Feinberg",00:30:03.925,1803925,"Postmortal",NA,43
-"249","fudge1",00:30:47.672,1847672,"This Boat Has Legs",NA,44
-"250","danterustv",00:31:20.962,1880962,"Bullseye",NA,40
-"251","okrzej1",00:31:26.382,1886382,"Hero of the Village",NA,41
-"252","fudge1",00:32:05.865,1925865,"Hot Tourist Destinations",NA,45
-"253","okrzej1",00:32:06.039,1926039,"Postmortal",NA,42
-"254","Feinberg",00:32:48.048,1968048,"Sniper Duel",NA,44
-"255","danterustv",00:33:10.197,1990197,"Hot Tourist Destinations",NA,41
-"256","danterustv",00:33:26.793,2006793,"Return to Sender",NA,42
-"257","Feinberg",00:34:05.165,2045165,"Total Beelocation",NA,45
-"258","okrzej1",00:34:07.408,2047408,"Bullseye",NA,43
-"259","fudge1",00:34:18.763,2058763,"Subspace Bubble",NA,46
-"260","fudge1",00:34:32.434,2072434,"Uneasy Alliance",NA,47
-"261","Feinberg",00:34:39.845,2079844,"Return to Sender",NA,46
-"262","danterustv",00:34:46.224,2086224,"Subspace Bubble",NA,43
-"263","fudge1",00:34:47.966,2087966,"Serious Dedication",NA,48
-"264","Feinberg",00:34:51.796,2091795,"Hot Tourist Destinations",NA,47
-"265","danterustv",00:35:01.759,2101759,"Uneasy Alliance",NA,44
-"266","fudge1",00:35:10.973,2110973,"Hired Help",NA,49
-"267","Feinberg",00:35:13.592,2113592,"Hidden in the Depths",NA,48
-"268","Feinberg",00:35:42.960,2142960,"This Boat Has Legs",NA,49
-"269","okrzej1",00:35:51.710,2151710,"Sniper Duel",NA,44
-"270","okrzej1",00:36:33.266,2193266,"Return to Sender",NA,45
-"271","danterustv",00:36:33.267,2193267,NA,"eliminate",44
-"272","Feinberg",00:36:38.436,2198436,"Subspace Bubble",NA,50
-"273","okrzej1",00:37:03.176,2223176,"This Boat Has Legs",NA,46
-"274","fudge1",00:37:19.468,2239468,"Hidden in the Depths",NA,50
-"275","Feinberg",00:38:12.892,2292892,"Uneasy Alliance",NA,51
-"276","Feinberg",00:41:46.839,2506839,"Spooky Scary Skeleton",NA,52
-"277","fudge1",00:42:13.199,2533199,"Enchanter",NA,51
-"278","okrzej1",00:42:57.385,2577385,"Hired Help",NA,47
-"279","okrzej1",00:44:29.275,2669275,"Hidden in the Depths",NA,48
-"280","Feinberg",00:46:16.038,2776038,"Withering Heights",NA,53
-"281","okrzej1",00:47:08.372,2828372,"Uneasy Alliance",NA,49
-"282","fudge1",00:47:21.039,2841039,"Hero of the Village",NA,52
-"283","okrzej1",00:47:31.970,2851970,"Spooky Scary Skeleton",NA,50
-"284","fudge1",00:47:59.447,2879447,"Country Lode, Take Me Home",NA,53
-"285","okrzej1",00:48:00.006,2880006,NA,"eliminate",50
-"286","fudge1",00:48:04.632,2884632,"Postmortal",NA,54
-"287","Feinberg",00:50:01.088,3001088,"The End... Again...",NA,54
-"288","Feinberg",00:50:01.185,3001185,NA,"death",54
-"289","Feinberg",00:51:18.391,3078391,"Bring Home the Beacon",NA,55
-"290","fudge1",00:53:50.747,3230747,"Spooky Scary Skeleton",NA,55
-"291","fudge1",00:57:19.245,3439245,"The End... Again...",NA,56
-"292","fudge1",00:57:19.261,3439261,NA,"death",56
-"293","Feinberg",00:58:06.829,3486829,"Country Lode, Take Me Home",NA,56
-"294","Feinberg",00:58:08.738,3488738,"Serious Dedication",NA,57
-"295","Feinberg",00:58:10.277,3490277,"Bee Our Guest",NA,58
-"296","Feinberg",00:58:16.439,3496439,"Sticky Situation",NA,59
-"297","Feinberg",00:58:23.036,3503036,"Hired Help",NA,60
-"298","Feinberg",00:59:11.791,3551791,"Arbalistic",NA,61
-"299","Feinberg",00:59:26.836,3566836,"Best Friends Forever",NA,62
-"300","fudge1",01:00:00.007,3600007,NA,"eliminate",56
+"","player","standing","time","time_ms","advancement","ranked_event","n_advancements"
+"1","AutomattPLUS",6,00:00:28.492,28492,"Stone Age",NA,1
+"2","AutomattPLUS",6,00:00:29.043,29043,"Acquire Hardware",NA,2
+"3","okrzej1",3,00:00:31.824,31824,"Stone Age",NA,1
+"4","danterustv",4,00:00:31.933,31933,"Acquire Hardware",NA,1
+"5","danterustv",4,00:00:32.404,32404,"Stone Age",NA,2
+"6","okrzej1",3,00:00:32.623,32622,"Acquire Hardware",NA,2
+"7","Feinberg",1,00:00:32.825,32825,"Acquire Hardware",NA,1
+"8","fudge1",2,00:00:32.989,32989,"Acquire Hardware",NA,1
+"9","joshteautwins",5,00:00:33.276,33276,"Stone Age",NA,1
+"10","joshteautwins",5,00:00:33.973,33973,"Acquire Hardware",NA,2
+"11","fudge1",2,00:00:34.088,34088,"Stone Age",NA,2
+"12","Feinberg",1,00:00:36.800,36800,"Stone Age",NA,2
+"13","okrzej1",3,00:01:05.522,65522,"Getting an Upgrade",NA,3
+"14","okrzej1",3,00:01:09.120,69120,"Isn't It Iron Pick",NA,4
+"15","AutomattPLUS",6,00:01:17.589,77589,"Getting an Upgrade",NA,3
+"16","joshteautwins",5,00:01:17.717,77717,"Getting an Upgrade",NA,3
+"17","danterustv",4,00:01:22.258,82258,"Getting an Upgrade",NA,3
+"18","danterustv",4,00:01:22.406,82406,"Isn't It Iron Pick",NA,4
+"19","Feinberg",1,00:01:24.546,84546,"Isn't It Iron Pick",NA,3
+"20","Feinberg",1,00:01:24.647,84647,"Getting an Upgrade",NA,4
+"21","fudge1",2,00:01:29.231,89231,"Isn't It Iron Pick",NA,3
+"22","fudge1",2,00:01:29.244,89244,"Getting an Upgrade",NA,4
+"23","fudge1",2,00:01:29.871,89871,"A Seedy Place",NA,5
+"24","AutomattPLUS",6,00:01:30.802,90802,"A Seedy Place",NA,4
+"25","AutomattPLUS",6,00:01:40.687,100687,"Isn't It Iron Pick",NA,5
+"26","Feinberg",1,00:01:41.609,101609,"A Seedy Place",NA,5
+"27","AutomattPLUS",6,00:01:43.453,103453,"What a Deal!",NA,6
+"28","AutomattPLUS",6,00:01:44.199,104199,"Tactical Fishing",NA,7
+"29","Feinberg",1,00:01:57.797,117797,"The Parrots and the Bats",NA,6
+"30","danterustv",4,00:01:58.553,118553,"The Parrots and the Bats",NA,5
+"31","okrzej1",3,00:01:58.924,118924,"The Parrots and the Bats",NA,5
+"32","okrzej1",3,00:02:07.363,127363,"What a Deal!",NA,6
+"33","fudge1",2,00:02:07.491,127491,"The Parrots and the Bats",NA,6
+"34","okrzej1",3,00:02:09.334,129334,"Tactical Fishing",NA,7
+"35","Feinberg",1,00:02:12.705,132705,"What a Deal!",NA,7
+"36","Feinberg",1,00:02:15.259,135259,"Tactical Fishing",NA,8
+"37","danterustv",4,00:02:19.662,139662,"A Seedy Place",NA,6
+"38","joshteautwins",5,00:02:22.767,142767,"The Parrots and the Bats",NA,4
+"39","joshteautwins",5,00:02:24.040,144040,"A Seedy Place",NA,5
+"40","AutomattPLUS",6,00:02:26.101,146101,"Hot Stuff",NA,8
+"41","joshteautwins",5,00:02:29.354,149354,"What a Deal!",NA,6
+"42","fudge1",2,00:02:38.954,158954,"What a Deal!",NA,7
+"43","fudge1",2,00:02:40.067,160067,"Tactical Fishing",NA,8
+"44","AutomattPLUS",6,00:02:41.516,161516,"We Need to Go Deeper",NA,9
+"45","Feinberg",1,00:02:43.645,163645,"Hot Stuff",NA,9
+"46","okrzej1",3,00:02:52.224,172224,"Hot Stuff",NA,8
+"47","fudge1",2,00:02:55.981,175981,"Fishy Business",NA,9
+"48","Feinberg",1,00:02:57.296,177296,"We Need to Go Deeper",NA,10
+"49","joshteautwins",5,00:03:01.316,181316,"Isn't It Iron Pick",NA,7
+"50","fudge1",2,00:03:06.519,186519,"Best Friends Forever",NA,10
+"51","okrzej1",3,00:03:08.728,188728,"We Need to Go Deeper",NA,9
+"52","AutomattPLUS",6,00:03:08.772,188772,NA,"death",9
+"53","AutomattPLUS",6,00:03:12.376,192376,NA,"reset",9
+"54","danterustv",4,00:03:17.040,197040,"What a Deal!",NA,7
+"55","okrzej1",3,00:03:19.677,199677,"Fishy Business",NA,10
+"56","joshteautwins",5,00:03:32.337,212337,"Tactical Fishing",NA,8
+"57","danterustv",4,00:03:42.750,222750,"Tactical Fishing",NA,8
+"58","AutomattPLUS",6,00:03:42.996,222996,"Stone Age",NA,10
+"59","AutomattPLUS",6,00:03:44.400,224400,"Acquire Hardware",NA,11
+"60","danterustv",4,00:03:49.656,229656,"Fishy Business",NA,9
+"61","joshteautwins",5,00:03:54.619,234619,"Hot Stuff",NA,9
+"62","danterustv",4,00:03:57.954,237954,"Hot Stuff",NA,10
+"63","fudge1",2,00:04:03.179,243179,"Hot Stuff",NA,11
+"64","joshteautwins",5,00:04:09.655,249655,"We Need to Go Deeper",NA,10
+"65","Feinberg",1,00:04:23.900,263900,"Those Were the Days",NA,11
+"66","okrzej1",3,00:04:25.927,265927,"Those Were the Days",NA,11
+"67","danterustv",4,00:04:27.065,267065,"We Need to Go Deeper",NA,11
+"68","okrzej1",3,00:04:33.077,273077,"Oh Shiny",NA,12
+"69","fudge1",2,00:04:34.251,274251,"We Need to Go Deeper",NA,12
+"70","AutomattPLUS",6,00:04:41.874,281874,"A Seedy Place",NA,12
+"71","Feinberg",1,00:04:44.748,284748,"Oh Shiny",NA,12
+"72","AutomattPLUS",6,00:04:48.388,288388,"Getting an Upgrade",NA,13
+"73","AutomattPLUS",6,00:04:55.139,295139,"Isn't It Iron Pick",NA,14
+"74","AutomattPLUS",6,00:04:56.905,296905,"What a Deal!",NA,15
+"75","danterustv",4,00:04:57.084,297084,"Oh Shiny",NA,12
+"76","AutomattPLUS",6,00:04:57.726,297726,"Tactical Fishing",NA,16
+"77","AutomattPLUS",6,00:05:11.740,311740,"The Parrots and the Bats",NA,17
+"78","joshteautwins",5,00:05:12.271,312271,"Those Were the Days",NA,11
+"79","danterustv",4,00:05:26.666,326666,"Those Were the Days",NA,13
+"80","Feinberg",1,00:05:38.249,338249,"Who is Cutting Onions?",NA,13
+"81","joshteautwins",5,00:05:42.523,342523,"Oh Shiny",NA,12
+"82","Feinberg",1,00:05:46.571,346571,"Monster Hunter",NA,14
+"83","okrzej1",3,00:05:48.579,348579,"Who is Cutting Onions?",NA,13
+"84","okrzej1",3,00:05:48.607,348607,"Ice Bucket Challenge",NA,14
+"85","Feinberg",1,00:05:49.172,349172,"War Pigs",NA,15
+"86","AutomattPLUS",6,00:05:51.140,351140,"Hot Stuff",NA,18
+"87","Feinberg",1,00:05:51.823,351823,"Ice Bucket Challenge",NA,16
+"88","okrzej1",3,00:05:52.079,352079,"War Pigs",NA,15
+"89","fudge1",2,00:05:55.380,355380,"Those Were the Days",NA,13
+"90","okrzej1",3,00:06:04.428,364428,"Monster Hunter",NA,16
+"91","AutomattPLUS",6,00:06:10.106,370106,"We Need to Go Deeper",NA,19
+"92","AutomattPLUS",6,00:06:26.145,386145,"Oh Shiny",NA,20
+"93","joshteautwins",5,00:06:26.621,386621,"Ice Bucket Challenge",NA,13
+"94","fudge1",2,00:06:39.026,399026,"Oh Shiny",NA,14
+"95","danterustv",4,00:06:46.672,406672,"Ice Bucket Challenge",NA,14
+"96","danterustv",4,00:06:55.278,415278,"Who is Cutting Onions?",NA,15
+"97","danterustv",4,00:06:56.576,416576,"War Pigs",NA,16
+"98","joshteautwins",5,00:07:00.822,420822,"Who is Cutting Onions?",NA,14
+"99","joshteautwins",5,00:07:03.954,423954,"War Pigs",NA,15
+"100","okrzej1",3,00:07:14.077,434077,"Cover Me With Diamonds",NA,17
+"101","joshteautwins",5,00:07:16.100,436100,"Fishy Business",NA,16
+"102","AutomattPLUS",6,00:07:25.897,445897,"Those Were the Days",NA,21
+"103","fudge1",2,00:07:43.086,463086,"Ice Bucket Challenge",NA,15
+"104","fudge1",2,00:07:43.100,463100,"Suit Up",NA,16
+"105","danterustv",4,00:07:48.196,468196,"Not Quite ""Nine"" Lives",NA,17
+"106","fudge1",2,00:07:49.480,469480,"Who is Cutting Onions?",NA,17
+"107","okrzej1",3,00:07:55.533,475533,"A Terrible Fortress",NA,18
+"108","Feinberg",1,00:07:56.648,476648,"A Terrible Fortress",NA,17
+"109","fudge1",2,00:08:02.651,482651,"War Pigs",NA,18
+"110","Feinberg",1,00:08:10.050,490050,"Into Fire",NA,18
+"111","okrzej1",3,00:08:13.733,493733,"Into Fire",NA,19
+"112","okrzej1",3,00:08:29.628,509628,"Suit Up",NA,20
+"113","joshteautwins",5,00:08:40.274,520274,"A Terrible Fortress",NA,17
+"114","okrzej1",3,00:08:45.432,525432,"Not Today, Thank You",NA,21
+"115","okrzej1",3,00:08:45.460,525460,"Take Aim",NA,22
+"116","joshteautwins",5,00:08:50.302,530302,"Monster Hunter",NA,18
+"117","joshteautwins",5,00:08:51.879,531879,"Into Fire",NA,19
+"118","fudge1",2,00:08:52.100,532100,"Ol' Betsy",NA,19
+"119","danterustv",4,00:08:52.654,532654,"A Terrible Fortress",NA,18
+"120","fudge1",2,00:08:53.278,533278,"Not Today, Thank You",NA,20
+"121","fudge1",2,00:08:53.291,533291,"Take Aim",NA,21
+"122","AutomattPLUS",6,00:08:55.133,535133,"War Pigs",NA,22
+"123","danterustv",4,00:08:57.760,537760,"Monster Hunter",NA,19
+"124","AutomattPLUS",6,00:08:58.573,538573,"Who is Cutting Onions?",NA,23
+"125","AutomattPLUS",6,00:08:58.574,538574,"Ice Bucket Challenge",NA,24
+"126","danterustv",4,00:09:02.808,542808,"Into Fire",NA,20
+"127","AutomattPLUS",6,00:09:05.583,545583,"Monster Hunter",NA,25
+"128","joshteautwins",5,00:09:06.531,546531,"Local Brewery",NA,20
+"129","okrzej1",3,00:09:06.534,546534,"Ol' Betsy",NA,23
+"130","Feinberg",1,00:09:23.004,563004,"Local Brewery",NA,19
+"131","okrzej1",3,00:09:34.490,574490,"Not Quite ""Nine"" Lives",NA,24
+"132","AutomattPLUS",6,00:09:34.677,574677,"Fishy Business",NA,26
+"133","joshteautwins",5,00:09:35.401,575401,"Not Quite ""Nine"" Lives",NA,21
+"134","fudge1",2,00:09:43.130,583130,"Monster Hunter",NA,22
+"135","fudge1",2,00:09:43.154,583154,"Return to Sender",NA,23
+"136","Feinberg",1,00:09:45.837,585837,"Not Quite ""Nine"" Lives",NA,20
+"137","danterustv",4,00:09:46.886,586886,"Local Brewery",NA,21
+"138","danterustv",4,00:09:55.554,595554,"Not Today, Thank You",NA,22
+"139","danterustv",4,00:09:55.711,595711,"Take Aim",NA,23
+"140","Feinberg",1,00:09:59.687,599687,"Fishy Business",NA,21
+"141","joshteautwins",5,00:10:01.051,601051,"Ol' Betsy",NA,22
+"142","joshteautwins",5,00:10:06.472,606472,"Not Today, Thank You",NA,23
+"143","joshteautwins",5,00:10:06.487,606487,"Take Aim",NA,24
+"144","okrzej1",3,00:10:11.220,611220,NA,"blind_travel",24
+"145","danterustv",4,00:10:11.753,611753,"Suit Up",NA,24
+"146","fudge1",2,00:10:12.380,612380,"A Terrible Fortress",NA,24
+"147","AutomattPLUS",6,00:10:17.304,617304,"Cover Me With Diamonds",NA,27
+"148","fudge1",2,00:10:28.328,628328,"Into Fire",NA,25
+"149","okrzej1",3,00:10:31.768,631768,"A Seedy Place",NA,25
+"150","okrzej1",3,00:10:36.269,636269,"Sweet Dreams",NA,26
+"151","Feinberg",1,00:10:37.129,637129,NA,"blind_travel",21
+"152","fudge1",2,00:10:43.056,643056,"Local Brewery",NA,26
+"153","okrzej1",3,00:10:46.535,646535,"Local Brewery",NA,27
+"154","Feinberg",1,00:10:47.917,647917,"Sweet Dreams",NA,22
+"155","fudge1",2,00:10:49.149,649149,"Not Quite ""Nine"" Lives",NA,27
+"156","joshteautwins",5,00:10:53.387,653387,NA,"blind_travel",24
+"157","AutomattPLUS",6,00:10:53.603,653603,"Ol' Betsy",NA,28
+"158","Feinberg",1,00:10:54.197,654197,"Not Today, Thank You",NA,23
+"159","Feinberg",1,00:10:54.296,654296,"Take Aim",NA,24
+"160","Feinberg",1,00:10:57.121,657121,"Ol' Betsy",NA,25
+"161","danterustv",4,00:10:57.750,657750,"Ol' Betsy",NA,25
+"162","AutomattPLUS",6,00:10:58.851,658851,"Not Today, Thank You",NA,29
+"163","AutomattPLUS",6,00:10:58.891,658891,"Take Aim",NA,30
+"164","AutomattPLUS",6,00:11:08.450,668450,"Not Quite ""Nine"" Lives",NA,31
+"165","joshteautwins",5,00:11:10.061,670061,"Sweet Dreams",NA,25
+"166","danterustv",4,00:11:24.727,684727,NA,"blind_travel",25
+"167","fudge1",2,00:11:35.581,695581,NA,"blind_travel",27
+"168","fudge1",2,00:11:36.717,696717,"Sweet Dreams",NA,28
+"169","joshteautwins",5,00:11:45.719,705719,"Suit Up",NA,26
+"170","Feinberg",1,00:11:46.647,706647,"Eye Spy",NA,26
+"171","danterustv",4,00:11:50.754,710754,"Sweet Dreams",NA,26
+"172","AutomattPLUS",6,00:11:50.796,710796,"A Terrible Fortress",NA,32
+"173","AutomattPLUS",6,00:11:54.802,714802,"Into Fire",NA,33
+"174","AutomattPLUS",6,00:12:00.002,720002,NA,"eliminate",33
+"175","okrzej1",3,00:12:02.881,722881,"Eye Spy",NA,28
+"176","joshteautwins",5,00:12:57.280,777280,"Eye Spy",NA,27
+"177","danterustv",4,00:13:34.773,814773,"Eye Spy",NA,27
+"178","Feinberg",1,00:13:39.998,819998,"The End?",NA,27
+"179","fudge1",2,00:14:26.233,866233,"Eye Spy",NA,29
+"180","okrzej1",3,00:14:41.901,881901,"The End?",NA,29
+"181","okrzej1",3,00:15:14.478,914478,"Free the End",NA,30
+"182","Feinberg",1,00:15:15.242,915242,"You Need a Mint",NA,28
+"183","Feinberg",1,00:15:16.469,916469,"Free the End",NA,29
+"184","Feinberg",1,00:15:16.570,916570,NA,"dragon_death",29
+"185","danterustv",4,00:15:23.024,923024,"The End?",NA,28
+"186","okrzej1",3,00:15:24.737,924737,NA,"dragon_death",30
+"187","Feinberg",1,00:15:40.796,940796,"Remote Getaway",NA,30
+"188","okrzej1",3,00:15:51.490,951490,"Remote Getaway",NA,31
+"189","joshteautwins",5,00:15:56.095,956095,"The End?",NA,28
+"190","Feinberg",1,00:16:18.846,978846,"The City at the End of the Game",NA,31
+"191","fudge1",2,00:16:30.290,990290,"The End?",NA,30
+"192","okrzej1",3,00:16:33.189,993189,"The City at the End of the Game",NA,32
+"193","Feinberg",1,00:16:42.994,1002994,"Sky's the Limit",NA,32
+"194","Feinberg",1,00:16:43.094,1003094,"Cover Me With Diamonds",NA,33
+"195","Feinberg",1,00:16:45.895,1005895,"Diamonds!",NA,34
+"196","okrzej1",3,00:16:48.839,1008839,"Sky's the Limit",NA,33
+"197","danterustv",4,00:16:53.163,1013163,NA,"dragon_death",28
+"198","joshteautwins",5,00:16:53.421,1013421,"You Need a Mint",NA,29
+"199","okrzej1",3,00:17:00.739,1020739,"Diamonds!",NA,34
+"200","fudge1",2,00:17:02.028,1022028,"You Need a Mint",NA,31
+"201","Feinberg",1,00:17:11.416,1031415,"Suit Up",NA,35
+"202","danterustv",4,00:17:14.556,1034556,"The Next Generation",NA,29
+"203","danterustv",4,00:17:32.884,1052884,"Remote Getaway",NA,30
+"204","Feinberg",1,00:17:53.106,1073106,"Great View From Up Here",NA,36
+"205","fudge1",2,00:17:54.943,1074943,"Free the End",NA,32
+"206","fudge1",2,00:17:55.010,1075010,NA,"dragon_death",32
+"207","danterustv",4,00:18:22.614,1102614,"The City at the End of the Game",NA,31
+"208","fudge1",2,00:18:41.276,1121276,"Remote Getaway",NA,33
+"209","fudge1",2,00:18:41.532,1121532,"Bullseye",NA,34
+"210","danterustv",4,00:19:01.901,1141901,"Diamonds!",NA,32
+"211","danterustv",4,00:19:06.459,1146459,"Cover Me With Diamonds",NA,33
+"212","danterustv",4,00:19:10.185,1150185,"Sky's the Limit",NA,34
+"213","okrzej1",3,00:19:33.292,1173292,"Great View From Up Here",NA,35
+"214","joshteautwins",5,00:19:48.257,1188257,"Free the End",NA,30
+"215","joshteautwins",5,00:19:48.326,1188326,NA,"dragon_death",30
+"216","fudge1",2,00:19:51.174,1191174,"The City at the End of the Game",NA,35
+"217","fudge1",2,00:20:21.420,1221420,"Sky's the Limit",NA,36
+"218","joshteautwins",5,00:20:21.909,1221909,"Remote Getaway",NA,31
+"219","fudge1",2,00:20:25.368,1225368,"Diamonds!",NA,37
+"220","Feinberg",1,00:20:30.744,1230744,"The Next Generation",NA,37
+"221","fudge1",2,00:20:31.020,1231020,"Cover Me With Diamonds",NA,38
+"222","fudge1",2,00:20:58.621,1258621,"Great View From Up Here",NA,39
+"223","joshteautwins",5,00:20:59.824,1259824,"The City at the End of the Game",NA,32
+"224","okrzej1",3,00:21:15.593,1275593,"The Next Generation",NA,36
+"225","joshteautwins",5,00:21:25.324,1285324,"Diamonds!",NA,33
+"226","danterustv",4,00:21:25.982,1285982,"Great View From Up Here",NA,35
+"227","joshteautwins",5,00:21:26.573,1286573,"Cover Me With Diamonds",NA,34
+"228","joshteautwins",5,00:21:38.028,1298028,"Sky's the Limit",NA,35
+"229","okrzej1",3,00:21:56.605,1316605,"Voluntary Exile",NA,37
+"230","okrzej1",3,00:21:56.632,1316632,"Who's the Pillager Now?",NA,38
+"231","okrzej1",3,00:22:21.846,1341846,"Best Friends Forever",NA,39
+"232","joshteautwins",5,00:22:30.389,1350389,"Great View From Up Here",NA,36
+"233","danterustv",4,00:22:36.590,1356590,"Voluntary Exile",NA,36
+"234","danterustv",4,00:22:36.591,1356591,"Who's the Pillager Now?",NA,37
+"235","Feinberg",1,00:23:07.783,1387783,"Enchanter",NA,38
+"236","fudge1",2,00:23:42.893,1422893,"The Next Generation",NA,40
+"237","joshteautwins",5,00:24:00.003,1440003,NA,"eliminate",36
+"238","fudge1",2,00:24:02.630,1442630,"Voluntary Exile",NA,41
+"239","fudge1",2,00:24:02.646,1442646,"Who's the Pillager Now?",NA,42
+"240","okrzej1",3,00:25:27.689,1527689,"Enchanter",NA,40
+"241","Feinberg",1,00:25:33.624,1533624,"Bullseye",NA,39
+"242","Feinberg",1,00:25:47.949,1547949,"Voluntary Exile",NA,40
+"243","Feinberg",1,00:25:48.025,1548025,"Who's the Pillager Now?",NA,41
+"244","fudge1",2,00:26:00.033,1560033,"Sniper Duel",NA,43
+"245","danterustv",4,00:27:59.480,1679480,"Enchanter",NA,38
+"246","danterustv",4,00:29:49.660,1789660,"Hired Help",NA,39
+"247","Feinberg",1,00:30:03.690,1803690,"Hero of the Village",NA,42
+"248","Feinberg",1,00:30:03.925,1803925,"Postmortal",NA,43
+"249","fudge1",2,00:30:47.672,1847672,"This Boat Has Legs",NA,44
+"250","danterustv",4,00:31:20.962,1880962,"Bullseye",NA,40
+"251","okrzej1",3,00:31:26.382,1886382,"Hero of the Village",NA,41
+"252","fudge1",2,00:32:05.865,1925865,"Hot Tourist Destinations",NA,45
+"253","okrzej1",3,00:32:06.039,1926039,"Postmortal",NA,42
+"254","Feinberg",1,00:32:48.048,1968048,"Sniper Duel",NA,44
+"255","danterustv",4,00:33:10.197,1990197,"Hot Tourist Destinations",NA,41
+"256","danterustv",4,00:33:26.793,2006793,"Return to Sender",NA,42
+"257","Feinberg",1,00:34:05.165,2045165,"Total Beelocation",NA,45
+"258","okrzej1",3,00:34:07.408,2047408,"Bullseye",NA,43
+"259","fudge1",2,00:34:18.763,2058763,"Subspace Bubble",NA,46
+"260","fudge1",2,00:34:32.434,2072434,"Uneasy Alliance",NA,47
+"261","Feinberg",1,00:34:39.845,2079844,"Return to Sender",NA,46
+"262","danterustv",4,00:34:46.224,2086224,"Subspace Bubble",NA,43
+"263","fudge1",2,00:34:47.966,2087966,"Serious Dedication",NA,48
+"264","Feinberg",1,00:34:51.796,2091795,"Hot Tourist Destinations",NA,47
+"265","danterustv",4,00:35:01.759,2101759,"Uneasy Alliance",NA,44
+"266","fudge1",2,00:35:10.973,2110973,"Hired Help",NA,49
+"267","Feinberg",1,00:35:13.592,2113592,"Hidden in the Depths",NA,48
+"268","Feinberg",1,00:35:42.960,2142960,"This Boat Has Legs",NA,49
+"269","okrzej1",3,00:35:51.710,2151710,"Sniper Duel",NA,44
+"270","okrzej1",3,00:36:33.266,2193266,"Return to Sender",NA,45
+"271","danterustv",4,00:36:33.267,2193267,NA,"eliminate",44
+"272","Feinberg",1,00:36:38.436,2198436,"Subspace Bubble",NA,50
+"273","okrzej1",3,00:37:03.176,2223176,"This Boat Has Legs",NA,46
+"274","fudge1",2,00:37:19.468,2239468,"Hidden in the Depths",NA,50
+"275","Feinberg",1,00:38:12.892,2292892,"Uneasy Alliance",NA,51
+"276","Feinberg",1,00:41:46.839,2506839,"Spooky Scary Skeleton",NA,52
+"277","fudge1",2,00:42:13.199,2533199,"Enchanter",NA,51
+"278","okrzej1",3,00:42:57.385,2577385,"Hired Help",NA,47
+"279","okrzej1",3,00:44:29.275,2669275,"Hidden in the Depths",NA,48
+"280","Feinberg",1,00:46:16.038,2776038,"Withering Heights",NA,53
+"281","okrzej1",3,00:47:08.372,2828372,"Uneasy Alliance",NA,49
+"282","fudge1",2,00:47:21.039,2841039,"Hero of the Village",NA,52
+"283","okrzej1",3,00:47:31.970,2851970,"Spooky Scary Skeleton",NA,50
+"284","fudge1",2,00:47:59.447,2879447,"Country Lode, Take Me Home",NA,53
+"285","okrzej1",3,00:48:00.006,2880006,NA,"eliminate",50
+"286","fudge1",2,00:48:04.632,2884632,"Postmortal",NA,54
+"287","Feinberg",1,00:50:01.088,3001088,"The End... Again...",NA,54
+"288","Feinberg",1,00:50:01.185,3001185,NA,"death",54
+"289","Feinberg",1,00:51:18.391,3078391,"Bring Home the Beacon",NA,55
+"290","fudge1",2,00:53:50.747,3230747,"Spooky Scary Skeleton",NA,55
+"291","fudge1",2,00:57:19.245,3439245,"The End... Again...",NA,56
+"292","fudge1",2,00:57:19.261,3439261,NA,"death",56
+"293","Feinberg",1,00:58:06.829,3486829,"Country Lode, Take Me Home",NA,56
+"294","Feinberg",1,00:58:08.738,3488738,"Serious Dedication",NA,57
+"295","Feinberg",1,00:58:10.277,3490277,"Bee Our Guest",NA,58
+"296","Feinberg",1,00:58:16.439,3496439,"Sticky Situation",NA,59
+"297","Feinberg",1,00:58:23.036,3503036,"Hired Help",NA,60
+"298","Feinberg",1,00:59:11.791,3551791,"Arbalistic",NA,61
+"299","Feinberg",1,00:59:26.836,3566836,"Best Friends Forever",NA,62
+"300","fudge1",2,01:00:00.007,3600007,NA,"eliminate",56

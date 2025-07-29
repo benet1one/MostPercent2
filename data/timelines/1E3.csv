@@ -1,291 +1,291 @@
-"","player","time","time_ms","advancement","ranked_event","n_advancements"
-"1","bigbigmongey",00:00:31.414,31414,"Diamonds!",NA,1
-"2","blakwolf_",00:00:31.589,31589,"Acquire Hardware",NA,1
-"3","blakwolf_",00:00:32.130,32130,"Diamonds!",NA,2
-"4","blakwolf_",00:00:32.131,32131,"Stone Age",NA,3
-"5","bigbigmongey",00:00:32.352,32351,"Stone Age",NA,2
-"6","suravil_",00:00:32.469,32469,"Stone Age",NA,1
-"7","Boosfer",00:00:32.832,32832,"Stone Age",NA,1
-"8","bigbigmongey",00:00:33.092,33092,"Acquire Hardware",NA,3
-"9","Snakezy",00:00:33.103,33103,"Acquire Hardware",NA,1
-"10","suravil_",00:00:33.236,33236,"Acquire Hardware",NA,2
-"11","suravil_",00:00:33.520,33520,"Diamonds!",NA,3
-"12","Snakezy",00:00:33.548,33548,"Diamonds!",NA,2
-"13","Erikfzf",00:00:34.772,34772,"Stone Age",NA,1
-"14","Erikfzf",00:00:35.437,35437,"Diamonds!",NA,2
-"15","Erikfzf",00:00:36.180,36180,"Acquire Hardware",NA,3
-"16","Boosfer",00:00:36.932,36932,"Acquire Hardware",NA,2
-"17","Boosfer",00:00:37.051,37051,"Diamonds!",NA,3
-"18","Snakezy",00:00:39.450,39450,"Stone Age",NA,3
-"19","Erikfzf",00:01:18.075,78075,"Isn't It Iron Pick",NA,4
-"20","Snakezy",00:01:24.242,84242,"Getting an Upgrade",NA,4
-"21","blakwolf_",00:01:28.149,88149,"Getting an Upgrade",NA,4
-"22","Erikfzf",00:01:38.726,98726,"What a Deal!",NA,5
-"23","Erikfzf",00:01:40.162,100162,"Tactical Fishing",NA,6
-"24","blakwolf_",00:01:41.649,101649,"Tactical Fishing",NA,5
-"25","suravil_",00:01:44.792,104792,"A Seedy Place",NA,4
-"26","bigbigmongey",00:01:49.261,109261,"Best Friends Forever",NA,4
-"27","Erikfzf",00:01:52.462,112462,"A Seedy Place",NA,7
-"28","suravil_",00:01:59.720,119720,"What a Deal!",NA,5
-"29","bigbigmongey",00:02:02.605,122605,"Getting an Upgrade",NA,5
-"30","Snakezy",00:02:04.098,124098,"Best Friends Forever",NA,5
-"31","Boosfer",00:02:14.275,134275,"Best Friends Forever",NA,4
-"32","suravil_",00:02:17.371,137371,"Getting an Upgrade",NA,6
-"33","suravil_",00:02:17.401,137401,"Isn't It Iron Pick",NA,7
-"34","Snakezy",00:02:17.901,137901,"What a Deal!",NA,6
-"35","bigbigmongey",00:02:26.812,146812,"Isn't It Iron Pick",NA,6
-"36","suravil_",00:02:30.830,150830,"The Parrots and the Bats",NA,8
-"37","Snakezy",00:02:35.684,155684,"A Seedy Place",NA,7
-"38","blakwolf_",00:02:39.345,159345,"A Seedy Place",NA,6
-"39","suravil_",00:02:42.467,162467,"Best Friends Forever",NA,9
-"40","Boosfer",00:02:42.676,162676,"Getting an Upgrade",NA,5
-"41","Boosfer",00:02:42.709,162709,"Isn't It Iron Pick",NA,6
-"42","bigbigmongey",00:02:48.016,168016,"What a Deal!",NA,7
-"43","suravil_",00:03:07.497,187497,"Tactical Fishing",NA,10
-"44","Boosfer",00:03:08.667,188667,"What a Deal!",NA,7
-"45","Boosfer",00:03:11.028,191028,"Tactical Fishing",NA,8
-"46","blakwolf_",00:03:12.112,192112,"The Parrots and the Bats",NA,7
-"47","blakwolf_",00:03:17.728,197728,"What a Deal!",NA,8
-"48","Boosfer",00:03:32.428,212428,"A Seedy Place",NA,9
-"49","bigbigmongey",00:03:33.735,213735,"Tactical Fishing",NA,8
-"50","blakwolf_",00:03:36.605,216605,"Best Friends Forever",NA,9
-"51","Erikfzf",00:03:51.803,231803,"Best Friends Forever",NA,8
-"52","Snakezy",00:03:57.550,237550,"Tactical Fishing",NA,8
-"53","bigbigmongey",00:04:02.961,242961,"Hot Stuff",NA,9
-"54","Erikfzf",00:04:10.666,250666,"The Parrots and the Bats",NA,9
-"55","Snakezy",00:04:11.001,251001,"The Parrots and the Bats",NA,9
-"56","blakwolf_",00:04:11.321,251321,"Isn't It Iron Pick",NA,10
-"57","bigbigmongey",00:04:18.914,258914,"We Need to Go Deeper",NA,10
-"58","suravil_",00:04:22.513,262513,"Hot Stuff",NA,11
-"59","Erikfzf",00:04:29.433,269433,"Hot Stuff",NA,10
-"60","blakwolf_",00:04:34.372,274372,"Hot Stuff",NA,11
-"61","Snakezy",00:04:35.944,275944,"Hot Stuff",NA,10
-"62","suravil_",00:04:37.289,277289,"We Need to Go Deeper",NA,12
-"63","Erikfzf",00:04:42.472,282472,"We Need to Go Deeper",NA,11
-"64","blakwolf_",00:04:47.499,287499,"We Need to Go Deeper",NA,12
-"65","bigbigmongey",00:04:56.757,296757,"Oh Shiny",NA,11
-"66","Erikfzf",00:04:58.113,298113,"Oh Shiny",NA,12
-"67","Boosfer",00:05:01.681,301681,"Hot Stuff",NA,10
-"68","Boosfer",00:05:12.662,312662,"We Need to Go Deeper",NA,11
-"69","Snakezy",00:05:22.190,322190,"We Need to Go Deeper",NA,11
-"70","bigbigmongey",00:05:23.857,323857,"The Parrots and the Bats",NA,12
-"71","bigbigmongey",00:05:24.560,324560,"Those Were the Days",NA,13
-"72","Erikfzf",00:05:30.759,330759,"Those Were the Days",NA,13
-"73","suravil_",00:05:35.172,335172,"Those Were the Days",NA,13
-"74","Boosfer",00:05:42.728,342728,"Oh Shiny",NA,12
-"75","suravil_",00:06:09.366,369366,"Oh Shiny",NA,14
-"76","Boosfer",00:06:09.377,369377,"Those Were the Days",NA,13
-"77","Snakezy",00:06:17.351,377351,"Those Were the Days",NA,12
-"78","Erikfzf",00:06:23.409,383409,"Getting an Upgrade",NA,14
-"79","Boosfer",00:06:27.740,387740,"War Pigs",NA,14
-"80","Boosfer",00:06:31.889,391889,"Monster Hunter",NA,15
-"81","blakwolf_",00:06:32.702,392702,"Those Were the Days",NA,13
-"82","Snakezy",00:06:46.994,406994,"Oh Shiny",NA,13
-"83","bigbigmongey",00:06:50.710,410710,"Who is Cutting Onions?",NA,14
-"84","bigbigmongey",00:06:51.600,411600,"Ice Bucket Challenge",NA,15
-"85","bigbigmongey",00:06:54.117,414117,"War Pigs",NA,16
-"86","suravil_",00:07:02.670,422670,"Who is Cutting Onions?",NA,15
-"87","suravil_",00:07:02.697,422697,"Suit Up",NA,16
-"88","suravil_",00:07:06.330,426330,"Local Brewery",NA,17
-"89","suravil_",00:07:09.162,429162,"War Pigs",NA,18
-"90","suravil_",00:07:12.267,432267,"Ice Bucket Challenge",NA,19
-"91","Erikfzf",00:07:15.514,435514,"War Pigs",NA,15
-"92","Erikfzf",00:07:18.162,438162,"Ice Bucket Challenge",NA,16
-"93","blakwolf_",00:07:18.700,438700,"Oh Shiny",NA,14
-"94","Erikfzf",00:07:24.764,444764,"Fishy Business",NA,17
-"95","bigbigmongey",00:07:31.117,451117,"Local Brewery",NA,17
-"96","Erikfzf",00:07:32.482,452482,"Who is Cutting Onions?",NA,18
-"97","Snakezy",00:07:41.452,461452,"Ice Bucket Challenge",NA,14
-"98","Snakezy",00:07:43.849,463849,"Who is Cutting Onions?",NA,15
-"99","Snakezy",00:07:52.424,472424,"Monster Hunter",NA,16
-"100","Snakezy",00:07:57.869,477869,"War Pigs",NA,17
-"101","blakwolf_",00:08:06.700,486700,"Who is Cutting Onions?",NA,15
-"102","blakwolf_",00:08:08.101,488101,"War Pigs",NA,16
-"103","blakwolf_",00:08:12.696,492696,"Ice Bucket Challenge",NA,17
-"104","blakwolf_",00:08:24.756,504756,"Fishy Business",NA,18
-"105","blakwolf_",00:08:31.456,511456,"Ol' Betsy",NA,19
-"106","Erikfzf",00:08:34.506,514506,"Ol' Betsy",NA,19
-"107","bigbigmongey",00:08:37.317,517317,"Suit Up",NA,18
-"108","blakwolf_",00:08:39.456,519456,"Not Today, Thank You",NA,20
-"109","Erikfzf",00:08:39.668,519668,"Not Today, Thank You",NA,20
-"110","blakwolf_",00:08:39.705,519705,"Take Aim",NA,21
-"111","Erikfzf",00:08:39.768,519768,"Take Aim",NA,21
-"112","bigbigmongey",00:08:39.960,519960,"Fishy Business",NA,19
-"113","Erikfzf",00:09:00.412,540412,"Suit Up",NA,22
-"114","Boosfer",00:09:11.088,551088,"Fishy Business",NA,16
-"115","suravil_",00:09:15.223,555223,"A Terrible Fortress",NA,20
-"116","Boosfer",00:09:16.972,556972,"Ice Bucket Challenge",NA,17
-"117","Erikfzf",00:09:23.219,563219,"A Terrible Fortress",NA,23
-"118","suravil_",00:09:23.428,563428,"Monster Hunter",NA,21
-"119","suravil_",00:09:24.076,564076,"Into Fire",NA,22
-"120","Snakezy",00:09:26.747,566747,"Fishy Business",NA,18
-"121","Erikfzf",00:09:30.997,570997,"Monster Hunter",NA,24
-"122","Erikfzf",00:09:31.810,571810,"Into Fire",NA,25
-"123","Snakezy",00:09:35.829,575829,"Not Quite ""Nine"" Lives",NA,19
-"124","Boosfer",00:09:37.022,577022,"Who is Cutting Onions?",NA,18
-"125","Boosfer",00:09:38.739,578739,"Ol' Betsy",NA,19
-"126","bigbigmongey",00:09:40.259,580259,"A Terrible Fortress",NA,20
-"127","Snakezy",00:09:42.873,582873,"Ol' Betsy",NA,20
-"128","Snakezy",00:09:44.650,584650,"Not Today, Thank You",NA,21
-"129","Snakezy",00:09:44.757,584757,"Take Aim",NA,22
-"130","Boosfer",00:09:44.771,584771,"Take Aim",NA,20
-"131","Boosfer",00:09:44.771,584771,"Not Today, Thank You",NA,21
-"132","bigbigmongey",00:09:46.875,586875,"Monster Hunter",NA,21
-"133","bigbigmongey",00:09:47.366,587366,"Into Fire",NA,22
-"134","Snakezy",00:09:47.995,587995,"Suit Up",NA,23
-"135","Boosfer",00:09:49.325,589325,"Suit Up",NA,22
-"136","Erikfzf",00:09:52.496,592496,"Not Quite ""Nine"" Lives",NA,26
-"137","Snakezy",00:09:53.797,593797,"Isn't It Iron Pick",NA,24
-"138","suravil_",00:09:57.378,597378,"Not Quite ""Nine"" Lives",NA,23
-"139","blakwolf_",00:10:00.446,600446,"A Terrible Fortress",NA,22
-"140","Boosfer",00:10:03.040,603040,"Not Quite ""Nine"" Lives",NA,23
-"141","suravil_",00:10:07.130,607130,"Ol' Betsy",NA,24
-"142","suravil_",00:10:08.126,608126,"Not Today, Thank You",NA,25
-"143","suravil_",00:10:08.154,608154,"Take Aim",NA,26
-"144","bigbigmongey",00:10:09.574,609574,"Not Quite ""Nine"" Lives",NA,23
-"145","Erikfzf",00:10:17.484,617484,"Local Brewery",NA,27
-"146","blakwolf_",00:10:24.114,624114,"Monster Hunter",NA,23
-"147","blakwolf_",00:10:24.649,624649,"Into Fire",NA,24
-"148","Snakezy",00:10:29.801,629801,"A Terrible Fortress",NA,25
-"149","bigbigmongey",00:10:30.585,630585,"Ol' Betsy",NA,24
-"150","Snakezy",00:10:34.603,634603,"Into Fire",NA,26
-"151","bigbigmongey",00:10:37.813,637813,"Not Today, Thank You",NA,25
-"152","bigbigmongey",00:10:38.112,638112,"Take Aim",NA,26
-"153","blakwolf_",00:10:40.748,640748,"Local Brewery",NA,25
-"154","blakwolf_",00:10:43.062,643062,"Not Quite ""Nine"" Lives",NA,26
-"155","Boosfer",00:10:50.373,650373,"A Terrible Fortress",NA,24
-"156","Snakezy",00:11:06.175,666175,"Local Brewery",NA,27
-"157","Erikfzf",00:11:07.068,667068,NA,"blind_travel",27
-"158","blakwolf_",00:11:11.142,671142,"Suit Up",NA,27
-"159","Snakezy",00:11:15.510,675510,NA,"blind_travel",27
-"160","Boosfer",00:11:17.073,677073,"Into Fire",NA,25
-"161","bigbigmongey",00:11:20.960,680960,NA,"blind_travel",26
-"162","Boosfer",00:11:22.575,682575,"Local Brewery",NA,26
-"163","Snakezy",00:11:23.268,683268,"Sweet Dreams",NA,28
-"164","blakwolf_",00:11:24.607,684607,NA,"blind_travel",27
-"165","Erikfzf",00:11:25.272,685272,"Sweet Dreams",NA,28
-"166","bigbigmongey",00:11:25.414,685414,"A Seedy Place",NA,27
-"167","blakwolf_",00:11:26.979,686979,"Sweet Dreams",NA,28
-"168","bigbigmongey",00:11:28.417,688417,"Sweet Dreams",NA,28
-"169","Boosfer",00:11:33.272,693272,NA,"blind_travel",26
-"170","Boosfer",00:11:37.126,697126,"Sweet Dreams",NA,27
-"171","suravil_",00:11:53.329,713329,NA,"blind_travel",26
-"172","suravil_",00:11:54.551,714551,"Sweet Dreams",NA,27
-"173","suravil_",00:12:58.824,778824,"Fishy Business",NA,28
-"174","Boosfer",00:12:58.825,778825,NA,"eliminate",27
-"175","bigbigmongey",00:13:19.799,799799,"Eye Spy",NA,29
-"176","Erikfzf",00:13:26.622,806622,"Eye Spy",NA,29
-"177","Erikfzf",00:13:45.140,825140,NA,"death_spawnpoint",29
-"178","suravil_",00:13:56.964,836964,"Eye Spy",NA,29
-"179","Snakezy",00:14:09.804,849804,NA,"death",28
-"180","blakwolf_",00:14:47.135,887135,"Eye Spy",NA,29
-"181","bigbigmongey",00:15:14.514,914514,"The End?",NA,30
-"182","suravil_",00:15:39.032,939032,"The End?",NA,30
-"183","bigbigmongey",00:15:44.511,944511,"Free the End",NA,31
-"184","Erikfzf",00:15:44.996,944996,NA,"death_spawnpoint",29
-"185","bigbigmongey",00:15:55.006,955006,NA,"dragon_death",31
-"186","bigbigmongey",00:16:09.816,969816,"The Next Generation",NA,32
-"187","suravil_",00:16:13.552,973552,"Free the End",NA,31
-"188","Erikfzf",00:16:19.759,979759,"The End?",NA,30
-"189","suravil_",00:16:23.920,983920,NA,"dragon_death",31
-"190","bigbigmongey",00:16:26.533,986533,"Remote Getaway",NA,33
-"191","blakwolf_",00:16:44.112,1004112,"The End?",NA,30
-"192","Erikfzf",00:16:54.043,1014043,"Free the End",NA,31
-"193","bigbigmongey",00:16:55.207,1015207,"The City at the End of the Game",NA,34
-"194","suravil_",00:16:58.080,1018080,"Remote Getaway",NA,32
-"195","Erikfzf",00:17:03.438,1023438,NA,"dragon_death",31
-"196","blakwolf_",00:17:09.882,1029882,"You Need a Mint",NA,31
-"197","suravil_",00:17:25.726,1045726,"The City at the End of the Game",NA,33
-"198","bigbigmongey",00:17:27.658,1047657,"Sky's the Limit",NA,35
-"199","Erikfzf",00:17:39.705,1059705,"Remote Getaway",NA,32
-"200","bigbigmongey",00:17:56.212,1076212,"Cover Me With Diamonds",NA,36
-"201","suravil_",00:18:07.025,1087025,"Sky's the Limit",NA,34
-"202","blakwolf_",00:18:20.670,1100670,"Free the End",NA,32
-"203","blakwolf_",00:18:20.917,1100917,NA,"dragon_death",32
-"204","suravil_",00:18:28.279,1108279,"Great View From Up Here",NA,35
-"205","blakwolf_",00:18:38.284,1118284,"The Next Generation",NA,33
-"206","suravil_",00:18:40.131,1120131,"Cover Me With Diamonds",NA,36
-"207","blakwolf_",00:18:55.914,1135914,"Remote Getaway",NA,34
-"208","Erikfzf",00:19:21.055,1161055,"The City at the End of the Game",NA,33
-"209","blakwolf_",00:19:28.680,1168680,"The City at the End of the Game",NA,35
-"210","Erikfzf",00:19:32.047,1172047,"Sky's the Limit",NA,34
-"211","blakwolf_",00:20:00.664,1200664,"Sky's the Limit",NA,36
-"212","Erikfzf",00:20:06.550,1206550,"Cover Me With Diamonds",NA,35
-"213","bigbigmongey",00:20:12.367,1212367,"Great View From Up Here",NA,37
-"214","blakwolf_",00:20:19.928,1219928,"Great View From Up Here",NA,37
-"215","blakwolf_",00:20:32.782,1232782,"Cover Me With Diamonds",NA,38
-"216","Erikfzf",00:20:43.754,1243754,"Great View From Up Here",NA,36
-"217","suravil_",00:21:21.281,1281281,"The Next Generation",NA,37
-"218","Erikfzf",00:22:06.116,1326116,"The Next Generation",NA,37
-"219","suravil_",00:22:12.679,1332679,"Hired Help",NA,38
-"220","bigbigmongey",00:22:33.516,1353516,"Bullseye",NA,38
-"221","Erikfzf",00:22:37.268,1357268,"Hired Help",NA,38
-"222","bigbigmongey",00:22:53.119,1373119,"Hired Help",NA,39
-"223","suravil_",00:22:54.487,1374487,"Voluntary Exile",NA,39
-"224","suravil_",00:22:54.514,1374514,"Who's the Pillager Now?",NA,40
-"225","bigbigmongey",00:23:20.915,1400915,"Who's the Pillager Now?",NA,40
-"226","bigbigmongey",00:23:20.915,1400915,"Voluntary Exile",NA,41
-"227","Erikfzf",00:23:22.763,1402763,"Voluntary Exile",NA,39
-"228","Erikfzf",00:23:22.874,1402874,"Who's the Pillager Now?",NA,40
-"229","Erikfzf",00:23:36.313,1416313,"Bullseye",NA,41
-"230","blakwolf_",00:23:41.181,1421181,"Bullseye",NA,39
-"231","suravil_",00:23:56.305,1436305,"This Boat Has Legs",NA,41
-"232","Snakezy",00:24:00.003,1440003,NA,"eliminate",28
-"233","Erikfzf",00:24:28.709,1468709,"Sniper Duel",NA,42
-"234","blakwolf_",00:24:44.380,1484380,"Voluntary Exile",NA,40
-"235","blakwolf_",00:24:44.627,1484627,"Who's the Pillager Now?",NA,41
-"236","bigbigmongey",00:26:28.533,1588533,"Enchanter",NA,42
-"237","blakwolf_",00:26:41.550,1601550,"Enchanter",NA,42
-"238","suravil_",00:27:47.372,1667372,"Hero of the Village",NA,42
-"239","suravil_",00:27:50.775,1670775,"Postmortal",NA,43
-"240","Erikfzf",00:28:00.328,1680328,"Return to Sender",NA,43
-"241","suravil_",00:28:47.431,1727431,"Bullseye",NA,44
-"242","blakwolf_",00:29:22.049,1762049,"This Boat Has Legs",NA,43
-"243","blakwolf_",00:29:34.415,1774415,"Return to Sender",NA,44
-"244","blakwolf_",00:29:52.896,1792896,"Spooky Scary Skeleton",NA,45
-"245","Erikfzf",00:30:04.327,1804327,"Hot Tourist Destinations",NA,44
-"246","blakwolf_",00:30:07.444,1807444,"Hot Tourist Destinations",NA,46
-"247","bigbigmongey",00:30:21.169,1821169,"Hot Tourist Destinations",NA,43
-"248","bigbigmongey",00:30:40.664,1840664,"Return to Sender",NA,44
-"249","bigbigmongey",00:30:57.366,1857366,"Spooky Scary Skeleton",NA,45
-"250","blakwolf_",00:31:04.828,1864828,"Sniper Duel",NA,47
-"251","Erikfzf",00:31:36.600,1896600,"Subspace Bubble",NA,45
-"252","bigbigmongey",00:31:39.229,1899229,"This Boat Has Legs",NA,46
-"253","suravil_",00:32:32.436,1952436,"Sniper Duel",NA,45
-"254","blakwolf_",00:32:40.367,1960367,"Uneasy Alliance",NA,48
-"255","suravil_",00:33:12.119,1992119,"Enchanter",NA,46
-"256","Erikfzf",00:33:15.654,1995654,"Uneasy Alliance",NA,46
-"257","blakwolf_",00:33:30.425,2010425,"Country Lode, Take Me Home",NA,49
-"258","bigbigmongey",00:34:17.283,2057283,"Subspace Bubble",NA,47
-"259","blakwolf_",00:34:30.421,2070420,"Subspace Bubble",NA,50
-"260","bigbigmongey",00:34:36.500,2076500,"Uneasy Alliance",NA,48
-"261","Erikfzf",00:34:42.917,2082917,"Enchanter",NA,47
-"262","blakwolf_",00:35:04.869,2104869,"Total Beelocation",NA,51
-"263","suravil_",00:36:00.004,2160004,NA,"eliminate",46
-"264","bigbigmongey",00:36:59.011,2219011,"Sniper Duel",NA,49
-"265","blakwolf_",00:38:31.117,2311117,"Hired Help",NA,52
-"266","Erikfzf",00:38:56.497,2336497,"Hero of the Village",NA,48
-"267","Erikfzf",00:39:03.953,2343953,"Postmortal",NA,49
-"268","blakwolf_",00:40:52.846,2452846,"Hero of the Village",NA,53
-"269","blakwolf_",00:41:15.918,2475918,"Postmortal",NA,54
-"270","Erikfzf",00:42:04.912,2524912,"Arbalistic",NA,50
-"271","Erikfzf",00:43:05.411,2585411,"Hidden in the Depths",NA,51
-"272","bigbigmongey",00:43:18.180,2598180,"Withering Heights",NA,50
-"273","blakwolf_",00:43:51.202,2631202,"Arbalistic",NA,55
-"274","Erikfzf",00:43:54.707,2634707,"This Boat Has Legs",NA,52
-"275","blakwolf_",00:44:09.103,2649103,"Bee Our Guest",NA,56
-"276","Erikfzf",00:44:49.415,2689415,"Spooky Scary Skeleton",NA,53
-"277","bigbigmongey",00:45:50.142,2750142,"Bring Home the Beacon",NA,51
-"278","bigbigmongey",00:47:00.163,2820163,"Hero of the Village",NA,52
-"279","bigbigmongey",00:47:37.125,2857125,"Postmortal",NA,53
-"280","bigbigmongey",00:48:05.757,2885757,NA,"eliminate",53
-"281","Erikfzf",00:48:05.757,2885757,"Withering Heights",NA,54
-"282","blakwolf_",00:48:50.049,2930049,"Sticky Situation",NA,57
-"283","blakwolf_",00:52:59.457,3179457,"Hidden in the Depths",NA,58
-"284","Erikfzf",00:53:10.072,3190072,"Bring Home the Beacon",NA,55
-"285","Erikfzf",00:55:39.643,3339643,"The End... Again...",NA,56
-"286","Erikfzf",00:55:52.782,3352782,"You Need a Mint",NA,57
-"287","Erikfzf",00:55:55.494,3355494,NA,"death",57
-"288","blakwolf_",00:56:24.375,3384375,"Zombie Doctor",NA,59
-"289","blakwolf_",00:57:53.273,3473273,"Serious Dedication",NA,60
-"290","Erikfzf",01:00:00.006,3600006,NA,"eliminate",57
+"","player","standing","time","time_ms","advancement","ranked_event","n_advancements"
+"1","bigbigmongey",3,00:00:31.414,31414,"Diamonds!",NA,1
+"2","blakwolf_",1,00:00:31.589,31589,"Acquire Hardware",NA,1
+"3","blakwolf_",1,00:00:32.130,32130,"Diamonds!",NA,2
+"4","blakwolf_",1,00:00:32.131,32131,"Stone Age",NA,3
+"5","bigbigmongey",3,00:00:32.352,32351,"Stone Age",NA,2
+"6","suravil_",4,00:00:32.469,32469,"Stone Age",NA,1
+"7","Boosfer",6,00:00:32.832,32832,"Stone Age",NA,1
+"8","bigbigmongey",3,00:00:33.092,33092,"Acquire Hardware",NA,3
+"9","Snakezy",5,00:00:33.103,33103,"Acquire Hardware",NA,1
+"10","suravil_",4,00:00:33.236,33236,"Acquire Hardware",NA,2
+"11","suravil_",4,00:00:33.520,33520,"Diamonds!",NA,3
+"12","Snakezy",5,00:00:33.548,33548,"Diamonds!",NA,2
+"13","Erikfzf",2,00:00:34.772,34772,"Stone Age",NA,1
+"14","Erikfzf",2,00:00:35.437,35437,"Diamonds!",NA,2
+"15","Erikfzf",2,00:00:36.180,36180,"Acquire Hardware",NA,3
+"16","Boosfer",6,00:00:36.932,36932,"Acquire Hardware",NA,2
+"17","Boosfer",6,00:00:37.051,37051,"Diamonds!",NA,3
+"18","Snakezy",5,00:00:39.450,39450,"Stone Age",NA,3
+"19","Erikfzf",2,00:01:18.075,78075,"Isn't It Iron Pick",NA,4
+"20","Snakezy",5,00:01:24.242,84242,"Getting an Upgrade",NA,4
+"21","blakwolf_",1,00:01:28.149,88149,"Getting an Upgrade",NA,4
+"22","Erikfzf",2,00:01:38.726,98726,"What a Deal!",NA,5
+"23","Erikfzf",2,00:01:40.162,100162,"Tactical Fishing",NA,6
+"24","blakwolf_",1,00:01:41.649,101649,"Tactical Fishing",NA,5
+"25","suravil_",4,00:01:44.792,104792,"A Seedy Place",NA,4
+"26","bigbigmongey",3,00:01:49.261,109261,"Best Friends Forever",NA,4
+"27","Erikfzf",2,00:01:52.462,112462,"A Seedy Place",NA,7
+"28","suravil_",4,00:01:59.720,119720,"What a Deal!",NA,5
+"29","bigbigmongey",3,00:02:02.605,122605,"Getting an Upgrade",NA,5
+"30","Snakezy",5,00:02:04.098,124098,"Best Friends Forever",NA,5
+"31","Boosfer",6,00:02:14.275,134275,"Best Friends Forever",NA,4
+"32","suravil_",4,00:02:17.371,137371,"Getting an Upgrade",NA,6
+"33","suravil_",4,00:02:17.401,137401,"Isn't It Iron Pick",NA,7
+"34","Snakezy",5,00:02:17.901,137901,"What a Deal!",NA,6
+"35","bigbigmongey",3,00:02:26.812,146812,"Isn't It Iron Pick",NA,6
+"36","suravil_",4,00:02:30.830,150830,"The Parrots and the Bats",NA,8
+"37","Snakezy",5,00:02:35.684,155684,"A Seedy Place",NA,7
+"38","blakwolf_",1,00:02:39.345,159345,"A Seedy Place",NA,6
+"39","suravil_",4,00:02:42.467,162467,"Best Friends Forever",NA,9
+"40","Boosfer",6,00:02:42.676,162676,"Getting an Upgrade",NA,5
+"41","Boosfer",6,00:02:42.709,162709,"Isn't It Iron Pick",NA,6
+"42","bigbigmongey",3,00:02:48.016,168016,"What a Deal!",NA,7
+"43","suravil_",4,00:03:07.497,187497,"Tactical Fishing",NA,10
+"44","Boosfer",6,00:03:08.667,188667,"What a Deal!",NA,7
+"45","Boosfer",6,00:03:11.028,191028,"Tactical Fishing",NA,8
+"46","blakwolf_",1,00:03:12.112,192112,"The Parrots and the Bats",NA,7
+"47","blakwolf_",1,00:03:17.728,197728,"What a Deal!",NA,8
+"48","Boosfer",6,00:03:32.428,212428,"A Seedy Place",NA,9
+"49","bigbigmongey",3,00:03:33.735,213735,"Tactical Fishing",NA,8
+"50","blakwolf_",1,00:03:36.605,216605,"Best Friends Forever",NA,9
+"51","Erikfzf",2,00:03:51.803,231803,"Best Friends Forever",NA,8
+"52","Snakezy",5,00:03:57.550,237550,"Tactical Fishing",NA,8
+"53","bigbigmongey",3,00:04:02.961,242961,"Hot Stuff",NA,9
+"54","Erikfzf",2,00:04:10.666,250666,"The Parrots and the Bats",NA,9
+"55","Snakezy",5,00:04:11.001,251001,"The Parrots and the Bats",NA,9
+"56","blakwolf_",1,00:04:11.321,251321,"Isn't It Iron Pick",NA,10
+"57","bigbigmongey",3,00:04:18.914,258914,"We Need to Go Deeper",NA,10
+"58","suravil_",4,00:04:22.513,262513,"Hot Stuff",NA,11
+"59","Erikfzf",2,00:04:29.433,269433,"Hot Stuff",NA,10
+"60","blakwolf_",1,00:04:34.372,274372,"Hot Stuff",NA,11
+"61","Snakezy",5,00:04:35.944,275944,"Hot Stuff",NA,10
+"62","suravil_",4,00:04:37.289,277289,"We Need to Go Deeper",NA,12
+"63","Erikfzf",2,00:04:42.472,282472,"We Need to Go Deeper",NA,11
+"64","blakwolf_",1,00:04:47.499,287499,"We Need to Go Deeper",NA,12
+"65","bigbigmongey",3,00:04:56.757,296757,"Oh Shiny",NA,11
+"66","Erikfzf",2,00:04:58.113,298113,"Oh Shiny",NA,12
+"67","Boosfer",6,00:05:01.681,301681,"Hot Stuff",NA,10
+"68","Boosfer",6,00:05:12.662,312662,"We Need to Go Deeper",NA,11
+"69","Snakezy",5,00:05:22.190,322190,"We Need to Go Deeper",NA,11
+"70","bigbigmongey",3,00:05:23.857,323857,"The Parrots and the Bats",NA,12
+"71","bigbigmongey",3,00:05:24.560,324560,"Those Were the Days",NA,13
+"72","Erikfzf",2,00:05:30.759,330759,"Those Were the Days",NA,13
+"73","suravil_",4,00:05:35.172,335172,"Those Were the Days",NA,13
+"74","Boosfer",6,00:05:42.728,342728,"Oh Shiny",NA,12
+"75","suravil_",4,00:06:09.366,369366,"Oh Shiny",NA,14
+"76","Boosfer",6,00:06:09.377,369377,"Those Were the Days",NA,13
+"77","Snakezy",5,00:06:17.351,377351,"Those Were the Days",NA,12
+"78","Erikfzf",2,00:06:23.409,383409,"Getting an Upgrade",NA,14
+"79","Boosfer",6,00:06:27.740,387740,"War Pigs",NA,14
+"80","Boosfer",6,00:06:31.889,391889,"Monster Hunter",NA,15
+"81","blakwolf_",1,00:06:32.702,392702,"Those Were the Days",NA,13
+"82","Snakezy",5,00:06:46.994,406994,"Oh Shiny",NA,13
+"83","bigbigmongey",3,00:06:50.710,410710,"Who is Cutting Onions?",NA,14
+"84","bigbigmongey",3,00:06:51.600,411600,"Ice Bucket Challenge",NA,15
+"85","bigbigmongey",3,00:06:54.117,414117,"War Pigs",NA,16
+"86","suravil_",4,00:07:02.670,422670,"Who is Cutting Onions?",NA,15
+"87","suravil_",4,00:07:02.697,422697,"Suit Up",NA,16
+"88","suravil_",4,00:07:06.330,426330,"Local Brewery",NA,17
+"89","suravil_",4,00:07:09.162,429162,"War Pigs",NA,18
+"90","suravil_",4,00:07:12.267,432267,"Ice Bucket Challenge",NA,19
+"91","Erikfzf",2,00:07:15.514,435514,"War Pigs",NA,15
+"92","Erikfzf",2,00:07:18.162,438162,"Ice Bucket Challenge",NA,16
+"93","blakwolf_",1,00:07:18.700,438700,"Oh Shiny",NA,14
+"94","Erikfzf",2,00:07:24.764,444764,"Fishy Business",NA,17
+"95","bigbigmongey",3,00:07:31.117,451117,"Local Brewery",NA,17
+"96","Erikfzf",2,00:07:32.482,452482,"Who is Cutting Onions?",NA,18
+"97","Snakezy",5,00:07:41.452,461452,"Ice Bucket Challenge",NA,14
+"98","Snakezy",5,00:07:43.849,463849,"Who is Cutting Onions?",NA,15
+"99","Snakezy",5,00:07:52.424,472424,"Monster Hunter",NA,16
+"100","Snakezy",5,00:07:57.869,477869,"War Pigs",NA,17
+"101","blakwolf_",1,00:08:06.700,486700,"Who is Cutting Onions?",NA,15
+"102","blakwolf_",1,00:08:08.101,488101,"War Pigs",NA,16
+"103","blakwolf_",1,00:08:12.696,492696,"Ice Bucket Challenge",NA,17
+"104","blakwolf_",1,00:08:24.756,504756,"Fishy Business",NA,18
+"105","blakwolf_",1,00:08:31.456,511456,"Ol' Betsy",NA,19
+"106","Erikfzf",2,00:08:34.506,514506,"Ol' Betsy",NA,19
+"107","bigbigmongey",3,00:08:37.317,517317,"Suit Up",NA,18
+"108","blakwolf_",1,00:08:39.456,519456,"Not Today, Thank You",NA,20
+"109","Erikfzf",2,00:08:39.668,519668,"Not Today, Thank You",NA,20
+"110","blakwolf_",1,00:08:39.705,519705,"Take Aim",NA,21
+"111","Erikfzf",2,00:08:39.768,519768,"Take Aim",NA,21
+"112","bigbigmongey",3,00:08:39.960,519960,"Fishy Business",NA,19
+"113","Erikfzf",2,00:09:00.412,540412,"Suit Up",NA,22
+"114","Boosfer",6,00:09:11.088,551088,"Fishy Business",NA,16
+"115","suravil_",4,00:09:15.223,555223,"A Terrible Fortress",NA,20
+"116","Boosfer",6,00:09:16.972,556972,"Ice Bucket Challenge",NA,17
+"117","Erikfzf",2,00:09:23.219,563219,"A Terrible Fortress",NA,23
+"118","suravil_",4,00:09:23.428,563428,"Monster Hunter",NA,21
+"119","suravil_",4,00:09:24.076,564076,"Into Fire",NA,22
+"120","Snakezy",5,00:09:26.747,566747,"Fishy Business",NA,18
+"121","Erikfzf",2,00:09:30.997,570997,"Monster Hunter",NA,24
+"122","Erikfzf",2,00:09:31.810,571810,"Into Fire",NA,25
+"123","Snakezy",5,00:09:35.829,575829,"Not Quite ""Nine"" Lives",NA,19
+"124","Boosfer",6,00:09:37.022,577022,"Who is Cutting Onions?",NA,18
+"125","Boosfer",6,00:09:38.739,578739,"Ol' Betsy",NA,19
+"126","bigbigmongey",3,00:09:40.259,580259,"A Terrible Fortress",NA,20
+"127","Snakezy",5,00:09:42.873,582873,"Ol' Betsy",NA,20
+"128","Snakezy",5,00:09:44.650,584650,"Not Today, Thank You",NA,21
+"129","Snakezy",5,00:09:44.757,584757,"Take Aim",NA,22
+"130","Boosfer",6,00:09:44.771,584771,"Take Aim",NA,20
+"131","Boosfer",6,00:09:44.771,584771,"Not Today, Thank You",NA,21
+"132","bigbigmongey",3,00:09:46.875,586875,"Monster Hunter",NA,21
+"133","bigbigmongey",3,00:09:47.366,587366,"Into Fire",NA,22
+"134","Snakezy",5,00:09:47.995,587995,"Suit Up",NA,23
+"135","Boosfer",6,00:09:49.325,589325,"Suit Up",NA,22
+"136","Erikfzf",2,00:09:52.496,592496,"Not Quite ""Nine"" Lives",NA,26
+"137","Snakezy",5,00:09:53.797,593797,"Isn't It Iron Pick",NA,24
+"138","suravil_",4,00:09:57.378,597378,"Not Quite ""Nine"" Lives",NA,23
+"139","blakwolf_",1,00:10:00.446,600446,"A Terrible Fortress",NA,22
+"140","Boosfer",6,00:10:03.040,603040,"Not Quite ""Nine"" Lives",NA,23
+"141","suravil_",4,00:10:07.130,607130,"Ol' Betsy",NA,24
+"142","suravil_",4,00:10:08.126,608126,"Not Today, Thank You",NA,25
+"143","suravil_",4,00:10:08.154,608154,"Take Aim",NA,26
+"144","bigbigmongey",3,00:10:09.574,609574,"Not Quite ""Nine"" Lives",NA,23
+"145","Erikfzf",2,00:10:17.484,617484,"Local Brewery",NA,27
+"146","blakwolf_",1,00:10:24.114,624114,"Monster Hunter",NA,23
+"147","blakwolf_",1,00:10:24.649,624649,"Into Fire",NA,24
+"148","Snakezy",5,00:10:29.801,629801,"A Terrible Fortress",NA,25
+"149","bigbigmongey",3,00:10:30.585,630585,"Ol' Betsy",NA,24
+"150","Snakezy",5,00:10:34.603,634603,"Into Fire",NA,26
+"151","bigbigmongey",3,00:10:37.813,637813,"Not Today, Thank You",NA,25
+"152","bigbigmongey",3,00:10:38.112,638112,"Take Aim",NA,26
+"153","blakwolf_",1,00:10:40.748,640748,"Local Brewery",NA,25
+"154","blakwolf_",1,00:10:43.062,643062,"Not Quite ""Nine"" Lives",NA,26
+"155","Boosfer",6,00:10:50.373,650373,"A Terrible Fortress",NA,24
+"156","Snakezy",5,00:11:06.175,666175,"Local Brewery",NA,27
+"157","Erikfzf",2,00:11:07.068,667068,NA,"blind_travel",27
+"158","blakwolf_",1,00:11:11.142,671142,"Suit Up",NA,27
+"159","Snakezy",5,00:11:15.510,675510,NA,"blind_travel",27
+"160","Boosfer",6,00:11:17.073,677073,"Into Fire",NA,25
+"161","bigbigmongey",3,00:11:20.960,680960,NA,"blind_travel",26
+"162","Boosfer",6,00:11:22.575,682575,"Local Brewery",NA,26
+"163","Snakezy",5,00:11:23.268,683268,"Sweet Dreams",NA,28
+"164","blakwolf_",1,00:11:24.607,684607,NA,"blind_travel",27
+"165","Erikfzf",2,00:11:25.272,685272,"Sweet Dreams",NA,28
+"166","bigbigmongey",3,00:11:25.414,685414,"A Seedy Place",NA,27
+"167","blakwolf_",1,00:11:26.979,686979,"Sweet Dreams",NA,28
+"168","bigbigmongey",3,00:11:28.417,688417,"Sweet Dreams",NA,28
+"169","Boosfer",6,00:11:33.272,693272,NA,"blind_travel",26
+"170","Boosfer",6,00:11:37.126,697126,"Sweet Dreams",NA,27
+"171","suravil_",4,00:11:53.329,713329,NA,"blind_travel",26
+"172","suravil_",4,00:11:54.551,714551,"Sweet Dreams",NA,27
+"173","suravil_",4,00:12:58.824,778824,"Fishy Business",NA,28
+"174","Boosfer",6,00:12:58.825,778825,NA,"eliminate",27
+"175","bigbigmongey",3,00:13:19.799,799799,"Eye Spy",NA,29
+"176","Erikfzf",2,00:13:26.622,806622,"Eye Spy",NA,29
+"177","Erikfzf",2,00:13:45.140,825140,NA,"death_spawnpoint",29
+"178","suravil_",4,00:13:56.964,836964,"Eye Spy",NA,29
+"179","Snakezy",5,00:14:09.804,849804,NA,"death",28
+"180","blakwolf_",1,00:14:47.135,887135,"Eye Spy",NA,29
+"181","bigbigmongey",3,00:15:14.514,914514,"The End?",NA,30
+"182","suravil_",4,00:15:39.032,939032,"The End?",NA,30
+"183","bigbigmongey",3,00:15:44.511,944511,"Free the End",NA,31
+"184","Erikfzf",2,00:15:44.996,944996,NA,"death_spawnpoint",29
+"185","bigbigmongey",3,00:15:55.006,955006,NA,"dragon_death",31
+"186","bigbigmongey",3,00:16:09.816,969816,"The Next Generation",NA,32
+"187","suravil_",4,00:16:13.552,973552,"Free the End",NA,31
+"188","Erikfzf",2,00:16:19.759,979759,"The End?",NA,30
+"189","suravil_",4,00:16:23.920,983920,NA,"dragon_death",31
+"190","bigbigmongey",3,00:16:26.533,986533,"Remote Getaway",NA,33
+"191","blakwolf_",1,00:16:44.112,1004112,"The End?",NA,30
+"192","Erikfzf",2,00:16:54.043,1014043,"Free the End",NA,31
+"193","bigbigmongey",3,00:16:55.207,1015207,"The City at the End of the Game",NA,34
+"194","suravil_",4,00:16:58.080,1018080,"Remote Getaway",NA,32
+"195","Erikfzf",2,00:17:03.438,1023438,NA,"dragon_death",31
+"196","blakwolf_",1,00:17:09.882,1029882,"You Need a Mint",NA,31
+"197","suravil_",4,00:17:25.726,1045726,"The City at the End of the Game",NA,33
+"198","bigbigmongey",3,00:17:27.658,1047657,"Sky's the Limit",NA,35
+"199","Erikfzf",2,00:17:39.705,1059705,"Remote Getaway",NA,32
+"200","bigbigmongey",3,00:17:56.212,1076212,"Cover Me With Diamonds",NA,36
+"201","suravil_",4,00:18:07.025,1087025,"Sky's the Limit",NA,34
+"202","blakwolf_",1,00:18:20.670,1100670,"Free the End",NA,32
+"203","blakwolf_",1,00:18:20.917,1100917,NA,"dragon_death",32
+"204","suravil_",4,00:18:28.279,1108279,"Great View From Up Here",NA,35
+"205","blakwolf_",1,00:18:38.284,1118284,"The Next Generation",NA,33
+"206","suravil_",4,00:18:40.131,1120131,"Cover Me With Diamonds",NA,36
+"207","blakwolf_",1,00:18:55.914,1135914,"Remote Getaway",NA,34
+"208","Erikfzf",2,00:19:21.055,1161055,"The City at the End of the Game",NA,33
+"209","blakwolf_",1,00:19:28.680,1168680,"The City at the End of the Game",NA,35
+"210","Erikfzf",2,00:19:32.047,1172047,"Sky's the Limit",NA,34
+"211","blakwolf_",1,00:20:00.664,1200664,"Sky's the Limit",NA,36
+"212","Erikfzf",2,00:20:06.550,1206550,"Cover Me With Diamonds",NA,35
+"213","bigbigmongey",3,00:20:12.367,1212367,"Great View From Up Here",NA,37
+"214","blakwolf_",1,00:20:19.928,1219928,"Great View From Up Here",NA,37
+"215","blakwolf_",1,00:20:32.782,1232782,"Cover Me With Diamonds",NA,38
+"216","Erikfzf",2,00:20:43.754,1243754,"Great View From Up Here",NA,36
+"217","suravil_",4,00:21:21.281,1281281,"The Next Generation",NA,37
+"218","Erikfzf",2,00:22:06.116,1326116,"The Next Generation",NA,37
+"219","suravil_",4,00:22:12.679,1332679,"Hired Help",NA,38
+"220","bigbigmongey",3,00:22:33.516,1353516,"Bullseye",NA,38
+"221","Erikfzf",2,00:22:37.268,1357268,"Hired Help",NA,38
+"222","bigbigmongey",3,00:22:53.119,1373119,"Hired Help",NA,39
+"223","suravil_",4,00:22:54.487,1374487,"Voluntary Exile",NA,39
+"224","suravil_",4,00:22:54.514,1374514,"Who's the Pillager Now?",NA,40
+"225","bigbigmongey",3,00:23:20.915,1400915,"Who's the Pillager Now?",NA,40
+"226","bigbigmongey",3,00:23:20.915,1400915,"Voluntary Exile",NA,41
+"227","Erikfzf",2,00:23:22.763,1402763,"Voluntary Exile",NA,39
+"228","Erikfzf",2,00:23:22.874,1402874,"Who's the Pillager Now?",NA,40
+"229","Erikfzf",2,00:23:36.313,1416313,"Bullseye",NA,41
+"230","blakwolf_",1,00:23:41.181,1421181,"Bullseye",NA,39
+"231","suravil_",4,00:23:56.305,1436305,"This Boat Has Legs",NA,41
+"232","Snakezy",5,00:24:00.003,1440003,NA,"eliminate",28
+"233","Erikfzf",2,00:24:28.709,1468709,"Sniper Duel",NA,42
+"234","blakwolf_",1,00:24:44.380,1484380,"Voluntary Exile",NA,40
+"235","blakwolf_",1,00:24:44.627,1484627,"Who's the Pillager Now?",NA,41
+"236","bigbigmongey",3,00:26:28.533,1588533,"Enchanter",NA,42
+"237","blakwolf_",1,00:26:41.550,1601550,"Enchanter",NA,42
+"238","suravil_",4,00:27:47.372,1667372,"Hero of the Village",NA,42
+"239","suravil_",4,00:27:50.775,1670775,"Postmortal",NA,43
+"240","Erikfzf",2,00:28:00.328,1680328,"Return to Sender",NA,43
+"241","suravil_",4,00:28:47.431,1727431,"Bullseye",NA,44
+"242","blakwolf_",1,00:29:22.049,1762049,"This Boat Has Legs",NA,43
+"243","blakwolf_",1,00:29:34.415,1774415,"Return to Sender",NA,44
+"244","blakwolf_",1,00:29:52.896,1792896,"Spooky Scary Skeleton",NA,45
+"245","Erikfzf",2,00:30:04.327,1804327,"Hot Tourist Destinations",NA,44
+"246","blakwolf_",1,00:30:07.444,1807444,"Hot Tourist Destinations",NA,46
+"247","bigbigmongey",3,00:30:21.169,1821169,"Hot Tourist Destinations",NA,43
+"248","bigbigmongey",3,00:30:40.664,1840664,"Return to Sender",NA,44
+"249","bigbigmongey",3,00:30:57.366,1857366,"Spooky Scary Skeleton",NA,45
+"250","blakwolf_",1,00:31:04.828,1864828,"Sniper Duel",NA,47
+"251","Erikfzf",2,00:31:36.600,1896600,"Subspace Bubble",NA,45
+"252","bigbigmongey",3,00:31:39.229,1899229,"This Boat Has Legs",NA,46
+"253","suravil_",4,00:32:32.436,1952436,"Sniper Duel",NA,45
+"254","blakwolf_",1,00:32:40.367,1960367,"Uneasy Alliance",NA,48
+"255","suravil_",4,00:33:12.119,1992119,"Enchanter",NA,46
+"256","Erikfzf",2,00:33:15.654,1995654,"Uneasy Alliance",NA,46
+"257","blakwolf_",1,00:33:30.425,2010425,"Country Lode, Take Me Home",NA,49
+"258","bigbigmongey",3,00:34:17.283,2057283,"Subspace Bubble",NA,47
+"259","blakwolf_",1,00:34:30.421,2070420,"Subspace Bubble",NA,50
+"260","bigbigmongey",3,00:34:36.500,2076500,"Uneasy Alliance",NA,48
+"261","Erikfzf",2,00:34:42.917,2082917,"Enchanter",NA,47
+"262","blakwolf_",1,00:35:04.869,2104869,"Total Beelocation",NA,51
+"263","suravil_",4,00:36:00.004,2160004,NA,"eliminate",46
+"264","bigbigmongey",3,00:36:59.011,2219011,"Sniper Duel",NA,49
+"265","blakwolf_",1,00:38:31.117,2311117,"Hired Help",NA,52
+"266","Erikfzf",2,00:38:56.497,2336497,"Hero of the Village",NA,48
+"267","Erikfzf",2,00:39:03.953,2343953,"Postmortal",NA,49
+"268","blakwolf_",1,00:40:52.846,2452846,"Hero of the Village",NA,53
+"269","blakwolf_",1,00:41:15.918,2475918,"Postmortal",NA,54
+"270","Erikfzf",2,00:42:04.912,2524912,"Arbalistic",NA,50
+"271","Erikfzf",2,00:43:05.411,2585411,"Hidden in the Depths",NA,51
+"272","bigbigmongey",3,00:43:18.180,2598180,"Withering Heights",NA,50
+"273","blakwolf_",1,00:43:51.202,2631202,"Arbalistic",NA,55
+"274","Erikfzf",2,00:43:54.707,2634707,"This Boat Has Legs",NA,52
+"275","blakwolf_",1,00:44:09.103,2649103,"Bee Our Guest",NA,56
+"276","Erikfzf",2,00:44:49.415,2689415,"Spooky Scary Skeleton",NA,53
+"277","bigbigmongey",3,00:45:50.142,2750142,"Bring Home the Beacon",NA,51
+"278","bigbigmongey",3,00:47:00.163,2820163,"Hero of the Village",NA,52
+"279","bigbigmongey",3,00:47:37.125,2857125,"Postmortal",NA,53
+"280","bigbigmongey",3,00:48:05.757,2885757,NA,"eliminate",53
+"281","Erikfzf",2,00:48:05.757,2885757,"Withering Heights",NA,54
+"282","blakwolf_",1,00:48:50.049,2930049,"Sticky Situation",NA,57
+"283","blakwolf_",1,00:52:59.457,3179457,"Hidden in the Depths",NA,58
+"284","Erikfzf",2,00:53:10.072,3190072,"Bring Home the Beacon",NA,55
+"285","Erikfzf",2,00:55:39.643,3339643,"The End... Again...",NA,56
+"286","Erikfzf",2,00:55:52.782,3352782,"You Need a Mint",NA,57
+"287","Erikfzf",2,00:55:55.494,3355494,NA,"death",57
+"288","blakwolf_",1,00:56:24.375,3384375,"Zombie Doctor",NA,59
+"289","blakwolf_",1,00:57:53.273,3473273,"Serious Dedication",NA,60
+"290","Erikfzf",2,01:00:00.006,3600006,NA,"eliminate",57

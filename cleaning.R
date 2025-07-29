@@ -50,7 +50,7 @@ parse_timeline <- function(match, match_id) {
         
         select(match_id, player, time, advancement, ranked_event) |>
         group_by(player) |>
-        mutate(n_advancements = cumsum(!is.na(advancement))) |>
+        mutate(n_advancements = cumsum(!is.na(advancement)  &  !duplicated(advancement))) |>
         ungroup()
 }
 

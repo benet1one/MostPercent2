@@ -2341,8 +2341,8 @@
 "1C3","okrzej1",3,00:03:19.677,"Fishy Business",NA,10,199677
 "1C3","joshteautwins",5,00:03:32.337,"Tactical Fishing",NA,8,212337
 "1C3","danterustv",4,00:03:42.750,"Tactical Fishing",NA,8,222750
-"1C3","AutomattPLUS",6,00:03:42.996,"Stone Age",NA,10,222996
-"1C3","AutomattPLUS",6,00:03:44.400,"Acquire Hardware",NA,11,224400
+"1C3","AutomattPLUS",6,00:03:42.996,"Stone Age",NA,9,222996
+"1C3","AutomattPLUS",6,00:03:44.400,"Acquire Hardware",NA,9,224400
 "1C3","danterustv",4,00:03:49.656,"Fishy Business",NA,9,229656
 "1C3","joshteautwins",5,00:03:54.619,"Hot Stuff",NA,9,234619
 "1C3","danterustv",4,00:03:57.954,"Hot Stuff",NA,10,237954
@@ -2353,14 +2353,14 @@
 "1C3","danterustv",4,00:04:27.065,"We Need to Go Deeper",NA,11,267065
 "1C3","okrzej1",3,00:04:33.077,"Oh Shiny",NA,12,273077
 "1C3","fudge1",2,00:04:34.251,"We Need to Go Deeper",NA,12,274251
-"1C3","AutomattPLUS",6,00:04:41.874,"A Seedy Place",NA,12,281874
+"1C3","AutomattPLUS",6,00:04:41.874,"A Seedy Place",NA,9,281874
 "1C3","Feinberg",1,00:04:44.748,"Oh Shiny",NA,12,284748
-"1C3","AutomattPLUS",6,00:04:48.388,"Getting an Upgrade",NA,13,288388
-"1C3","AutomattPLUS",6,00:04:55.139,"Isn't It Iron Pick",NA,14,295139
-"1C3","AutomattPLUS",6,00:04:56.905,"What a Deal!",NA,15,296905
+"1C3","AutomattPLUS",6,00:04:48.388,"Getting an Upgrade",NA,9,288388
+"1C3","AutomattPLUS",6,00:04:55.139,"Isn't It Iron Pick",NA,9,295139
+"1C3","AutomattPLUS",6,00:04:56.905,"What a Deal!",NA,9,296905
 "1C3","danterustv",4,00:04:57.084,"Oh Shiny",NA,12,297084
-"1C3","AutomattPLUS",6,00:04:57.726,"Tactical Fishing",NA,16,297726
-"1C3","AutomattPLUS",6,00:05:11.740,"The Parrots and the Bats",NA,17,311740
+"1C3","AutomattPLUS",6,00:04:57.726,"Tactical Fishing",NA,9,297726
+"1C3","AutomattPLUS",6,00:05:11.740,"The Parrots and the Bats",NA,10,311740
 "1C3","joshteautwins",5,00:05:12.271,"Those Were the Days",NA,11,312271
 "1C3","danterustv",4,00:05:26.666,"Those Were the Days",NA,13,326666
 "1C3","Feinberg",1,00:05:38.249,"Who is Cutting Onions?",NA,13,338249
@@ -2369,13 +2369,13 @@
 "1C3","okrzej1",3,00:05:48.579,"Who is Cutting Onions?",NA,13,348579
 "1C3","okrzej1",3,00:05:48.607,"Ice Bucket Challenge",NA,14,348607
 "1C3","Feinberg",1,00:05:49.172,"War Pigs",NA,15,349172
-"1C3","AutomattPLUS",6,00:05:51.140,"Hot Stuff",NA,18,351140
+"1C3","AutomattPLUS",6,00:05:51.140,"Hot Stuff",NA,10,351140
 "1C3","Feinberg",1,00:05:51.823,"Ice Bucket Challenge",NA,16,351823
 "1C3","okrzej1",3,00:05:52.079,"War Pigs",NA,15,352079
 "1C3","fudge1",2,00:05:55.380,"Those Were the Days",NA,13,355380
 "1C3","okrzej1",3,00:06:04.428,"Monster Hunter",NA,16,364428
-"1C3","AutomattPLUS",6,00:06:10.106,"We Need to Go Deeper",NA,19,370106
-"1C3","AutomattPLUS",6,00:06:26.145,"Oh Shiny",NA,20,386145
+"1C3","AutomattPLUS",6,00:06:10.106,"We Need to Go Deeper",NA,10,370106
+"1C3","AutomattPLUS",6,00:06:26.145,"Oh Shiny",NA,11,386145
 "1C3","joshteautwins",5,00:06:26.621,"Ice Bucket Challenge",NA,13,386621
 "1C3","fudge1",2,00:06:39.026,"Oh Shiny",NA,14,399026
 "1C3","danterustv",4,00:06:46.672,"Ice Bucket Challenge",NA,14,406672
@@ -2385,7 +2385,7 @@
 "1C3","joshteautwins",5,00:07:03.954,"War Pigs",NA,15,423954
 "1C3","okrzej1",3,00:07:14.077,"Cover Me With Diamonds",NA,17,434077
 "1C3","joshteautwins",5,00:07:16.100,"Fishy Business",NA,16,436100
-"1C3","AutomattPLUS",6,00:07:25.897,"Those Were the Days",NA,21,445897
+"1C3","AutomattPLUS",6,00:07:25.897,"Those Were the Days",NA,12,445897
 "1C3","fudge1",2,00:07:43.086,"Ice Bucket Challenge",NA,15,463086
 "1C3","fudge1",2,00:07:43.100,"Suit Up",NA,16,463100
 "1C3","danterustv",4,00:07:48.196,"Not Quite ""Nine"" Lives",NA,17,468196
@@ -2405,17 +2405,17 @@
 "1C3","danterustv",4,00:08:52.654,"A Terrible Fortress",NA,18,532654
 "1C3","fudge1",2,00:08:53.278,"Not Today, Thank You",NA,20,533278
 "1C3","fudge1",2,00:08:53.291,"Take Aim",NA,21,533291
-"1C3","AutomattPLUS",6,00:08:55.133,"War Pigs",NA,22,535133
+"1C3","AutomattPLUS",6,00:08:55.133,"War Pigs",NA,13,535133
 "1C3","danterustv",4,00:08:57.760,"Monster Hunter",NA,19,537760
-"1C3","AutomattPLUS",6,00:08:58.573,"Who is Cutting Onions?",NA,23,538573
-"1C3","AutomattPLUS",6,00:08:58.574,"Ice Bucket Challenge",NA,24,538574
+"1C3","AutomattPLUS",6,00:08:58.573,"Who is Cutting Onions?",NA,14,538573
+"1C3","AutomattPLUS",6,00:08:58.574,"Ice Bucket Challenge",NA,15,538574
 "1C3","danterustv",4,00:09:02.808,"Into Fire",NA,20,542808
-"1C3","AutomattPLUS",6,00:09:05.583,"Monster Hunter",NA,25,545583
+"1C3","AutomattPLUS",6,00:09:05.583,"Monster Hunter",NA,16,545583
 "1C3","joshteautwins",5,00:09:06.531,"Local Brewery",NA,20,546531
 "1C3","okrzej1",3,00:09:06.534,"Ol' Betsy",NA,23,546534
 "1C3","Feinberg",1,00:09:23.004,"Local Brewery",NA,19,563004
 "1C3","okrzej1",3,00:09:34.490,"Not Quite ""Nine"" Lives",NA,24,574490
-"1C3","AutomattPLUS",6,00:09:34.677,"Fishy Business",NA,26,574677
+"1C3","AutomattPLUS",6,00:09:34.677,"Fishy Business",NA,17,574677
 "1C3","joshteautwins",5,00:09:35.401,"Not Quite ""Nine"" Lives",NA,21,575401
 "1C3","fudge1",2,00:09:43.130,"Monster Hunter",NA,22,583130
 "1C3","fudge1",2,00:09:43.154,"Return to Sender",NA,23,583154
@@ -2430,7 +2430,7 @@
 "1C3","okrzej1",3,00:10:11.220,NA,"blind_travel",24,611220
 "1C3","danterustv",4,00:10:11.753,"Suit Up",NA,24,611753
 "1C3","fudge1",2,00:10:12.380,"A Terrible Fortress",NA,24,612380
-"1C3","AutomattPLUS",6,00:10:17.304,"Cover Me With Diamonds",NA,27,617304
+"1C3","AutomattPLUS",6,00:10:17.304,"Cover Me With Diamonds",NA,18,617304
 "1C3","fudge1",2,00:10:28.328,"Into Fire",NA,25,628328
 "1C3","okrzej1",3,00:10:31.768,"A Seedy Place",NA,25,631768
 "1C3","okrzej1",3,00:10:36.269,"Sweet Dreams",NA,26,636269
@@ -2440,14 +2440,14 @@
 "1C3","Feinberg",1,00:10:47.917,"Sweet Dreams",NA,22,647917
 "1C3","fudge1",2,00:10:49.149,"Not Quite ""Nine"" Lives",NA,27,649149
 "1C3","joshteautwins",5,00:10:53.387,NA,"blind_travel",24,653387
-"1C3","AutomattPLUS",6,00:10:53.603,"Ol' Betsy",NA,28,653603
+"1C3","AutomattPLUS",6,00:10:53.603,"Ol' Betsy",NA,19,653603
 "1C3","Feinberg",1,00:10:54.197,"Not Today, Thank You",NA,23,654197
 "1C3","Feinberg",1,00:10:54.296,"Take Aim",NA,24,654296
 "1C3","Feinberg",1,00:10:57.121,"Ol' Betsy",NA,25,657121
 "1C3","danterustv",4,00:10:57.750,"Ol' Betsy",NA,25,657750
-"1C3","AutomattPLUS",6,00:10:58.851,"Not Today, Thank You",NA,29,658851
-"1C3","AutomattPLUS",6,00:10:58.891,"Take Aim",NA,30,658891
-"1C3","AutomattPLUS",6,00:11:08.450,"Not Quite ""Nine"" Lives",NA,31,668450
+"1C3","AutomattPLUS",6,00:10:58.851,"Not Today, Thank You",NA,20,658851
+"1C3","AutomattPLUS",6,00:10:58.891,"Take Aim",NA,21,658891
+"1C3","AutomattPLUS",6,00:11:08.450,"Not Quite ""Nine"" Lives",NA,22,668450
 "1C3","joshteautwins",5,00:11:10.061,"Sweet Dreams",NA,25,670061
 "1C3","danterustv",4,00:11:24.727,NA,"blind_travel",25,684727
 "1C3","fudge1",2,00:11:35.581,NA,"blind_travel",27,695581
@@ -2455,9 +2455,9 @@
 "1C3","joshteautwins",5,00:11:45.719,"Suit Up",NA,26,705719
 "1C3","Feinberg",1,00:11:46.647,"Eye Spy",NA,26,706647
 "1C3","danterustv",4,00:11:50.754,"Sweet Dreams",NA,26,710754
-"1C3","AutomattPLUS",6,00:11:50.796,"A Terrible Fortress",NA,32,710796
-"1C3","AutomattPLUS",6,00:11:54.802,"Into Fire",NA,33,714802
-"1C3","AutomattPLUS",6,00:12:00.002,NA,"eliminate",33,720002
+"1C3","AutomattPLUS",6,00:11:50.796,"A Terrible Fortress",NA,23,710796
+"1C3","AutomattPLUS",6,00:11:54.802,"Into Fire",NA,24,714802
+"1C3","AutomattPLUS",6,00:12:00.002,NA,"eliminate",24,720002
 "1C3","okrzej1",3,00:12:02.881,"Eye Spy",NA,28,722881
 "1C3","joshteautwins",5,00:12:57.280,"Eye Spy",NA,27,777280
 "1C3","danterustv",4,00:13:34.773,"Eye Spy",NA,27,814773
@@ -2893,72 +2893,72 @@
 "1D2","retropog",4,00:00:27.070,"Stone Age",NA,2,27070
 "1D2","SuperC__",1,00:00:27.715,"Stone Age",NA,3,27715
 "1D2","retropog",4,00:00:28.862,"Diamonds!",NA,3,28862
-"1D2","hasbi123412",6,00:00:31.765,"Acquire Hardware",NA,1,31765
-"1D2","hasbi123412",6,00:00:32.817,"Diamonds!",NA,2,32817
-"1D2","hasbi123412",6,00:00:33.464,"Stone Age",NA,3,33464
-"1D2","waluyoshi",5,00:00:35.480,"Acquire Hardware",NA,1,35480
-"1D2","waluyoshi",5,00:00:35.481,"Diamonds!",NA,2,35481
-"1D2","waluyoshi",5,00:00:35.481,"Stone Age",NA,3,35481
+"1D2","hasbi123412",5,00:00:31.765,"Acquire Hardware",NA,1,31765
+"1D2","hasbi123412",5,00:00:32.817,"Diamonds!",NA,2,32817
+"1D2","hasbi123412",5,00:00:33.464,"Stone Age",NA,3,33464
+"1D2","waluyoshi",6,00:00:35.480,"Acquire Hardware",NA,1,35480
+"1D2","waluyoshi",6,00:00:35.481,"Diamonds!",NA,2,35481
+"1D2","waluyoshi",6,00:00:35.481,"Stone Age",NA,3,35481
 "1D2","silverrruns",3,00:01:11.292,"What a Deal!",NA,4,71292
 "1D2","silverrruns",3,00:01:16.558,"Isn't It Iron Pick",NA,5,76558
-"1D2","waluyoshi",5,00:01:19.451,"What a Deal!",NA,4,79451
+"1D2","waluyoshi",6,00:01:19.451,"What a Deal!",NA,4,79451
 "1D2","chrisXD",2,00:01:25.702,"Best Friends Forever",NA,4,85702
-"1D2","hasbi123412",6,00:01:27.411,"Isn't It Iron Pick",NA,4,87411
+"1D2","hasbi123412",5,00:01:27.411,"Isn't It Iron Pick",NA,4,87411
 "1D2","retropog",4,00:01:28.748,"Best Friends Forever",NA,4,88748
 "1D2","chrisXD",2,00:01:30.493,"The Parrots and the Bats",NA,5,90493
-"1D2","waluyoshi",5,00:01:30.687,"Isn't It Iron Pick",NA,5,90687
+"1D2","waluyoshi",6,00:01:30.687,"Isn't It Iron Pick",NA,5,90687
 "1D2","retropog",4,00:01:35.526,"The Parrots and the Bats",NA,5,95526
 "1D2","chrisXD",2,00:01:36.795,"Isn't It Iron Pick",NA,6,96795
 "1D2","retropog",4,00:01:37.858,"What a Deal!",NA,6,97858
 "1D2","SuperC__",1,00:01:41.748,"Isn't It Iron Pick",NA,4,101748
-"1D2","hasbi123412",6,00:01:43.414,"Getting an Upgrade",NA,5,103414
+"1D2","hasbi123412",5,00:01:43.414,"Getting an Upgrade",NA,5,103414
 "1D2","retropog",4,00:01:45.357,"Isn't It Iron Pick",NA,7,105357
 "1D2","SuperC__",1,00:01:45.894,"Getting an Upgrade",NA,5,105894
-"1D2","waluyoshi",5,00:01:48.250,"A Seedy Place",NA,6,108250
+"1D2","waluyoshi",6,00:01:48.250,"A Seedy Place",NA,6,108250
 "1D2","retropog",4,00:01:52.934,"Getting an Upgrade",NA,8,112934
 "1D2","SuperC__",1,00:02:07.686,"A Seedy Place",NA,6,127686
-"1D2","hasbi123412",6,00:02:09.953,"What a Deal!",NA,6,129953
+"1D2","hasbi123412",5,00:02:09.953,"What a Deal!",NA,6,129953
 "1D2","silverrruns",3,00:02:10.345,"Tactical Fishing",NA,6,130345
-"1D2","waluyoshi",5,00:02:12.562,"Best Friends Forever",NA,7,132562
+"1D2","waluyoshi",6,00:02:12.562,"Best Friends Forever",NA,7,132562
 "1D2","chrisXD",2,00:02:13.989,"A Seedy Place",NA,7,133989
-"1D2","hasbi123412",6,00:02:16.843,"Tactical Fishing",NA,7,136843
-"1D2","waluyoshi",5,00:02:17.110,"The Parrots and the Bats",NA,8,137110
+"1D2","hasbi123412",5,00:02:16.843,"Tactical Fishing",NA,7,136843
+"1D2","waluyoshi",6,00:02:17.110,"The Parrots and the Bats",NA,8,137110
 "1D2","silverrruns",3,00:02:22.657,"Getting an Upgrade",NA,7,142657
 "1D2","chrisXD",2,00:02:25.648,"Getting an Upgrade",NA,8,145648
 "1D2","silverrruns",3,00:02:26.695,"Fishy Business",NA,8,146695
 "1D2","retropog",4,00:02:29.199,"Tactical Fishing",NA,9,149199
 "1D2","SuperC__",1,00:02:30.593,"The Parrots and the Bats",NA,7,150593
-"1D2","waluyoshi",5,00:02:32.959,"Getting an Upgrade",NA,9,152959
+"1D2","waluyoshi",6,00:02:32.959,"Getting an Upgrade",NA,9,152959
 "1D2","retropog",4,00:02:35.406,"Fishy Business",NA,10,155406
 "1D2","chrisXD",2,00:02:39.362,"What a Deal!",NA,9,159362
-"1D2","waluyoshi",5,00:02:52.103,"Tactical Fishing",NA,10,172103
+"1D2","waluyoshi",6,00:02:52.103,"Tactical Fishing",NA,10,172103
 "1D2","SuperC__",1,00:02:52.271,"What a Deal!",NA,8,172271
 "1D2","silverrruns",3,00:02:53.441,"The Parrots and the Bats",NA,9,173441
 "1D2","SuperC__",1,00:02:53.635,"Tactical Fishing",NA,9,173635
-"1D2","hasbi123412",6,00:02:56.511,"Best Friends Forever",NA,8,176511
+"1D2","hasbi123412",5,00:02:56.511,"Best Friends Forever",NA,8,176511
 "1D2","SuperC__",1,00:02:59.886,"Fishy Business",NA,10,179886
-"1D2","waluyoshi",5,00:03:05.755,"Fishy Business",NA,11,185755
+"1D2","waluyoshi",6,00:03:05.755,"Fishy Business",NA,11,185755
 "1D2","SuperC__",1,00:03:10.436,"Best Friends Forever",NA,11,190436
 "1D2","silverrruns",3,00:03:15.856,"Best Friends Forever",NA,10,195856
 "1D2","retropog",4,00:03:16.191,"Hot Stuff",NA,11,196191
-"1D2","waluyoshi",5,00:03:18.609,"Hot Stuff",NA,12,198609
-"1D2","waluyoshi",5,00:03:29.205,"We Need to Go Deeper",NA,13,209205
+"1D2","waluyoshi",6,00:03:18.609,"Hot Stuff",NA,12,198609
+"1D2","waluyoshi",6,00:03:29.205,"We Need to Go Deeper",NA,13,209205
 "1D2","chrisXD",2,00:03:32.543,"Hot Stuff",NA,10,212543
 "1D2","retropog",4,00:03:42.286,"We Need to Go Deeper",NA,12,222286
 "1D2","chrisXD",2,00:03:48.911,"We Need to Go Deeper",NA,11,228911
-"1D2","hasbi123412",6,00:03:51.762,"Hot Stuff",NA,9,231762
-"1D2","waluyoshi",5,00:04:00.435,NA,"reset",13,240435
-"1D2","hasbi123412",6,00:04:02.814,"We Need to Go Deeper",NA,10,242814
+"1D2","hasbi123412",5,00:03:51.762,"Hot Stuff",NA,9,231762
+"1D2","waluyoshi",6,00:04:00.435,NA,"reset",13,240435
+"1D2","hasbi123412",5,00:04:02.814,"We Need to Go Deeper",NA,10,242814
 "1D2","SuperC__",1,00:04:05.649,"Hot Stuff",NA,12,245649
 "1D2","silverrruns",3,00:04:08.043,"Hot Stuff",NA,11,248043
 "1D2","SuperC__",1,00:04:17.327,"We Need to Go Deeper",NA,13,257327
 "1D2","silverrruns",3,00:04:19.259,"We Need to Go Deeper",NA,12,259259
 "1D2","retropog",4,00:04:21.313,"Monster Hunter",NA,13,261313
-"1D2","waluyoshi",5,00:04:31.496,"Diamonds!",NA,14,271496
-"1D2","waluyoshi",5,00:04:31.571,"Acquire Hardware",NA,15,271571
-"1D2","waluyoshi",5,00:04:32.095,"Stone Age",NA,16,272095
-"1D2","hasbi123412",6,00:04:48.585,"Monster Hunter",NA,11,288585
-"1D2","hasbi123412",6,00:05:00.968,"Return to Sender",NA,12,300968
+"1D2","waluyoshi",6,00:04:31.496,"Diamonds!",NA,13,271496
+"1D2","waluyoshi",6,00:04:31.571,"Acquire Hardware",NA,13,271571
+"1D2","waluyoshi",6,00:04:32.095,"Stone Age",NA,13,272095
+"1D2","hasbi123412",5,00:04:48.585,"Monster Hunter",NA,11,288585
+"1D2","hasbi123412",5,00:05:00.968,"Return to Sender",NA,12,300968
 "1D2","retropog",4,00:05:05.573,"Those Were the Days",NA,14,305573
 "1D2","SuperC__",1,00:05:05.641,"Monster Hunter",NA,14,305641
 "1D2","SuperC__",1,00:05:05.877,"Return to Sender",NA,15,305877
@@ -2969,101 +2969,101 @@
 "1D2","retropog",4,00:05:16.988,"Ice Bucket Challenge",NA,16,316988
 "1D2","chrisXD",2,00:05:17.504,"Oh Shiny",NA,15,317504
 "1D2","retropog",4,00:05:17.757,"Oh Shiny",NA,17,317757
-"1D2","waluyoshi",5,00:05:25.392,"Best Friends Forever",NA,17,325392
-"1D2","waluyoshi",5,00:05:34.089,"The Parrots and the Bats",NA,18,334089
+"1D2","waluyoshi",6,00:05:25.392,"Best Friends Forever",NA,13,325392
+"1D2","waluyoshi",6,00:05:34.089,"The Parrots and the Bats",NA,13,334089
 "1D2","silverrruns",3,00:05:39.457,"Those Were the Days",NA,13,339457
-"1D2","waluyoshi",5,00:05:44.340,"Isn't It Iron Pick",NA,19,344340
+"1D2","waluyoshi",6,00:05:44.340,"Isn't It Iron Pick",NA,13,344340
 "1D2","silverrruns",3,00:05:44.697,"War Pigs",NA,14,344697
 "1D2","SuperC__",1,00:05:49.436,"Those Were the Days",NA,16,349436
-"1D2","waluyoshi",5,00:05:52.253,"What a Deal!",NA,20,352253
-"1D2","hasbi123412",6,00:05:52.892,"Those Were the Days",NA,13,352892
+"1D2","waluyoshi",6,00:05:52.253,"What a Deal!",NA,13,352253
+"1D2","hasbi123412",5,00:05:52.892,"Those Were the Days",NA,13,352892
 "1D2","SuperC__",1,00:05:54.101,"War Pigs",NA,17,354101
-"1D2","hasbi123412",6,00:05:56.482,"War Pigs",NA,14,356482
+"1D2","hasbi123412",5,00:05:56.482,"War Pigs",NA,14,356482
 "1D2","SuperC__",1,00:05:56.785,"Ice Bucket Challenge",NA,18,356785
-"1D2","hasbi123412",6,00:05:58.538,"Ice Bucket Challenge",NA,15,358538
-"1D2","waluyoshi",5,00:05:59.144,"Getting an Upgrade",NA,21,359144
+"1D2","hasbi123412",5,00:05:58.538,"Ice Bucket Challenge",NA,15,358538
+"1D2","waluyoshi",6,00:05:59.144,"Getting an Upgrade",NA,13,359144
 "1D2","SuperC__",1,00:05:59.739,"Oh Shiny",NA,19,359739
 "1D2","silverrruns",3,00:06:00.508,"Ice Bucket Challenge",NA,15,360508
 "1D2","silverrruns",3,00:06:00.654,"Who is Cutting Onions?",NA,16,360654
 "1D2","retropog",4,00:06:16.261,"Who is Cutting Onions?",NA,18,376261
 "1D2","chrisXD",2,00:06:16.546,"Who is Cutting Onions?",NA,16,376546
-"1D2","waluyoshi",5,00:06:18.444,"Tactical Fishing",NA,22,378444
-"1D2","waluyoshi",5,00:06:30.393,"Fishy Business",NA,23,390393
-"1D2","hasbi123412",6,00:06:33.371,"Who is Cutting Onions?",NA,16,393371
+"1D2","waluyoshi",6,00:06:18.444,"Tactical Fishing",NA,13,378444
+"1D2","waluyoshi",6,00:06:30.393,"Fishy Business",NA,13,390393
+"1D2","hasbi123412",5,00:06:33.371,"Who is Cutting Onions?",NA,16,393371
 "1D2","chrisXD",2,00:06:34.301,"Ol' Betsy",NA,17,394301
-"1D2","waluyoshi",5,00:06:39.542,"Hot Stuff",NA,24,399542
+"1D2","waluyoshi",6,00:06:39.542,"Hot Stuff",NA,13,399542
 "1D2","SuperC__",1,00:06:39.588,"Who is Cutting Onions?",NA,20,399588
 "1D2","retropog",4,00:06:40.145,"Ol' Betsy",NA,19,400145
 "1D2","chrisXD",2,00:06:43.506,"Fishy Business",NA,18,403506
 "1D2","retropog",4,00:06:46.310,"Not Today, Thank You",NA,20,406310
 "1D2","retropog",4,00:06:46.593,"Take Aim",NA,21,406593
-"1D2","waluyoshi",5,00:07:02.931,"We Need to Go Deeper",NA,25,422931
+"1D2","waluyoshi",6,00:07:02.931,"We Need to Go Deeper",NA,13,422931
 "1D2","retropog",4,00:07:06.010,"Suit Up",NA,22,426010
 "1D2","retropog",4,00:07:18.817,"Not Quite ""Nine"" Lives",NA,23,438817
 "1D2","SuperC__",1,00:07:27.121,"Not Quite ""Nine"" Lives",NA,21,447121
 "1D2","chrisXD",2,00:07:36.849,"A Terrible Fortress",NA,19,456849
-"1D2","hasbi123412",6,00:07:39.972,"Fishy Business",NA,17,459972
+"1D2","hasbi123412",5,00:07:39.972,"Fishy Business",NA,17,459972
 "1D2","chrisXD",2,00:07:41.908,"Monster Hunter",NA,20,461908
 "1D2","chrisXD",2,00:07:45.196,"Into Fire",NA,21,465196
-"1D2","hasbi123412",6,00:07:50.928,"Suit Up",NA,18,470928
-"1D2","hasbi123412",6,00:08:01.365,"Oh Shiny",NA,19,481365
-"1D2","waluyoshi",5,00:08:25.593,"Those Were the Days",NA,26,505593
+"1D2","hasbi123412",5,00:07:50.928,"Suit Up",NA,18,470928
+"1D2","hasbi123412",5,00:08:01.365,"Oh Shiny",NA,19,481365
+"1D2","waluyoshi",6,00:08:25.593,"Those Were the Days",NA,14,505593
 "1D2","chrisXD",2,00:08:26.156,"Not Quite ""Nine"" Lives",NA,22,506156
 "1D2","chrisXD",2,00:08:28.943,"Suit Up",NA,23,508943
-"1D2","waluyoshi",5,00:08:31.394,"Oh Shiny",NA,27,511394
+"1D2","waluyoshi",6,00:08:31.394,"Oh Shiny",NA,15,511394
 "1D2","silverrruns",3,00:08:32.612,"Return to Sender",NA,17,512611
 "1D2","silverrruns",3,00:08:32.760,"Monster Hunter",NA,18,512760
 "1D2","chrisXD",2,00:08:34.795,"Local Brewery",NA,24,514794
 "1D2","SuperC__",1,00:08:44.641,"A Terrible Fortress",NA,22,524641
 "1D2","chrisXD",2,00:08:48.145,"Take Aim",NA,25,528145
-"1D2","waluyoshi",5,00:08:50.044,"Ice Bucket Challenge",NA,28,530044
+"1D2","waluyoshi",6,00:08:50.044,"Ice Bucket Challenge",NA,16,530044
 "1D2","retropog",4,00:08:50.956,"Return to Sender",NA,24,530956
 "1D2","chrisXD",2,00:08:52.359,"Not Today, Thank You",NA,26,532359
 "1D2","retropog",4,00:08:52.407,NA,"death",24,532407
-"1D2","hasbi123412",6,00:08:55.719,"The Parrots and the Bats",NA,20,535719
-"1D2","hasbi123412",6,00:09:04.825,"A Terrible Fortress",NA,21,544825
+"1D2","hasbi123412",5,00:08:55.719,"The Parrots and the Bats",NA,20,535719
+"1D2","hasbi123412",5,00:09:04.825,"A Terrible Fortress",NA,21,544825
 "1D2","silverrruns",3,00:09:09.509,"A Terrible Fortress",NA,19,549509
-"1D2","waluyoshi",5,00:09:14.748,"Who is Cutting Onions?",NA,29,554748
+"1D2","waluyoshi",6,00:09:14.748,"Who is Cutting Onions?",NA,17,554748
 "1D2","chrisXD",2,00:09:25.966,NA,"blind_travel",26,565966
 "1D2","silverrruns",3,00:09:28.060,"Into Fire",NA,20,568060
 "1D2","SuperC__",1,00:09:37.640,"Into Fire",NA,23,577640
-"1D2","waluyoshi",5,00:09:42.921,"War Pigs",NA,30,582921
+"1D2","waluyoshi",6,00:09:42.921,"War Pigs",NA,18,582921
 "1D2","chrisXD",2,00:09:46.898,"Tactical Fishing",NA,27,586898
 "1D2","silverrruns",3,00:09:53.463,"Not Quite ""Nine"" Lives",NA,21,593463
 "1D2","silverrruns",3,00:09:58.756,"Suit Up",NA,22,598756
-"1D2","waluyoshi",5,00:09:59.460,"Ol' Betsy",NA,31,599460
-"1D2","waluyoshi",5,00:10:00.543,"Take Aim",NA,32,600543
+"1D2","waluyoshi",6,00:09:59.460,"Ol' Betsy",NA,19,599460
+"1D2","waluyoshi",6,00:10:00.543,"Take Aim",NA,20,600543
 "1D2","SuperC__",1,00:10:01.483,"Local Brewery",NA,24,601483
-"1D2","hasbi123412",6,00:10:02.126,"Into Fire",NA,22,602126
+"1D2","hasbi123412",5,00:10:02.126,"Into Fire",NA,22,602126
 "1D2","silverrruns",3,00:10:03.314,"Ol' Betsy",NA,23,603314
 "1D2","silverrruns",3,00:10:07.405,"Not Today, Thank You",NA,24,607405
 "1D2","silverrruns",3,00:10:07.553,"Take Aim",NA,25,607553
 "1D2","SuperC__",1,00:10:13.624,"Ol' Betsy",NA,25,613624
 "1D2","SuperC__",1,00:10:14.294,"Take Aim",NA,26,614294
 "1D2","SuperC__",1,00:10:14.294,"Not Today, Thank You",NA,27,614294
-"1D2","waluyoshi",5,00:10:15.994,"Not Today, Thank You",NA,33,615994
-"1D2","hasbi123412",6,00:10:16.634,"Ol' Betsy",NA,23,616634
-"1D2","waluyoshi",5,00:10:22.587,"Not Quite ""Nine"" Lives",NA,34,622587
-"1D2","hasbi123412",6,00:10:23.514,"Not Today, Thank You",NA,24,623514
-"1D2","hasbi123412",6,00:10:23.515,"Take Aim",NA,25,623515
+"1D2","waluyoshi",6,00:10:15.994,"Not Today, Thank You",NA,21,615994
+"1D2","hasbi123412",5,00:10:16.634,"Ol' Betsy",NA,23,616634
+"1D2","waluyoshi",6,00:10:22.587,"Not Quite ""Nine"" Lives",NA,22,622587
+"1D2","hasbi123412",5,00:10:23.514,"Not Today, Thank You",NA,24,623514
+"1D2","hasbi123412",5,00:10:23.515,"Take Aim",NA,25,623515
 "1D2","chrisXD",2,00:10:26.541,"Eye Spy",NA,28,626541
 "1D2","SuperC__",1,00:10:28.239,"Suit Up",NA,28,628239
 "1D2","chrisXD",2,00:10:33.722,"Sweet Dreams",NA,29,633722
-"1D2","hasbi123412",6,00:10:40.682,NA,"blind_travel",25,640682
+"1D2","hasbi123412",5,00:10:40.682,NA,"blind_travel",25,640682
 "1D2","SuperC__",1,00:10:41.190,NA,"blind_travel",28,641190
 "1D2","silverrruns",3,00:10:47.627,"Local Brewery",NA,26,647627
 "1D2","SuperC__",1,00:11:03.395,"Sweet Dreams",NA,29,663395
 "1D2","silverrruns",3,00:11:06.342,NA,"blind_travel",26,666342
 "1D2","retropog",4,00:11:10.748,"A Terrible Fortress",NA,25,670748
-"1D2","hasbi123412",6,00:11:13.969,"Local Brewery",NA,26,673969
-"1D2","waluyoshi",5,00:11:27.343,"A Terrible Fortress",NA,35,687343
+"1D2","hasbi123412",5,00:11:13.969,"Local Brewery",NA,26,673969
+"1D2","waluyoshi",6,00:11:27.343,"A Terrible Fortress",NA,23,687343
 "1D2","silverrruns",3,00:11:28.741,"Sweet Dreams",NA,27,688741
 "1D2","silverrruns",3,00:11:43.746,"Oh Shiny",NA,28,703746
-"1D2","waluyoshi",5,00:11:47.147,"A Seedy Place",NA,36,707147
+"1D2","waluyoshi",6,00:11:47.147,"A Seedy Place",NA,23,707147
 "1D2","chrisXD",2,00:11:52.950,"The End?",NA,30,712950
-"1D2","hasbi123412",6,00:11:53.096,"Not Quite ""Nine"" Lives",NA,27,713096
-"1D2","waluyoshi",5,00:11:57.148,"Monster Hunter",NA,37,717148
-"1D2","waluyoshi",5,00:12:00.000,NA,"eliminate",37,720000
+"1D2","hasbi123412",5,00:11:53.096,"Not Quite ""Nine"" Lives",NA,27,713096
+"1D2","waluyoshi",6,00:11:57.148,"Monster Hunter",NA,24,717148
+"1D2","waluyoshi",6,00:12:00.000,NA,"eliminate",24,720000
 "1D2","retropog",4,00:12:07.855,"Into Fire",NA,26,727855
 "1D2","SuperC__",1,00:12:10.605,"Eye Spy",NA,30,730605
 "1D2","silverrruns",3,00:12:13.207,"Eye Spy",NA,29,733207
@@ -3074,7 +3074,7 @@
 "1D2","chrisXD",2,00:13:00.883,"Remote Getaway",NA,32,780883
 "1D2","chrisXD",2,00:13:22.899,"The City at the End of the Game",NA,33,802899
 "1D2","silverrruns",3,00:13:30.746,"The End?",NA,30,810746
-"1D2","hasbi123412",6,00:13:48.896,"Eye Spy",NA,28,828896
+"1D2","hasbi123412",5,00:13:48.896,"Eye Spy",NA,28,828896
 "1D2","chrisXD",2,00:13:59.344,"Sky's the Limit",NA,34,839344
 "1D2","SuperC__",1,00:14:03.148,"The End?",NA,31,843148
 "1D2","silverrruns",3,00:14:10.304,"Free the End",NA,31,850304
@@ -3089,30 +3089,30 @@
 "1D2","SuperC__",1,00:15:56.197,"The Next Generation",NA,33,956197
 "1D2","silverrruns",3,00:15:57.557,"Sky's the Limit",NA,34,957557
 "1D2","SuperC__",1,00:16:13.000,"Remote Getaway",NA,34,973000
-"1D2","hasbi123412",6,00:16:16.535,"The End?",NA,29,976535
+"1D2","hasbi123412",5,00:16:16.535,"The End?",NA,29,976535
 "1D2","silverrruns",3,00:16:35.258,"Cover Me With Diamonds",NA,35,995258
 "1D2","SuperC__",1,00:16:46.796,"The City at the End of the Game",NA,35,1006796
 "1D2","retropog",4,00:16:50.282,"The End?",NA,29,1010282
-"1D2","hasbi123412",6,00:16:50.793,"Free the End",NA,30,1010793
-"1D2","hasbi123412",6,00:17:00.467,NA,"dragon_death",30,1020467
+"1D2","hasbi123412",5,00:16:50.793,"Free the End",NA,30,1010793
+"1D2","hasbi123412",5,00:17:00.467,NA,"dragon_death",30,1020467
 "1D2","retropog",4,00:17:18.594,"Free the End",NA,30,1038594
-"1D2","hasbi123412",6,00:17:26.071,"The Next Generation",NA,31,1046070
+"1D2","hasbi123412",5,00:17:26.071,"The Next Generation",NA,31,1046070
 "1D2","retropog",4,00:17:28.990,NA,"dragon_death",30,1048990
 "1D2","SuperC__",1,00:17:44.098,"Sky's the Limit",NA,36,1064098
-"1D2","hasbi123412",6,00:17:45.039,"Remote Getaway",NA,32,1065039
+"1D2","hasbi123412",5,00:17:45.039,"Remote Getaway",NA,32,1065039
 "1D2","retropog",4,00:17:49.418,"Bullseye",NA,31,1069418
 "1D2","retropog",4,00:18:06.037,"Remote Getaway",NA,32,1086037
 "1D2","silverrruns",3,00:18:14.658,"Great View From Up Here",NA,36,1094658
 "1D2","SuperC__",1,00:18:24.851,"Cover Me With Diamonds",NA,37,1104851
 "1D2","chrisXD",2,00:18:39.945,"The Next Generation",NA,37,1119945
 "1D2","retropog",4,00:18:52.169,"The City at the End of the Game",NA,33,1132169
-"1D2","hasbi123412",6,00:19:10.840,"The City at the End of the Game",NA,33,1150840
+"1D2","hasbi123412",5,00:19:10.840,"The City at the End of the Game",NA,33,1150840
 "1D2","SuperC__",1,00:19:54.953,"Great View From Up Here",NA,38,1194953
 "1D2","silverrruns",3,00:20:20.910,"The Next Generation",NA,37,1220910
 "1D2","retropog",4,00:20:37.043,"Great View From Up Here",NA,34,1237043
-"1D2","hasbi123412",6,00:20:42.172,"Sky's the Limit",NA,34,1242172
-"1D2","hasbi123412",6,00:20:57.877,"Great View From Up Here",NA,35,1257877
-"1D2","hasbi123412",6,00:21:27.868,"Cover Me With Diamonds",NA,36,1287868
+"1D2","hasbi123412",5,00:20:42.172,"Sky's the Limit",NA,34,1242172
+"1D2","hasbi123412",5,00:20:57.877,"Great View From Up Here",NA,35,1257877
+"1D2","hasbi123412",5,00:21:27.868,"Cover Me With Diamonds",NA,36,1287868
 "1D2","chrisXD",2,00:22:19.620,"Voluntary Exile",NA,38,1339620
 "1D2","chrisXD",2,00:22:19.658,"Who's the Pillager Now?",NA,39,1339658
 "1D2","silverrruns",3,00:23:02.566,"Bullseye",NA,38,1382566
@@ -3122,7 +3122,7 @@
 "1D2","silverrruns",3,00:23:35.217,"Voluntary Exile",NA,39,1415217
 "1D2","silverrruns",3,00:23:35.342,"Who's the Pillager Now?",NA,40,1415342
 "1D2","SuperC__",1,00:23:50.862,"Who's the Pillager Now?",NA,40,1430862
-"1D2","hasbi123412",6,00:24:12.263,NA,"eliminate",36,1452263
+"1D2","hasbi123412",5,00:24:12.263,NA,"eliminate",36,1452263
 "1D2","retropog",4,00:24:12.263,"The Next Generation",NA,37,1452263
 "1D2","chrisXD",2,00:24:15.171,"Enchanter",NA,40,1455171
 "1D2","retropog",4,00:24:57.371,"Cover Me With Diamonds",NA,38,1497371

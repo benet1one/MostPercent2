@@ -1,5 +1,5 @@
 
-scale_most <- RColorBrewer::brewer.pal(11, "RdBu")[c(2, 3, 4, 9, 10, 11)]
+scale_most <- RColorBrewer::brewer.pal(11, "PuOr")[c(2, 3, 4, 8, 9, 11)]
 windowsFonts(most = "Roboto Mono")
 
 theme_most <- function(...) {

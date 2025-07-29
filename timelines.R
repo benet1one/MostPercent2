@@ -3,22 +3,23 @@ library(dplyr)
 library(ggplot2)
 source("theme.R")
 
+matches <- readRDS("data/matches.RDS")
 timelines <- readRDS("data/timelines.RDS")
 standings <- readRDS("data/standings.RDS")
     
 gtl_plot <- timelines |>
     filter(time <= 12 * 60 * (7 - standing), is.na(ranked_event)) |>
-    mutate(standing = factor(standing)) |>
+    mutate(standing = factor(standing, levels = 6:1)) |>
     ggplot(aes(x = time, y = n_advancements, color = standing)) +
     geom_point(alpha = 0.3, size = 0.8) +
     geom_smooth(alpha = 0) +
     scale_x_time(name = "Time", breaks = 12 * 60 * (1:5), labels = ~format_hms(.x, s = FALSE)) + 
     scale_y_continuous(name = "Advancements", minor_breaks = NULL) +
-    scale_color_brewer(name = "Standing", type = "div", palette = 4) +
+    scale_color_manual(name = "Standing", values = rev(scale_most), breaks = 1:6) +
     theme_most()
 
 plot(gtl_plot)
-
+ggsave("plots/mean_timeline.png", width = 8, height = 6)
 
 timeline_plot <- function(match_id) {
     st <- standings |>
@@ -33,7 +34,7 @@ timeline_plot <- function(match_id) {
         scale_x_time(name = "Time", breaks = 12 * 60 * (1:5), limit = c(0, 3950),
                      labels = ~format_hms(.x, s = FALSE)) + 
         scale_y_continuous(name = "Advancements", minor_breaks = NULL) +
-        scale_color_manual(values = rev(scale_most)) +
+        scale_color_manual(values = scale_most) +
         theme_most()
 }
 
@@ -77,10 +78,11 @@ split_plot <- splitted |>
     ggplot(aes(x = tm, y = factor(standing), fill = advancement, color = advancement)) +
     geom_segment(aes(x = tl, xend = tu), linewidth = 6, alpha = 0.5) +
     geom_text(aes(label = n_advancements), nudge_y = 0.3, family = "most", show.legend = FALSE) +
-    scale_x_time(name = "Time", labels = ~format_hms(.x, s = FALSE)) + 
-    scale_y_discrete(name = "Standing") +
+    scale_x_time(name = "Time (m)", breaks = 60 * 2 * (0:10), 
+                 labels = ~format_hms(.x, h = FALSE, s = FALSE), minor_breaks = NULL) + 
+    scale_y_discrete(name = "Standing", limits = rev) +
     scale_color_manual(name = "Split", values = splits$color[-1]) +
     theme_most()
 
 plot(split_plot)
-
+ggsave("plots/splits.png", width = 8.0, height = 4.2)

@@ -19,7 +19,7 @@ gtl_plot <- timelines |>
     theme_most()
 
 plot(gtl_plot)
-ggsave("plots/mean_timeline.png", width = 8, height = 6)
+ggsave("plots/mean_timeline.png", width = plot_width, height = 6)
 
 timeline_plot <- function(match_id) {
     title <- paste(
@@ -91,4 +91,66 @@ split_plot <- timelines |>
     theme_most()
 
 plot(split_plot)
-ggsave("plots/splits.png", width = 8.0, height = 4.2)
+ggsave("plots/splits.png", width = plot_width, height = 4.2)
+
+    
+# split_plot_2 <- timelines |>
+#     mutate(advancement = factor(advancement, levels = splits$advancement)) |>
+#     filter(!is.na(advancement)) |>
+#     group_by(standing, advancement) |>
+#     summarise(n_advancements = round(median(n_advancements)) - 1,
+#               tl = quantile(time, 0.35),
+#               tu = quantile(time, 0.65), 
+#               tm = (tl + tu) / 2,
+#               n = n(), .groups = "drop_last") |>
+#     filter(n >= 3) |>
+#     reframe(ts = c(0, tl), tm = c(tm, 0), tu = c(tu, hms::hms(22 * 60)), 
+#             split = c("Overworld", as.character(advancement)) |> factor(levels = splits$advancement),
+#             n_advancements = c(n_advancements, NA)) |>
+#     ggplot(aes(x = tm, y = factor(standing), color = split)) +
+#     geom_segment(aes(x = ts, xend = tu), linewidth = 6, alpha = 0.3) +
+#     geom_text(aes(label = n_advancements), nudge_y = 0.3, family = "bold", show.legend = FALSE) +
+#     scale_x_time(name = "Time (m)", breaks = 60 * 2 * (0:20), 
+#                  labels = ~format_hms(.x, h = FALSE, s = FALSE), minor_breaks = NULL) + 
+#     scale_y_discrete(name = "Standing", limits = rev, labels = format_standings) +
+#     scale_color_manual(name = "Split", values = splits$color) +
+#     ggtitle("Early Advancements", "Advancement count during the any% splits") +
+#     theme_most()
+
+
+nether_entry <- timelines |>
+    group_by(match_id, player) |>
+    filter(advancement == "We Need to Go Deeper", !duplicated(advancement)) |>
+    group_by(match_id) |>
+    arrange(time, .by_group = TRUE) |>
+    mutate(enter_nether_order = 1:n())
+
+with(nether_entry, table(
+    first_eliminated = (standing == 6L), 
+    entered_first_three = (enter_nether_order <= 3L)
+))
+
+
+split_scatter_df <- timelines |>
+    mutate(advancement = factor(advancement, levels = splits$advancement[c(2, 3, 4, 6)])) |>
+    filter(!is.na(advancement))
+
+split_scatter_fits <- split_scatter_df |> 
+    group_by(advancement) |>
+    reframe(beta = coef(lm(n_advancements ~ time))) |>
+    group_by(advancement) |>
+    reframe(intercept = beta[1], slope = beta[2])
+
+split_scatter <- split_scatter_df |>
+    ggplot(aes(x = time, y = n_advancements, color = factor(standing))) +
+    facet_wrap(~advancement, scales = "free", ncol = 2) +
+    geom_point(size = 4, alpha = 0.5) +
+    geom_abline(data = split_scatter_fits, aes(intercept = intercept, slope = slope), 
+                linewidth = 1.05, alpha = 0.3, color = scale_most[1]) + 
+    scale_x_time(name = "Time (m)", labels = ~format_hms(.x, h = FALSE, s = FALSE)) +
+    scale_y_continuous(name = "Advancements", breaks = 0:40 * 2, minor_breaks = NULL) +
+    scale_color_manual(name = "Standing", values = rev(scale_most), labels = format_standings) +
+    theme_most()
+    
+plot(split_scatter)
+ggsave("plots/split_scatter.png", width = plot_width, height = 6.2)

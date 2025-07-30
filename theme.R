@@ -1,4 +1,5 @@
 
+plot_width <- 8.0
 scale_most <- RColorBrewer::brewer.pal(11, "PuOr")[c(2, 3, 4, 8, 9, 11)]
 windowsFonts(
     regular = "Montserrat Medium", 

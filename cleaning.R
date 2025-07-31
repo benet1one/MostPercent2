@@ -60,6 +60,9 @@ get_tiebreaks <- function(timeline) {
         filter(ranked_event == "eliminate") |>
         select(match_id, player, time, n_advancements)
     
+    if (nrow(eliminations) != 5L)
+        return(NULL)
+    
     tb <- eliminations |>
         mutate(scheduled_time = hms::hms(60 * 12 * 1:5)) |>
         filter(round(time, 1) > scheduled_time) |>
@@ -68,7 +71,7 @@ get_tiebreaks <- function(timeline) {
     if (nrow(tb) > 0L)
         group_map(tb, summarise_tiebreak, timeline = timeline)
     else
-        NULL
+        return(NULL)
 }
 
 summarise_tiebreak <- function(x, timeline, ...) {
@@ -98,7 +101,7 @@ include_standing <- function(df, standings) {
 }
 
 # Main Datasets ----------------------------------------------------
-matches <- read.csv("raw-data/MatchIDs_07-27.csv") |>
+matches <- read.csv("raw-data/MatchIDs_07-31.csv") |>
     tibble() |>
     rlang::set_names("match_id", "api_id") |>
     filter(!is.na(api_id)) |>

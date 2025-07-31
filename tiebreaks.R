@@ -13,5 +13,6 @@ tb_advancements <- tiebreaks |>
     filter(!is.na(advancement)) |>
     group_by(scheduled_time, advancement) |>
     count() |>
+    arrange(-n) |>
     print()
 

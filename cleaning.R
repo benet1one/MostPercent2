@@ -130,6 +130,10 @@ matches <- matches |>
 
 timelines <- bind_rows(matches$timeline)
 standings <- bind_rows(matches$standings) |>
+    mutate(matchup = substring(match_id, 1, 2), .before = 1L)
+points <- standings |>
+    group_by(matchup, player) |>
+    summarise(points = sum(points), total_advancements = sum(n_advancements), .groups = "drop")
 tiebreaks <- bind_rows(matches$tiebreaks) |>
     group_by(match_id, scheduled_time) |>
     mutate(duration = hms::as_hms(time - scheduled_time), .after = time)
@@ -138,6 +142,7 @@ tiebreaks <- bind_rows(matches$tiebreaks) |>
 saveRDS(matches, file = "data/matches.RDS")
 saveRDS(timelines, file = "data/timelines.RDS")
 saveRDS(standings, file = "data/standings.RDS")
+saveRDS(points, file = "data/points.RDS")
 saveRDS(tiebreaks, file = "data/tiebreaks.RDS")
 
 matches_csv <- matches |> 
@@ -154,4 +159,5 @@ tiebreaks_csv <- tiebreaks |>
 write.csv(matches_csv, file = "data/matches.csv", row.names = FALSE)
 write.csv(timelines_csv, file = "data/timelines.csv", row.names = FALSE)
 write.csv(standings, file = "data/standings.csv", row.names = FALSE)
+write.csv(points, file = "data/points.csv", row.names = FALSE)
 write.csv(tiebreaks_csv, file = "data/tiebreaks.csv", row.names = FALSE)

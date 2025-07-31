@@ -159,12 +159,13 @@ split_scatter_fits <- split_scatter_df |>
 split_scatter <- split_scatter_df |>
     ggplot(aes(x = time, y = n_advancements, color = factor(standing))) +
     facet_wrap(~advancement, scales = "free", ncol = 2) +
-    geom_point(size = 4, alpha = 0.5) +
+    geom_point(size = 4, alpha = 0.45) +
     geom_abline(data = split_scatter_fits, aes(intercept = intercept, slope = slope), 
                 linewidth = 1.05, alpha = 0.3, color = scale_most[1]) + 
     scale_x_time(name = "Time (m)", labels = ~format_hms(.x, h = FALSE, s = FALSE)) +
     scale_y_continuous(name = "Advancements", breaks = 0:40 * 2, minor_breaks = NULL) +
     scale_color_manual(name = "Standing", values = rev(scale_most), labels = format_standings) +
+    ggtitle("Faster Runners Win (duh)", "Winners reach each split faster, with similar advancement count") +
     theme_most()
     
 plot(split_scatter)

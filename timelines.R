@@ -11,11 +11,14 @@ gtl_plot <- timelines |>
     filter(time <= 12 * 60 * (7 - standing), is.na(ranked_event)) |>
     mutate(standing = factor(standing, levels = 6:1)) |>
     ggplot(aes(x = time, y = n_advancements, color = standing)) +
-    geom_point(alpha = 0.3, size = 0.8) +
-    geom_smooth(alpha = 0) +
-    scale_x_time(name = "Time", breaks = 12 * 60 * (1:5), labels = ~format_hms(.x, s = FALSE)) + 
+    geom_point(alpha = 0.25, size = 0.8) +
+    geom_smooth(alpha = 0, method = "loess", formula = y ~ x, method.args = list(degree = 2)) +
+    scale_x_time(name = "Time", labels = ~format_hms(.x, s = FALSE),
+                 breaks = 12 * 60 * (1:5), minor_breaks = NULL) + 
     scale_y_continuous(name = "Advancements", minor_breaks = NULL) +
-    scale_color_manual(name = "Standing", values = rev(scale_most), breaks = 1:6, labels = format_standings) +
+    scale_color_manual(name = "Standing", values = rev(scale_most),
+                       breaks = 1:6, labels = format_standings) +
+    ggtitle("The Timeline", "Smoothed progression curve") +
     theme_most()
 
 plot(gtl_plot)
@@ -32,17 +35,29 @@ timeline_plot <- function(match_id) {
     timelines |>
         filter(match_id == !!match_id) |>
         mutate(player = factor(player, levels = st$player)) |>
+        group_by(player, standing) |>
+        group_modify(function(x, g) {
+            if (g$standing != 1  ||  last(x$time) > 3600) 
+                return(x)
+            add_row(x, time = hms::hms(3600), n_advancements = last(x$n_advancements))
+        }) |>
         ggplot(aes(x = time, y = n_advancements, color = player)) +
         geom_step(show.legend = FALSE) +
-        geom_text(data = st, aes(label = player), show.legend = FALSE,
-                  hjust = 0, nudge_x = 20, family = "bold") +
-        scale_x_time(name = "Time", breaks = 12 * 60 * (1:5), limit = c(0, 3950),
-                     labels = ~format_hms(.x, s = FALSE)) + 
+        ggrepel::geom_text_repel(
+            data = st, aes(label = player), show.legend = FALSE,
+            hjust = 0, nudge_x = 20, nudge_y = -0.1, family = "bold",
+            direction = "y", force = 1e-4, seed = 1
+        ) +
+        scale_x_time(name = "Time", labels = ~format_hms(.x, s = FALSE),
+                     breaks = 12 * 60 * 1:5, minor_breaks = NULL,
+                     limit = c(0, max(timelines$time) + 400)) + 
         scale_y_continuous(name = "Advancements", minor_breaks = NULL) +
         scale_color_manual(values = scale_most) +
         ggtitle(title) +
         theme_most()
 }
+
+timeline_plot("1F1")
 
 # all_timelines <- purrr::map(matches$match_id, timeline_plot) |>
 #     cowplot::plot_grid(plotlist = _, ncol = 3)

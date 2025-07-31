@@ -44,8 +44,8 @@ timeline_plot <- function(match_id) {
         theme_most()
 }
 
-all_timelines <- purrr::map(matches$match_id, timeline_plot) |>
-    cowplot::plot_grid(plotlist = _, ncol = 3)
+# all_timelines <- purrr::map(matches$match_id, timeline_plot) |>
+#     cowplot::plot_grid(plotlist = _, ncol = 3)
 
 
 splits <- tribble(
@@ -93,7 +93,7 @@ split_plot <- timelines |>
 plot(split_plot)
 ggsave("plots/splits.png", width = plot_width, height = 4.2)
 
-    
+
 # split_plot_2 <- timelines |>
 #     mutate(advancement = factor(advancement, levels = splits$advancement)) |>
 #     filter(!is.na(advancement)) |>

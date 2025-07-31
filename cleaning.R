@@ -130,8 +130,6 @@ matches <- matches |>
 
 timelines <- bind_rows(matches$timeline)
 standings <- bind_rows(matches$standings) |>
-    mutate(matchup = substring(match_id, 1, 2), .before = 1L) |>
-    group_by(matchup)
 tiebreaks <- bind_rows(matches$tiebreaks) |>
     group_by(match_id, scheduled_time) |>
     mutate(duration = hms::as_hms(time - scheduled_time), .after = time)

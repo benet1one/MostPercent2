@@ -20,9 +20,10 @@ fit <- thomas::run_cmdstan(
         a = timelines$n_advancements
     ),
     chains = 3,
-    iter = 2000
+    iter = 4000
 )
 
+saveRDS(fit, "model_fit.RDS")
 thomas::traceplot(fit) |> plot()
 
 draws <- thomas::get_draws(fit)

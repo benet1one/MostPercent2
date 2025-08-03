@@ -13,7 +13,7 @@ gtl_plot <- timelines |>
     ggplot(aes(x = time, y = n_advancements, color = standing)) +
     geom_point(alpha = 0.25, size = 0.8) +
     geom_smooth(alpha = 0, method = "loess", formula = y ~ x, method.args = list(degree = 2)) +
-    scale_x_time(name = "Time", labels = ~format_hms(.x, s = FALSE),
+    scale_x_time(name = "Time", labels = format_hms(s = FALSE),
                  breaks = 12 * 60 * (1:5), minor_breaks = NULL) + 
     scale_y_continuous(name = "Advancements", minor_breaks = NULL) +
     scale_color_manual(name = "Standing", values = rev(scale_most),
@@ -45,10 +45,10 @@ timeline_plot <- function(match_id) {
         geom_step(show.legend = FALSE) +
         ggrepel::geom_text_repel(
             data = st, aes(label = player), show.legend = FALSE,
-            hjust = 0, nudge_x = 20, nudge_y = -0.1, family = "bold",
+            hjust = 0, nudge_x = 20, nudge_y = -0.1, family = "bold", 
             direction = "y", force = 1e-4, seed = 1
         ) +
-        scale_x_time(name = "Time", labels = ~format_hms(.x, s = FALSE),
+        scale_x_time(name = "Time", labels = format_hms(s = FALSE),
                      breaks = 12 * 60 * 1:5, minor_breaks = NULL,
                      limit = c(0, max(timelines$time) + 400)) + 
         scale_y_continuous(name = "Advancements", minor_breaks = NULL) +
@@ -99,7 +99,7 @@ split_plot <- timelines |>
     geom_segment(aes(x = tl, xend = tu), linewidth = 6, alpha = 0.5) +
     geom_text(aes(label = n_advancements), nudge_y = 0.3, family = "bold", show.legend = FALSE) +
     scale_x_time(name = "Time (m)", breaks = 60 * 2 * (0:10), 
-                 labels = ~format_hms(.x, h = FALSE, s = FALSE), minor_breaks = NULL) + 
+                 labels = format_hms(h = FALSE, s = FALSE), minor_breaks = NULL) + 
     scale_y_discrete(name = "Standing", limits = rev) +
     scale_color_manual(name = "Split", values = splits$color[-1]) +
     ggtitle("Early Advancements", "Advancement count before the any% splits") +
@@ -126,7 +126,7 @@ ggsave("plots/splits.png", width = plot_width, height = 4.2)
 #     geom_segment(aes(x = ts, xend = tu), linewidth = 6, alpha = 0.3) +
 #     geom_text(aes(label = n_advancements), nudge_y = 0.3, family = "bold", show.legend = FALSE) +
 #     scale_x_time(name = "Time (m)", breaks = 60 * 2 * (0:20), 
-#                  labels = ~format_hms(.x, h = FALSE, s = FALSE), minor_breaks = NULL) + 
+#                  labels = format_hms(h = FALSE, s = FALSE), minor_breaks = NULL) + 
 #     scale_y_discrete(name = "Standing", limits = rev, labels = format_standings) +
 #     scale_color_manual(name = "Split", values = splits$color) +
 #     ggtitle("Early Advancements", "Advancement count during the any% splits") +
@@ -156,14 +156,17 @@ split_scatter_fits <- split_scatter_df |>
     group_by(advancement) |>
     reframe(intercept = beta[1], slope = beta[2])
 
+line_color <- scale_most[1] |>
+    scales::col_saturate(-20)
+
 split_scatter <- split_scatter_df |>
     ggplot(aes(x = time, y = n_advancements, color = factor(standing))) +
     facet_wrap(~advancement, scales = "free", ncol = 2) +
     geom_point(size = 4, alpha = 0.45) +
     geom_abline(data = split_scatter_fits, aes(intercept = intercept, slope = slope), 
-                linewidth = 1.05, alpha = 0.3, color = scale_most[1]) + 
-    scale_x_time(name = "Time (m)", labels = ~format_hms(.x, h = FALSE, s = FALSE)) +
-    scale_y_continuous(name = "Advancements", breaks = 0:40 * 2, minor_breaks = NULL) +
+                linewidth = 1, alpha = 0.25, color = line_color) + 
+    scale_x_time(name = "Time (m)", labels = format_hms(h = FALSE, s = FALSE)) +
+    scale_y_continuous(name = "", breaks = 0:40 * 2, minor_breaks = NULL) +
     scale_color_manual(name = "Standing", values = rev(scale_most), labels = format_standings) +
     ggtitle("Faster Runners Win (duh)", "Winners reach each split faster, with similar advancement count") +
     theme_most()

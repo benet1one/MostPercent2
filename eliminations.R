@@ -56,7 +56,7 @@ difference_plot <- difference_summary |>
     geom_text(aes(label = format(mean, nsmall = 1, digits = 1)), color = "white", family = "bold") +
     geom_text(aes(label = round(tiebreak_prop*100) |> paste0("%")), 
               hjust = 0, nudge_x = 60 * 4, alpha = 0.6, size = 3, family = "bold") +
-    scale_x_time(name = "", labels = ~format_hms(.x, s = FALSE),
+    scale_x_time(name = "", labels = format_hms(s = FALSE),
                  breaks = 12 * 60 * (1:5), minor_breaks = NULL, limits = 60 * c(10, 65)) +
     scale_y_reverse(name = "Standings", breaks = 1:6, limits = c(6.2, 0.6), labels = format_standings) +
     scale_color_gradient(low = scale_most[2], high = scale_most[5]) +

@@ -32,3 +32,7 @@ format_hms <- function(h = TRUE, s = TRUE) {
 format_standings <- function(x) {
     c("1st", "2nd", "3rd", "4th", "5th", "6th")[as.integer(x)]
 }
+
+format_percentage <- function(x, digits = 2) {
+    round(100*x, digits = digits) |> format(digits = digits, nsmall = digits) |> paste0("%")
+}

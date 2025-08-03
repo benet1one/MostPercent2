@@ -56,10 +56,6 @@ latest_plot <- timelines |>
 plot(latest_plot)
 
 
-timelines |>
-    left_join(advancements, by = "advancement") |>
-    arrange(n)
-
 
 
 adv <- advancements |>

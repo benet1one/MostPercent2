@@ -126,7 +126,7 @@ cluster_colors <- tribble(
     "#904E55", "white",
     "#FFC857", "black",
     "#469B4B", "white",
-    "#73ABA8", "white"
+    "#7AC74F", "white"
 )
 
 

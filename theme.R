@@ -20,7 +20,7 @@ format_hms <- function(h = TRUE, s = TRUE) {
     function(x) .format_hms(x, h = h, s = s)
 }
 
-format_hms <- function(x, h = TRUE, s = TRUE) {
+.format_hms <- function(x, h = TRUE, s = TRUE) {
     x <- hms::as_hms(x) |> format()
     if (!h)
         x <- stringr::str_remove(x, "^\\d{2}\\:")

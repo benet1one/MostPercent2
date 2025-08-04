@@ -11,6 +11,7 @@ theme_most <- function(...) {
     theme_minimal(base_family = "regular") +
         theme(
             plot.title = element_text(family = "black"),
+            axis.title.x = element_text(hjust = 0.5, margin = margin(t = 10)),
             axis.title.y = element_text(angle = 0, vjust = 0.5, margin = margin(r = 16)),
             ...
         )

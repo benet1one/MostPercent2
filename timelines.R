@@ -7,23 +7,6 @@ matches <- readRDS("data/matches.RDS")
 timelines <- readRDS("data/timelines.RDS")
 standings <- readRDS("data/standings.RDS")
 
-gtl_plot <- timelines |>
-    filter(time <= 12 * 60 * (7 - standing), is.na(ranked_event)) |>
-    mutate(standing = factor(standing, levels = 6:1)) |>
-    ggplot(aes(x = time, y = n_advancements, color = standing)) +
-    geom_point(alpha = 0.25, size = 0.8) +
-    geom_smooth(alpha = 0, method = "loess", formula = y ~ x, method.args = list(degree = 2)) +
-    scale_x_time(name = "Time", labels = format_hms(s = FALSE),
-                 breaks = 12 * 60 * (1:5), minor_breaks = NULL) + 
-    scale_y_continuous(name = "Advancements", minor_breaks = NULL) +
-    scale_color_manual(name = "Standing", values = rev(scale_most),
-                       breaks = 1:6, labels = format_standings) +
-    ggtitle("The Timeline", "Smoothed progression curve") +
-    theme_most()
-
-plot(gtl_plot)
-ggsave("plots/mean_timeline.png", width = plot_width, height = 6)
-
 timeline_plot <- function(match_id) {
     title <- paste(
         "Stage", substring(match_id, 1, 1), 

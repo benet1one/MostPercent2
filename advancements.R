@@ -56,6 +56,36 @@ latest_plot <- timelines |>
 plot(latest_plot)
 
 
+# You Need a Mint
+# Enchanter
+# Best Friends Forever
+# This Boat Has Legs
+
+# Hired Help
+# Bullseye
+# Arbalistic
+# Sniper Duel
+
+multimodal_adv <- c(
+    "You Need a Mint",
+    "Enchanter",
+    "Best Friends Forever",
+    "This Boat Has Legs"
+)
+
+multimodal_plot <- timelines |> 
+    filter(advancement %in% multimodal_adv) |>
+    mutate(standing = factor(standing)) |>
+    ggplot(aes(x = time, fill = standing)) +
+    facet_wrap(~advancement, scales = "free_y") +
+    geom_histogram(breaks = seq(0, 3600, 120)) +
+    scale_x_time(name = "Time", labels = format_hms(s = FALSE), breaks = 12 * 60 * 0:5) +
+    scale_y_continuous(name = NULL, labels = NULL) +
+    scale_fill_manual(name = "Standing", values = rev(scale_most), labels = format_standings) +
+    ggtitle() +
+    theme_most(panel.grid.minor = element_blank())
+
+plot(multimodal_plot)
 
 
 adv <- advancements |>

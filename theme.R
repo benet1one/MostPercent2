@@ -35,5 +35,7 @@ format_standings <- function(x) {
 }
 
 format_percentage <- function(x, digits = 2) {
-    round(100*x, digits = digits) |> format(digits = digits, nsmall = digits) |> paste0("%")
+    round(100*x, digits = digits) |> 
+        format(digits = max(digits, 1), nsmall = digits) |> 
+        paste0("%")
 }

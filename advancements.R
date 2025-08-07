@@ -82,7 +82,7 @@ multimodal_plot <- timelines |>
     scale_x_time(name = "Time", labels = format_hms(s = FALSE), breaks = 12 * 60 * 0:5) +
     scale_y_continuous(name = NULL, labels = NULL) +
     scale_fill_manual(name = "Standing", values = rev(scale_most), labels = format_standings) +
-    ggtitle() +
+    ggtitle("Advancements that Define Playstyle", "Non-RNG-Heavy Multi-Modal Advancements") +
     theme_most(panel.grid.minor = element_blank())
 
 plot(multimodal_plot)

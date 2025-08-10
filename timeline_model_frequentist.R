@@ -26,6 +26,7 @@ example_curve_plot <- ggplot(example_curves, aes(x = t, y = y, color = factor(ph
     theme_most()
 
 plot(example_curve_plot)
+save_png(example_curve_plot, "plots/example_curves.png")
 
 
 timeline_model <- timelines |> 
@@ -71,8 +72,11 @@ fit_plot <- ggplot(timeline_model, aes(x = time, y = n_advancements)) +
     ylab("y") +
     theme_most()
 
-cowplot::plot_grid(transformed_plot, fit_plot, align = "h", rel_widths = c(4, 3)) |>
-    plot()
+general_fit_plot <- cowplot::plot_grid(
+    transformed_plot, 
+    fit_plot, align = "h", 
+    rel_widths = c(4, 3)
+)
 
 
 
@@ -110,4 +114,5 @@ gtl_plot <- timelines |>
     theme_most()
 
 plot(gtl_plot)
-# ggsave("plots/mean_timeline.png", width = plot_width, height = 6)
+save_png(gtl_plot, "plots/global_timeline.png")
+

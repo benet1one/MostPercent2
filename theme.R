@@ -1,5 +1,4 @@
 
-plot_width <- 8.0
 scale_most <- RColorBrewer::brewer.pal(11, "PuOr")[c(2, 3, 4, 8, 9, 11)]
 windowsFonts(
     regular = "Montserrat Medium", 
@@ -38,4 +37,12 @@ format_percentage <- function(x, digits = 2) {
     round(100*x, digits = digits) |> 
         format(digits = max(digits, 1), nsmall = digits) |> 
         paste0("%")
+}
+
+save_png <- function(x, filename, width = 9, height = 6, size = 1, quality = 3) {
+    png(filename, 
+        width = width * size, height = height * size, units = "in", 
+        res = 72 * size * quality)
+    plot(x)
+    invisible(dev.off())
 }

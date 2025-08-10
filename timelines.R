@@ -77,7 +77,7 @@ split_plot <- timelines |>
               tu = quantile(time, 0.65), 
               tm = (tl + tu) / 2,
               n = n(), .groups = "drop_last") |>
-    filter(n >= 3) |>
+    filter(n >= 4) |>
     ggplot(aes(x = tm, y = factor(standing), fill = advancement, color = advancement)) +
     geom_segment(aes(x = tl, xend = tu), linewidth = 6, alpha = 0.5) +
     geom_text(aes(label = n_advancements), nudge_y = 0.3, family = "bold", show.legend = FALSE) +
@@ -89,7 +89,7 @@ split_plot <- timelines |>
     theme_most()
 
 plot(split_plot)
-ggsave("plots/splits.png", width = plot_width, height = 4.2)
+save_png(split_plot, "plots/splits.png")
 
 
 # split_plot_2 <- timelines |>
@@ -155,4 +155,4 @@ split_scatter <- split_scatter_df |>
     theme_most()
     
 plot(split_scatter)
-ggsave("plots/split_scatter.png", width = plot_width, height = 6.2)
+save_png(split_scatter, "plots/split_scatter.png")

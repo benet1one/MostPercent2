@@ -54,7 +54,7 @@ latest_plot <- timelines |>
     theme_most()
 
 plot(latest_plot)
-
+save_png(latest_plot, "plots/latest_advancement.png")
 
 # You Need a Mint
 # Enchanter
@@ -86,7 +86,7 @@ multimodal_plot <- timelines |>
     theme_most(panel.grid.minor = element_blank())
 
 plot(multimodal_plot)
-
+save_png(multimodal_plot, "plots/multimodal_plot.png")
 
 adv <- advancements |>
     filter(n >= 12, is_advancement) |>
@@ -166,7 +166,7 @@ advancements |>
     scale_color_manual(values = cluster_colors$background) +
     theme_most()
 
-advancements |> 
+advancement_list <- advancements |> 
     mutate(proportion = format_percentage(prop, 1), median = .format_hms(round(median), h = FALSE)) |>
     rename_with(stringr::str_to_title) |>
     select(Advancement, N, Proportion, Median) |>
@@ -176,6 +176,8 @@ advancements |>
     flextable::font(fontname = "Roboto", j = -1) |>
     flextable::color(color = cluster_colors$foreground[advancements$cluster]) |>
     flextable::bg(bg = cluster_colors$background[advancements$cluster]) |>
-    flextable::align(j = -1, align = "right") |>
+    flextable::align(j = -1, align = "right", part = "all") |>
     flextable::width(width = c(2, 1, 1, 1))
 
+print(advancement_list)
+flextable::save_as_image(advancement_list, "plots/advancement_list.png")

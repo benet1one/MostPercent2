@@ -83,7 +83,7 @@ difference_plot <- difference_summary |>
     )
 
 plot(difference_plot)
-
+save_png(difference_plot, "plots/difference.png")
 
 elimination_summary <- eliminations |>
     group_by(temp_standing, elimination) |>
@@ -119,3 +119,4 @@ elimination_plot <- elimination_summary |>
     )
 
 plot(elimination_plot)
+save_png(elimination_plot, "plots/eliminations.png")

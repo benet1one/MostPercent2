@@ -120,3 +120,10 @@ elimination_plot <- elimination_summary |>
 
 plot(elimination_plot)
 save_png(elimination_plot, "plots/eliminations.png")
+
+
+eliminations_csv <- eliminations |>
+    mutate(time_ms = as.numeric(time) * 1000)
+
+write.csv(eliminations_csv, file = "data/eliminations.csv")
+saveRDS(eliminations, file = "data/eliminations.RDS")

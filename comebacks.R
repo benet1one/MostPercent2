@@ -72,4 +72,4 @@ elim_comeback_plot <- ggplot(elim_comebacks, aes(x = time, y = prob_eliminated, 
     theme(panel.spacing = unit(18, "pt"))
 
 plot(elim_comeback_plot)
-save_png(elim_comeback_plot, "plots/elim_comebacks.png")
+save_png(elim_comeback_plot, "plots/elim_comebacks.png", height = 5)

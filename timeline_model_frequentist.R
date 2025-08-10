@@ -78,10 +78,11 @@ general_fit_plot <- cowplot::plot_grid(
     rel_widths = c(4, 3)
 )
 
+save_png(general_fit_plot, "plots/general_fit.png")
 
 
 
-fit <- glm(y ~ x * standing + 0, weights = w, data = timeline_model)
+fit <- glm(y ~ x * standing + 0, data = timeline_model)
 cf <- coef(fit)
 nm <- names(cf)
 

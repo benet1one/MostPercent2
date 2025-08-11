@@ -23,28 +23,57 @@ breakpoints <- timelines |>
     mutate(temp_standing = 1:n(), .before = standing) |>
     arrange(match_id, time, temp_standing)
 
-comebacks <- breakpoints |>
-    ungroup() |>
-    mutate(delta = abs(standing - temp_standing)) |>
-    mutate(delta = cut(delta, breaks = c(0:3, 6), right = FALSE, labels = c(
-        "No Difference", "±1", "±2", "±3 or More"
-    ))) |>
-    count(time, delta, .drop = FALSE) |>
-    group_by(time) |>
-    mutate(prop = n / sum(n))
+running_weighted_mean <- function(x, w = 0.6) {
+    n <- length(x)
+    y <- numeric(n)
+    v <- 1 - w
+    
+    y[1] <- w * x[1] + v * x[2]
+    y[n] <- w * x[n] + v * x[n-1]
+    
+    for (k in 2:(n - 1)) {
+        y[k] <- w * x[k] + v/2 * x[k-1] + v/2 * x[k+1]
+    }
 
-comeback_plot <- ggplot(comebacks, aes(x = time, y = prop, fill = delta)) +
-    geom_area(stat = "smooth", span = 0.36) +
+    y
+}
+
+smooth_spline <- function(df, group) {
+    df$time <- as.numeric(df$time)
+    sfun <- splinefun(df$time, df$smoothed)
+    tibble(
+        time = seq(min(df$time), max(df$time), by = 10) |> hms::hms(),
+        splined = sfun(time) |> pmax(0)
+    )
+}
+
+winner_comebacks <- breakpoints |>
+    ungroup() |>
+    mutate(temp_standing = factor(temp_standing)) |>
+    filter(standing == 1L) |>
+    count(time, temp_standing, .drop = FALSE) |>
+    group_by(time) |>
+    mutate(prop = n / sum(n)) |>
+    group_by(temp_standing) |>
+    arrange(time) |>
+    mutate(smoothed = running_weighted_mean(prop, w = 0.5)) |>
+    mutate(is_split = as.numeric(time) %% (12*60) == 0) |>
+    within(smoothed[is_split] <- prop[is_split]) |>
+    group_modify(smooth_spline)
+
+winner_comeback_plot <- ggplot(winner_comebacks, aes(x = time, y = splined, fill = temp_standing)) +
+    geom_area(position = "fill") +
     scale_x_time(
         name = "Time", labels = format_hms(s = FALSE),
-        limits = range(comebacks$time), breaks = 12 * 60 * 1:6, 
+        breaks = 12 * 60 * 1:6, minor_breaks = NULL
     ) +
-    scale_y_continuous(name = "Probability", breaks = c(0.0, 0.5, 1.0)) +
-    scale_fill_manual(name = "Difference in Standing", values = rev(scale_most)[c(1, 2, 4, 5)]) +
+    scale_y_continuous(name = "Probability\nof Winning", breaks = 0:2 / 2, minor_breaks = NULL) +
+    scale_fill_manual(name = "Standing\nAt Time", values = rev(scale_most), labels = format_standings) +
+    ggtitle("Can you come back?", "Probability of winning the match by current standing") +
     theme_most()
 
-plot(comeback_plot)
-save_png(comeback_plot, "plots/comebacks.png")
+plot(winner_comeback_plot)
+save_png(winner_comeback_plot, "plots/winner_comebacks.png")
 
 
 eliminations <- readRDS("data/eliminations.RDS") |>
@@ -59,15 +88,19 @@ elim_comebacks <- tibble(elimination = 1:5) |>
     right_join(breakpoints, by = "time", relationship = "many-to-many") |>
     left_join(eliminations, by = c("match_id", "player", "elimination")) |>
     group_by(elimination, time, temp_standing) |>
-    summarise(prob_eliminated = mean(was_eliminated), .groups = "drop")
+    summarise(prob_eliminated = mean(was_eliminated), .groups = "drop") |>
+    group_by(temp_standing, elimination) |>
+    mutate(smoothed = running_weighted_mean(prob_eliminated, w = 0.5)) |>
+    mutate(smoothed = pmax(smoothed, 0, na.rm = TRUE)) |>
+    group_modify(smooth_spline)
     
-elim_comeback_plot <- ggplot(elim_comebacks, aes(x = time, y = prob_eliminated, fill = factor(temp_standing))) +
+elim_comeback_plot <- ggplot(elim_comebacks, aes(x = time, y = splined, fill = factor(temp_standing))) +
     facet_wrap(~elimination, scales = "free_x", nrow = 1) +
-    geom_area() +
+    geom_area(position = "fill") +
     scale_x_continuous(name = "Time (m)", labels = ~./60, breaks = 4*60 * 0:100) +
     scale_y_continuous(name = "Probability of\nBeing Eliminated", breaks = c(0.0, 0.5, 1.0)) +
     scale_fill_manual(name = "Standing At Time", values = rev(scale_most), labels = format_standings) +
-    ggtitle("Probability of Being the Next Eliminated", ) + 
+    ggtitle("Never Give Up", "Probability of being next eliminated") + 
     theme_most() +
     theme(panel.spacing = unit(18, "pt"))
 

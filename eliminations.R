@@ -86,7 +86,7 @@ plot(difference_plot)
 save_png(difference_plot, "plots/difference.png")
 
 elimination_summary <- eliminations |>
-    group_by(temp_standing, elimination) |>
+    group_by(standing, elimination) |>
     summarise(
         time = first(time),
         mean = mean(n_advancements),
@@ -98,7 +98,7 @@ elimination_summary <- eliminations |>
     )
     
 elimination_plot <- elimination_summary |>
-    ggplot(aes(x = time, y = temp_standing)) +
+    ggplot(aes(x = time, y = standing)) +
     annotate("segment", color = line_color, linewidth = 0.5, x = 12 * 60 * 1:5, y = 6:2, yend = 1) +
     geom_point(aes(size = mean, color = mean)) +
     geom_text(aes(label = round(median)), color = "white", family = "bold") +
@@ -106,11 +106,11 @@ elimination_plot <- elimination_summary |>
               hjust = 0, nudge_x = 60 * 4, alpha = 0.6, size = 3, family = "bold") +
     scale_x_time(name = "", labels = format_hms(s = FALSE),
                  breaks = 12 * 60 * (1:5), minor_breaks = NULL, limits = 60 * c(9, 65)) +
-    scale_y_reverse(name = "Standings\nAt Elimination", labels = format_standings,
+    scale_y_reverse(name = "Final Standings", labels = format_standings,
                     breaks = 1:6, limits = c(6.2, 0.6)) +
     scale_color_gradient(low = scale_most[2], high = scale_most[5]) +
     scale_size(range = c(12, 19)) +
-    ggtitle("Median Advancements", "and Percentage of Players who Died") +
+    ggtitle("Median Advancements", "and percentage of players who died") +
     theme_most() +
     theme(
         aspect.ratio = 0.88,

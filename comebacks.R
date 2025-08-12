@@ -91,18 +91,20 @@ elim_comebacks <- tibble(elimination = 1:5) |>
     summarise(prob_eliminated = mean(was_eliminated), .groups = "drop") |>
     group_by(temp_standing, elimination) |>
     mutate(smoothed = running_weighted_mean(prob_eliminated, w = 0.5)) |>
+    mutate(is_split = as.numeric(time) %% (12*60) == 0) |>
+    within(smoothed[is_split] <- prob_eliminated[is_split]) |>
     mutate(smoothed = pmax(smoothed, 0, na.rm = TRUE)) |>
     group_modify(smooth_spline)
     
 elim_comeback_plot <- ggplot(elim_comebacks, aes(x = time, y = splined, fill = factor(temp_standing))) +
     facet_wrap(~elimination, scales = "free_x", nrow = 1) +
     geom_area(position = "fill") +
-    scale_x_continuous(name = "Time (m)", labels = ~./60, breaks = 4*60 * 0:100) +
+    scale_x_continuous(name = "Time (m)", labels = ~./60, breaks = c(2*60, 4*60 * 0:100), minor_breaks = NULL) +
     scale_y_continuous(name = "Probability of\nBeing Eliminated", breaks = c(0.0, 0.5, 1.0)) +
-    scale_fill_manual(name = "Standing At Time", values = rev(scale_most), labels = format_standings) +
+    scale_fill_manual(name = "Standing\nAt Time", values = rev(scale_most), labels = format_standings) +
     ggtitle("Never Give Up", "Probability of being next eliminated") + 
     theme_most() +
-    theme(panel.spacing = unit(18, "pt"))
+    theme(panel.spacing = unit(18, "pt"), strip.text = element_blank())
 
 plot(elim_comeback_plot)
 save_png(elim_comeback_plot, "plots/elim_comebacks.png", height = 5)

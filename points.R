@@ -1,6 +1,7 @@
 
 library(dplyr)
 
+standings <- readRDS("data/standings.RDS")
 points <- readRDS("data/points.RDS") |>
     group_by(matchup) |>
     mutate(
@@ -9,6 +10,9 @@ points <- readRDS("data/points.RDS") |>
         most_advancements = max(total_advancements),
         range_points = range(points) |> diff(),
     )
+
+standings |> arrange(-n_advancements)
+standings |> filter(standing == 6L) |> arrange(-n_advancements)
 
 points |> arrange(-winner_points)
 points |> arrange(+range_points)

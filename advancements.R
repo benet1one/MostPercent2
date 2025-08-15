@@ -188,9 +188,11 @@ multimodal_plot <- timelines |>
 plot(multimodal_plot)
 save_png(multimodal_plot, "plots/multimodal_plot.png")
 
+fake_advancements <- c("Minecraft", "Adventure", "Husbandry", "Nether", "The End")
 adv <- advancements |>
     filter(n >= 12, is_advancement) |>
     _$advancement |>
+    setdiff(fake_advancements) |>
     sort()
 
 advancements_by_match <- timelines |>
@@ -238,7 +240,7 @@ dist <- advancement_grid |>
 clustering <- hclust(dist, method = "ward.D2")
 
 advancements <- advancements |>
-    filter(is_advancement) |>
+    filter(is_advancement, !is.element(advancement, fake_advancements)) |>
     mutate(cluster = cutree(clustering, k = 4)[advancement], .after = median) |>
     within(cluster[is.na(cluster)] <- 5)
 

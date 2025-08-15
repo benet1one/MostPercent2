@@ -7,7 +7,7 @@ timelines <- readRDS("data/timelines.RDS")
 
 example_curves <- expand.grid(
     t = seq(0, 3600, 10),
-    beta = 3,
+    beta = 4,
     phi = c(0.6, 1.0, 1.4)
 ) |>
     mutate(y = 80 - 80 / (beta * (t/3600)^phi + 1))
@@ -22,7 +22,7 @@ example_curve_plot <- ggplot(example_curves, aes(x = t, y = y, color = factor(ph
         name = quote(phi), values = scale_most[c(6, 4, 3)], 
         labels = ~format(as.numeric(.x), nsmall = 1)
     ) +
-    ggtitle("Fit examples", quote("With " * beta == 3)) +
+    ggtitle("Fit examples", rlang::expr("With " * beta == !!example_curves$beta[1])) +
     theme_most()
 
 plot(example_curve_plot)
@@ -34,12 +34,13 @@ timeline_model <- timelines |>
     mutate(
         y = log(80 / (80 - n_advancements) - 1),
         x = log(as.numeric(time) / 3600),
-        w = as.numeric(time) %/% (12 * 60) + 2,
+        wp = as.numeric(time) %/% (12 * 60) + 2,
+        wt = as.numeric(time) + 60,
         player = factor(player),
         standing = factor(standing)
     )
 
-simple_fit <- glm(y ~ x, weights = w, data = timeline_model)
+simple_fit <- glm(y ~ x, weights = wp * wt^2, data = timeline_model)
 simple_phi <- coef(simple_fit)["x"] |> unname()
 simple_beta <- exp(coef(simple_fit)[1]) |> unname()
 
@@ -78,11 +79,11 @@ general_fit_plot <- cowplot::plot_grid(
     rel_widths = c(4, 3)
 )
 
+plot(general_fit_plot)
 save_png(general_fit_plot, "plots/general_fit.png")
 
 
-
-fit <- glm(y ~ x * standing + 0, data = timeline_model)
+fit <- glm(y ~ x * standing + 0, weights = wt^2, data = timeline_model)
 cf <- coef(fit)
 nm <- names(cf)
 

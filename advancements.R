@@ -56,6 +56,84 @@ latest_plot <- timelines |>
 plot(latest_plot)
 save_png(latest_plot, "plots/latest_advancement.png")
 
+
+
+
+common_advancements <- advancements |>
+    filter(prop > 0.6) |>
+    _$advancement
+
+playstyles <- timelines |> 
+    mutate(player = factor(player)) |>
+    filter(advancement %in% common_advancements) |>
+    filter(!is.na(advancement)) |>
+    group_by(match_id, advancement) |>
+    mutate(std_index = n_advancements - median(n_advancements)) |>
+    group_by(advancement, player) |>
+    filter(n() > 3) |>
+    filter(std_index < 2 * diff(quantile(std_index, c(.25, .75)))) |>
+    mutate(player = droplevels(player)) |>
+    group_by(advancement) |>
+    group_modify(function(x, ...) {
+        fit <- summary(lm(std_index ~ player + 0, data = x))
+        t <- fit$coefficients[, "t value"]
+        p <- fit$coefficients[, "Pr(>|t|)"] |> p.adjust(method = "bonferroni")
+        r <- fit$r.squared
+        
+        tibble(
+            fit = list(fit),
+            t_values = list(t),
+            r_squared = r,
+            earliest = names(which.min(t)) |> substring(7),
+            latest = names(which.max(t)) |> substring(7),
+            p_earliest = p[which.min(t)],
+            p_latest = p[which.max(t)]
+        )
+    }) |>
+    arrange(-r_squared)
+
+
+playstyle_plot <- function(ps, ...) {
+    highlighted <- c(ps$earliest, ps$latest)
+    
+    df <- timelines |>
+        filter(advancement == ps$advancement) |>
+        group_by(match_id, advancement) |>
+        mutate(std_index = n_advancements - median(n_advancements)) |>
+        ungroup() |>
+        filter(std_index < 5 * diff(quantile(std_index, c(.25, .75)))) |>
+        mutate(player = factor(player, levels = highlighted)) |>
+        mutate(y = rnorm(n(), sd = 0.15))
+    
+    df_highlighted <- df |> filter(!is.na(player))
+    df_gray <- df |> filter(is.na(player))
+    df_names <- df |> group_by(player) |> summarise(x = mean(std_index))
+    
+    ggplot(mapping = aes(x = std_index, y = y, color = player)) +
+        geom_point(data = df_gray, size = 2, color = "gray", alpha = 0.5) +
+        geom_point(data = df_highlighted, size = 3) +
+        geom_text(data = df_names, aes(x = x, y = 0.7, label = player), family = "bold") +
+        scale_x_continuous(name = "", breaks = NULL) +
+        scale_y_continuous(name = "", breaks = NULL, limits = c(-1, +1)) +
+        scale_color_manual(values = c(scale_most[2], scale_most[5])) +
+        ggtitle(ps$advancement) +
+        theme_most() +
+        theme(
+            plot.title = element_text(family = "regular", hjust = 0.5), 
+            legend.position = "none",
+            plot.margin = margin(t = 10, l = 20, r = 20)
+        )
+}
+
+playstyle_plot_grid <- playstyles |>
+    head(4) |>
+    rowwise() |>
+    group_map(playstyle_plot) |>
+    cowplot::plot_grid(plotlist = _)
+
+plot(playstyle_plot_grid)
+save_png(playstyle_plot_grid, "plots/playstyle.png")
+
 # You Need a Mint
 # Enchanter
 # Best Friends Forever
@@ -67,10 +145,13 @@ save_png(latest_plot, "plots/latest_advancement.png")
 # Sniper Duel
 
 multimodal_adv <- c(
-    "You Need a Mint",
-    "Enchanter",
-    "Best Friends Forever",
-    "This Boat Has Legs"
+    # "You Need a Mint",
+    # "Enchanter",
+    # "Best Friends Forever",
+    "Stone Age",
+    "Diamonds!",
+    "Acquire Hardware",
+    "Oh Shiny"
 )
 
 multimodal_plot <- timelines |> 

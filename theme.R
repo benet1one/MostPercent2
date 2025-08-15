@@ -21,12 +21,13 @@ format_hms <- function(h = TRUE, s = TRUE) {
 }
 
 .format_hms <- function(x, h = TRUE, s = TRUE) {
-    x <- hms::as_hms(x) |> format()
-    if (!h)
-        x <- stringr::str_remove(x, "^\\d{2}\\:")
-    if (!s)
-        x <- stringr::str_remove(x, "\\:\\d{2}$")
-    return(x)
+    if (!h) {
+        m <- formatC(as.numeric(x) %/% 60, width = 2, flag = 0)
+        s <- formatC(as.numeric(x) %% 60, width = 2, flag = 0)
+        paste(m, s, sep = ":")
+    } else if (!s) {
+        hms::as_hms(x) |> format() |> stringr::str_remove(":\\d{2}$")
+    }
 }
 
 format_standings <- function(x) {

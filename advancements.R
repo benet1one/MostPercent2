@@ -64,7 +64,7 @@ common_advancements <- advancements |>
     _$advancement
 
 playstyles <- timelines |> 
-    mutate(player = factor(player)) |>
+    mutate(player = factor(player), standing = factor(standing)) |>
     filter(advancement %in% common_advancements) |>
     filter(!is.na(advancement)) |>
     group_by(match_id, advancement) |>
@@ -72,8 +72,10 @@ playstyles <- timelines |>
     group_by(advancement, player) |>
     filter(n() > 3) |>
     filter(std_index < 2 * diff(quantile(std_index, c(.25, .75)))) |>
-    mutate(player = droplevels(player)) |>
     group_by(advancement) |>
+    mutate(player = droplevels(player))
+
+player_playstyles <- playstyles |>
     group_modify(function(x, ...) {
         fit <- summary(lm(std_index ~ player + 0, data = x))
         t <- fit$coefficients[, "t value"]
@@ -92,8 +94,23 @@ playstyles <- timelines |>
     }) |>
     arrange(-r_squared)
 
+standing_playstyles <- playstyles |>
+    group_modify(function(x, ...) {
+        fit <- summary(lm(std_index ~ standing + 0, data = x))
+        t <- fit$coefficients[, "t value"]
+        p <- fit$coefficients[, "Pr(>|t|)"] |> p.adjust(method = "bonferroni")
+        r <- fit$r.squared
+        
+        tibble(
+            fit = list(fit),
+            t_values = list(t),
+            r_squared = r,
+        )
+    }) |>
+    arrange(-r_squared)
 
-playstyle_plot <- function(ps, ...) {
+
+player_playstyle_plot <- function(ps, ...) {
     highlighted <- c(ps$earliest, ps$latest)
     
     df <- timelines |>
@@ -125,10 +142,12 @@ playstyle_plot <- function(ps, ...) {
         )
 }
 
-playstyle_plot_grid <- playstyles |>
+set.seed(121393)
+
+playstyle_plot_grid <- player_playstyles |>
     head(4) |>
     rowwise() |>
-    group_map(playstyle_plot) |>
+    group_map(player_playstyle_plot) |>
     cowplot::plot_grid(plotlist = _)
 
 plot(playstyle_plot_grid)

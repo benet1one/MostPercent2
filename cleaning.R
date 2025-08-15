@@ -39,7 +39,6 @@ parse_timeline <- function(match, match_id) {
         mutate(time = hms::hms(time/1000)) |>
         arrange(time) |>
         
-        filter(!str_detect(type, ".root")) |>
         left_join(players, by = "uuid") |>
         left_join(advancements, by = join_by(type == advancement_id)) |>
         mutate(ranked_event = if_else(
